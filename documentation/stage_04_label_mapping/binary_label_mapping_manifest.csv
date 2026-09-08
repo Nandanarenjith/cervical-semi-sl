@@ -1,0 +1,15 @@
+source_dataset,original_label,binary_label,binary_name,rationale
+CRIC,Negative for intraepithelial lesion,0,Normal / non-pathological,CRIC Bethesda label explicitly denotes absence of intraepithelial lesion.
+CRIC,ASC-US,1,Abnormal / pathological,Atypical squamous cells of undetermined significance are included in the project's abnormal/pathological class.
+CRIC,ASC-H,1,Abnormal / pathological,Atypical squamous cells cannot exclude HSIL are included in the project's abnormal/pathological class.
+CRIC,LSIL,1,Abnormal / pathological,Low-grade squamous intraepithelial lesion is included in the project's abnormal/pathological class.
+CRIC,HSIL,1,Abnormal / pathological,High-grade squamous intraepithelial lesion is included in the project's abnormal/pathological class.
+CRIC,SCC,1,Abnormal / pathological,Squamous cell carcinoma is included in the project's abnormal/pathological class.
+RIVA,NILM,0,Normal / non-pathological,Official RIVA grouping classifies NILM as non-pathological/non-lesion.
+RIVA,ENDO,0,Normal / non-pathological,Official RIVA grouping classifies endocervical cells as non-pathological/non-lesion.
+RIVA,INFL,0,Normal / non-pathological,Official RIVA grouping classifies inflammatory cells/findings as non-pathological/non-lesion.
+RIVA,ASCUS,1,Abnormal / pathological,Official RIVA grouping classifies ASC-US as pathological.
+RIVA,ASCH,1,Abnormal / pathological,Official RIVA grouping classifies ASC-H as pathological.
+RIVA,LSIL,1,Abnormal / pathological,Official RIVA grouping classifies LSIL as pathological.
+RIVA,HSIL,1,Abnormal / pathological,Official RIVA grouping classifies HSIL as pathological.
+RIVA,SCC,1,Abnormal / pathological,Official RIVA grouping classifies SCC as pathological.

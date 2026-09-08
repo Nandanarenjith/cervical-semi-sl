@@ -1,0 +1,21 @@
+item,value
+stage,05
+stage_name,Learning Unit Standardization
+dataset,RIVA 1.0
+source_file,riva_official/Raw annotations and clustering/processed_annotations/processed.csv
+source_images,959
+learning_units,15949
+learning_unit,cell
+binary_task,Normal vs Abnormal
+class_0,Normal / Non-pathological
+class_0_labels,NILM; ENDO; INFL
+class_0_count,10517
+class_1,Abnormal / Pathological
+class_1_labels,ASCUS; ASCH; LSIL; HSIL; CA
+class_1_count,5432
+unmapped_labels,0
+official_clustering_used,yes
+original_labels_preserved,yes
+parent_image_retained,yes
+status,complete
+next_stage,Image/sample preparation

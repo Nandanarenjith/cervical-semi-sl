@@ -1,0 +1,23 @@
+item,value
+stage,06
+stage_name,Preprocessing
+crop_size,128x128
+image_format,RGB
+learning_unit,cell
+coordinate_representation,pixel
+CRIC_learning_units,11534
+CRIC_parent_images,400
+CRIC_valid_crops,11534
+CRIC_invalid_crops,0
+CRIC_padded_crops,885
+CRIC_binary_0,6779
+CRIC_binary_1,4755
+RIVA_learning_units,15949
+RIVA_parent_images,959
+RIVA_valid_crops,15949
+RIVA_invalid_crops,0
+RIVA_padded_crops,2650
+RIVA_binary_0,10517
+RIVA_binary_1,5432
+status,complete
+next_stage,Stage 07 - Data Splits

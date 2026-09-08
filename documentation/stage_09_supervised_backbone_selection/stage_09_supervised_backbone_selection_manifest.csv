@@ -1,0 +1,8 @@
+stage,substage,artifact,type,path,description,status
+09,09A,candidate_analysis_notebook,IPYNB,notebooks/phase9a.ipynb,Supervised backbone candidate architecture analysis,complete
+09,09A,candidate_analysis_report,MD,documentation/stage_09_supervised_backbone_selection/stage_09A_supervised_backbone_candidate_analysis_report.md,Candidate backbone analysis and selection criteria,complete
+09,09B,pilot_notebook,IPYNB,notebooks/phase9b.ipynb,Controlled empirical backbone pilot on CRIC,complete
+09,09B,pilot_results,CSV,data/results/phase9b/backbone_pilot_results.csv,Empirical validation and training-time results for six candidate backbones,complete
+09,09B,selection_record,JSON,data/results/phase9b/backbone_selection.json,Recorded DenseNet-121 backbone selection decision,complete
+09,09B,pilot_report,MD,documentation/stage_09_supervised_backbone_selection/stage_09B_supervised_backbone_pilot_report.md,Empirical pilot results and backbone selection justification,complete
+09,09,stage_status,validation,,Stage 09A and 09B completed; DenseNet-121 selected,complete

@@ -1,0 +1,2424 @@
+CRIC CERVIX FIGSHARE FILE LIST
+======================================================================
+
+Total articles: 401
+Total files: 403
+
+1. Article ID: 12233156
+   Article title: CRIC Cervix Classification
+   File name: classifications.csv
+   Size: 1224400 bytes
+   Download URL: https://ndownloader.figshare.com/files/22494383
+
+2. Article ID: 12233156
+   Article title: CRIC Cervix Classification
+   File name: classifications.json
+   Size: 1119666 bytes
+   Download URL: https://ndownloader.figshare.com/files/22494386
+
+3. Article ID: 12233156
+   Article title: CRIC Cervix Classification
+   File name: README.md
+   Size: 1253 bytes
+   Download URL: https://ndownloader.figshare.com/files/22494389
+
+4. Article ID: 12229511
+   Article title: CRIC Cervix Microscope Slide Image #1
+   File name: be340ee72689dfe3f8dc9c24de6127f4.png
+   Size: 2251002 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489895
+
+5. Article ID: 12229520
+   Article title: CRIC Cervix Microscope Slide Image #2
+   File name: 9d0f43b29d78f673e9caf77928b4af3c.png
+   Size: 2116312 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489907
+
+6. Article ID: 12229523
+   Article title: CRIC Cervix Microscope Slide Image #3
+   File name: 8b312497db839bbe14c41fb18badbc23.png
+   Size: 2358951 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489910
+
+7. Article ID: 12229526
+   Article title: CRIC Cervix Microscope Slide Image #4
+   File name: 4fb1ebbd1adb2da024ffe2394c1712c9.png
+   Size: 2116651 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489913
+
+8. Article ID: 12229529
+   Article title: CRIC Cervix Microscope Slide Image #5
+   File name: 5b7cc4b7d0373fab44cc5686ba477e0c.png
+   Size: 2366436 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489916
+
+9. Article ID: 12229532
+   Article title: CRIC Cervix Microscope Slide Image #6
+   File name: d1139b2167d9254c2e29edb485c1bda8.png
+   Size: 1756045 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489919
+
+10. Article ID: 12229538
+   Article title: CRIC Cervix Microscope Slide Image #7
+   File name: df075c7d02cc7729bd04b5996a3e8991.png
+   Size: 1420155 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489925
+
+11. Article ID: 12229541
+   Article title: CRIC Cervix Microscope Slide Image #8
+   File name: 1f8274db391ed2747c0c3a8560bf6d3a.png
+   Size: 2213537 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489928
+
+12. Article ID: 12229547
+   Article title: CRIC Cervix Microscope Slide Image #9
+   File name: 71abd3d9c8d0e5738c1db3328645fde8.png
+   Size: 1390340 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489931
+
+13. Article ID: 12229550
+   Article title: CRIC Cervix Microscope Slide Image #10
+   File name: fb100898ae793bb2475fd6d3ee92ef31.png
+   Size: 2367406 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489934
+
+14. Article ID: 12229553
+   Article title: CRIC Cervix Microscope Slide Image #11
+   File name: 90d08f57cdeb58238879b4af949d4f50.png
+   Size: 2330368 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489937
+
+15. Article ID: 12229556
+   Article title: CRIC Cervix Microscope Slide Image #12
+   File name: 1766e5c4a2a6034960b40bdd3c47c297.png
+   Size: 2247047 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489940
+
+16. Article ID: 12229559
+   Article title: CRIC Cervix Microscope Slide Image #13
+   File name: ac1ed15ddc7fb3d7e6a9c7521eeebe78.png
+   Size: 2293844 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489943
+
+17. Article ID: 12229562
+   Article title: CRIC Cervix Microscope Slide Image #14
+   File name: 746c084dbe0b987385df13ddbf4dd635.png
+   Size: 2136094 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489946
+
+18. Article ID: 12229565
+   Article title: CRIC Cervix Microscope Slide Image #15
+   File name: fe7dccb72ee17d6776970bdb5e5ba3ba.png
+   Size: 1995579 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489949
+
+19. Article ID: 12229568
+   Article title: CRIC Cervix Microscope Slide Image #16
+   File name: 42e7a4f3bd69279d8b1bc4ea8e248f08.png
+   Size: 2416922 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489955
+
+20. Article ID: 12229571
+   Article title: CRIC Cervix Microscope Slide Image #17
+   File name: 602e28f6537d6638bc4ccbe4cde5fab1.png
+   Size: 1809223 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489958
+
+21. Article ID: 12229577
+   Article title: CRIC Cervix Microscope Slide Image #18
+   File name: 3659bf68aeea760b319cd0710e3651fb.png
+   Size: 1969694 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489961
+
+22. Article ID: 12229580
+   Article title: CRIC Cervix Microscope Slide Image #19
+   File name: 8457af003b1ad48e907156b5e6e53bea.png
+   Size: 1934487 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489964
+
+23. Article ID: 12229583
+   Article title: CRIC Cervix Microscope Slide Image #20
+   File name: edc748c10f4cd73535452d54b0d7a1a6.png
+   Size: 1515494 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489967
+
+24. Article ID: 12229586
+   Article title: CRIC Cervix Microscope Slide Image #21
+   File name: faf0a263bf469832c7569a5ccbaa48c3.png
+   Size: 1973837 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489970
+
+25. Article ID: 12229589
+   Article title: CRIC Cervix Microscope Slide Image #22
+   File name: d67cd01defdc182ca48cee14e776f22c.png
+   Size: 2036918 bytes
+   Download URL: https://ndownloader.figshare.com/files/22489994
+
+26. Article ID: 12229592
+   Article title: CRIC Cervix Microscope Slide Image #23
+   File name: 77acea6065f24cef2351ef3bc2af43a1.png
+   Size: 2154913 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490018
+
+27. Article ID: 12229595
+   Article title: CRIC Cervix Microscope Slide Image #24
+   File name: e49e5d68eaf20468db941ac76632674f.png
+   Size: 1917183 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490039
+
+28. Article ID: 12229598
+   Article title: CRIC Cervix Microscope Slide Image #25
+   File name: f981c4aac622d7cce71a81305dd38ade.png
+   Size: 2101263 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490051
+
+29. Article ID: 12229601
+   Article title: CRIC Cervix Microscope Slide Image #26
+   File name: 584d79af21c45131e9af9d54d2c2b8e4.png
+   Size: 2008623 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490057
+
+30. Article ID: 12229604
+   Article title: CRIC Cervix Microscope Slide Image #27
+   File name: 36a2bc6bae69351df86a4a2fe4d49c2a.png
+   Size: 2005240 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490066
+
+31. Article ID: 12229607
+   Article title: CRIC Cervix Microscope Slide Image #28
+   File name: c5a3e789e449a8123509be5fd671b6b2.png
+   Size: 2057907 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490069
+
+32. Article ID: 12229610
+   Article title: CRIC Cervix Microscope Slide Image #29
+   File name: 92f442dda43d7250c63ba2823c96be42.png
+   Size: 2016912 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490072
+
+33. Article ID: 12229613
+   Article title: CRIC Cervix Microscope Slide Image #30
+   File name: 0489736e8d880b5188b04d11c3131cd3.png
+   Size: 1946920 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490075
+
+34. Article ID: 12229616
+   Article title: CRIC Cervix Microscope Slide Image #31
+   File name: 88e5e1814b1a2c4d30e28f8b98ba157c.png
+   Size: 2068609 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490078
+
+35. Article ID: 12229619
+   Article title: CRIC Cervix Microscope Slide Image #32
+   File name: ee78da0c06d978fec8d86a8d97182445.png
+   Size: 2059844 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490081
+
+36. Article ID: 12229622
+   Article title: CRIC Cervix Microscope Slide Image #33
+   File name: 07872ee58dea1007dd5d4afa5fb2556d.png
+   Size: 2058712 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490084
+
+37. Article ID: 12229625
+   Article title: CRIC Cervix Microscope Slide Image #34
+   File name: b6bf215df9cc83413a7c5a61c64361da.png
+   Size: 1775196 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490087
+
+38. Article ID: 12229628
+   Article title: CRIC Cervix Microscope Slide Image #35
+   File name: bf7767fb55e9b4e77ea458f825f06e65.png
+   Size: 2050388 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490096
+
+39. Article ID: 12229631
+   Article title: CRIC Cervix Microscope Slide Image #36
+   File name: 7f725f332e420bc3c96533e342802d4c.png
+   Size: 1796265 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490099
+
+40. Article ID: 12229634
+   Article title: CRIC Cervix Microscope Slide Image #37
+   File name: 9e3b55d7afdc1573cc15b347d053ec07.png
+   Size: 1786652 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490108
+
+41. Article ID: 12229640
+   Article title: CRIC Cervix Microscope Slide Image #38
+   File name: 466a61aa31579a2ffb3c561f5a5d37d0.png
+   Size: 2186238 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490120
+
+42. Article ID: 12229643
+   Article title: CRIC Cervix Microscope Slide Image #39
+   File name: dd569f426f91cc5d6a20804c800d6eb3.png
+   Size: 2207532 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490126
+
+43. Article ID: 12229646
+   Article title: CRIC Cervix Microscope Slide Image #40
+   File name: 544a28aab9a8a0b827a18423e82280b1.png
+   Size: 2007110 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490129
+
+44. Article ID: 12229649
+   Article title: CRIC Cervix Microscope Slide Image #41
+   File name: 33708abb81e40ff45d1510c44546e82f.png
+   Size: 2101160 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490132
+
+45. Article ID: 12229652
+   Article title: CRIC Cervix Microscope Slide Image #42
+   File name: 45c237e071148a104c2770fbca5e67a8.png
+   Size: 2073147 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490138
+
+46. Article ID: 12229655
+   Article title: CRIC Cervix Microscope Slide Image #43
+   File name: e4c629cd4647aa3e1a5bd66590118b44.png
+   Size: 2017007 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490141
+
+47. Article ID: 12229658
+   Article title: CRIC Cervix Microscope Slide Image #44
+   File name: 5ddea605aee431bb47d9580882733a87.png
+   Size: 2202059 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490144
+
+48. Article ID: 12229661
+   Article title: CRIC Cervix Microscope Slide Image #45
+   File name: e42d8978f7ff44cd74a646b97b1c2c1c.png
+   Size: 1985385 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490147
+
+49. Article ID: 12229664
+   Article title: CRIC Cervix Microscope Slide Image #46
+   File name: 2c0c4f9db92dc5b996c4e1b90aa2a0ec.png
+   Size: 1753048 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490153
+
+50. Article ID: 12229667
+   Article title: CRIC Cervix Microscope Slide Image #47
+   File name: 80f0bb35228273e50637a673be666337.png
+   Size: 2182456 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490162
+
+51. Article ID: 12229670
+   Article title: CRIC Cervix Microscope Slide Image #48
+   File name: c7c3f56a4d110b49099830b0f65251a3.png
+   Size: 1890996 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490171
+
+52. Article ID: 12229673
+   Article title: CRIC Cervix Microscope Slide Image #49
+   File name: 41766de1e13ae83bdad1f7b71a606340.png
+   Size: 1920540 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490177
+
+53. Article ID: 12229676
+   Article title: CRIC Cervix Microscope Slide Image #50
+   File name: 6904abb84d55c002c01e119d241b18d9.png
+   Size: 2098695 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490180
+
+54. Article ID: 12229679
+   Article title: CRIC Cervix Microscope Slide Image #51
+   File name: 1a7a2ec67cefb1f11748edd2573291a8.png
+   Size: 2378167 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490183
+
+55. Article ID: 12229682
+   Article title: CRIC Cervix Microscope Slide Image #52
+   File name: ed6b37f3f850247337f16501fe5fa7fd.png
+   Size: 2296793 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490186
+
+56. Article ID: 12229685
+   Article title: CRIC Cervix Microscope Slide Image #53
+   File name: d6e125d4b1ff838100937af08b912f0b.png
+   Size: 2166368 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490189
+
+57. Article ID: 12229688
+   Article title: CRIC Cervix Microscope Slide Image #54
+   File name: c505515711e6d4153bd59214d979c041.png
+   Size: 2271820 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490207
+
+58. Article ID: 12229691
+   Article title: CRIC Cervix Microscope Slide Image #55
+   File name: 61b751b4e6c2a79d0369b24683339be1.png
+   Size: 1689874 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490228
+
+59. Article ID: 12229694
+   Article title: CRIC Cervix Microscope Slide Image #56
+   File name: e5ea9cccfefaf9d788e1447821752285.png
+   Size: 2217622 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490249
+
+60. Article ID: 12229697
+   Article title: CRIC Cervix Microscope Slide Image #57
+   File name: 28508d4d8bb189cedd8d6c79b8d529c9.png
+   Size: 1519627 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490270
+
+61. Article ID: 12229700
+   Article title: CRIC Cervix Microscope Slide Image #58
+   File name: c7d215de538362b06b7ae3a0d70eb0e4.png
+   Size: 1352127 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490294
+
+62. Article ID: 12229703
+   Article title: CRIC Cervix Microscope Slide Image #59
+   File name: 5223912945e356e1d6de561ad62a946f.png
+   Size: 1783686 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490321
+
+63. Article ID: 12229706
+   Article title: CRIC Cervix Microscope Slide Image #60
+   File name: 05481195119c8cfb884bf1462b53b004.png
+   Size: 2053974 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490342
+
+64. Article ID: 12229709
+   Article title: CRIC Cervix Microscope Slide Image #61
+   File name: 610487e58f3868cabe7aac6b0d327a39.png
+   Size: 2093021 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490366
+
+65. Article ID: 12229712
+   Article title: CRIC Cervix Microscope Slide Image #62
+   File name: 83685961615806fbb89a8788aa117f05.png
+   Size: 2134074 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490390
+
+66. Article ID: 12229715
+   Article title: CRIC Cervix Microscope Slide Image #63
+   File name: 4e36cfad62c065237107d1a0fe1abd9b.png
+   Size: 2084207 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490417
+
+67. Article ID: 12229718
+   Article title: CRIC Cervix Microscope Slide Image #64
+   File name: 69a7526d382f793aaccd7dfe79dd2901.png
+   Size: 2244308 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490435
+
+68. Article ID: 12229721
+   Article title: CRIC Cervix Microscope Slide Image #65
+   File name: e4910c7beb3eab919a7e93d4bcc04241.png
+   Size: 2057297 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490438
+
+69. Article ID: 12229724
+   Article title: CRIC Cervix Microscope Slide Image #66
+   File name: 3831ee45ac7b7283b9becaa7116d8f33.png
+   Size: 2278830 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490441
+
+70. Article ID: 12229727
+   Article title: CRIC Cervix Microscope Slide Image #67
+   File name: ce433f891aafce35a31e058364a98194.png
+   Size: 2286231 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490444
+
+71. Article ID: 12229730
+   Article title: CRIC Cervix Microscope Slide Image #68
+   File name: f29860b096765cfacea56a44c4fd805d.png
+   Size: 2016112 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490447
+
+72. Article ID: 12229733
+   Article title: CRIC Cervix Microscope Slide Image #69
+   File name: eb47620da7f5e3594085fb3279b1904a.png
+   Size: 2338415 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490450
+
+73. Article ID: 12229736
+   Article title: CRIC Cervix Microscope Slide Image #70
+   File name: 5e5f9e511001c3ead65b7dc51897a1ba.png
+   Size: 2272354 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490453
+
+74. Article ID: 12229739
+   Article title: CRIC Cervix Microscope Slide Image #71
+   File name: c02c490c04b16068d3d7b0fad37c12e6.png
+   Size: 1905727 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490456
+
+75. Article ID: 12229742
+   Article title: CRIC Cervix Microscope Slide Image #72
+   File name: 424a7ee29385c53e950de973f411a30c.png
+   Size: 2229325 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490459
+
+76. Article ID: 12229745
+   Article title: CRIC Cervix Microscope Slide Image #73
+   File name: 19bdf3c429c892641865a1bd2b143fea.png
+   Size: 1938486 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490462
+
+77. Article ID: 12229748
+   Article title: CRIC Cervix Microscope Slide Image #74
+   File name: 62b10ef656ce919574d9479871af5aee.png
+   Size: 2414521 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490465
+
+78. Article ID: 12229751
+   Article title: CRIC Cervix Microscope Slide Image #75
+   File name: 458d0586e1dc5d723b54924fa1a75ab1.png
+   Size: 2276476 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490468
+
+79. Article ID: 12229757
+   Article title: CRIC Cervix Microscope Slide Image #76
+   File name: 5e0c3876e86a354de6847e17b71133a4.png
+   Size: 2112321 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490471
+
+80. Article ID: 12229760
+   Article title: CRIC Cervix Microscope Slide Image #77
+   File name: 28d57ea979962b5e05639ed582021cdd.png
+   Size: 2350853 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490474
+
+81. Article ID: 12229766
+   Article title: CRIC Cervix Microscope Slide Image #78
+   File name: 408929e7f250196167bf4418c08fd999.png
+   Size: 2325579 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490480
+
+82. Article ID: 12229769
+   Article title: CRIC Cervix Microscope Slide Image #79
+   File name: ec342d2fc5da33cd79e9c1e3c507778e.png
+   Size: 2264221 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490483
+
+83. Article ID: 12229772
+   Article title: CRIC Cervix Microscope Slide Image #80
+   File name: e131600fb2e2442a74a46722d621a1ff.png
+   Size: 1887166 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490486
+
+84. Article ID: 12229775
+   Article title: CRIC Cervix Microscope Slide Image #81
+   File name: 0f023f6ad3d33b33334016798995fe53.png
+   Size: 2254255 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490489
+
+85. Article ID: 12229778
+   Article title: CRIC Cervix Microscope Slide Image #82
+   File name: dd61f345bc7cdcbf3bb86d58eb0992b4.png
+   Size: 2208711 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490495
+
+86. Article ID: 12229781
+   Article title: CRIC Cervix Microscope Slide Image #83
+   File name: 27ce7facb22d6ed75c146a43d23e7dde.png
+   Size: 2169118 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490498
+
+87. Article ID: 12229784
+   Article title: CRIC Cervix Microscope Slide Image #84
+   File name: c7adf1972424f069b6355c500962722f.png
+   Size: 2576863 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490501
+
+88. Article ID: 12229787
+   Article title: CRIC Cervix Microscope Slide Image #85
+   File name: 6bb20c67c4013e8805d0f64315b9bcb1.png
+   Size: 2504052 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490504
+
+89. Article ID: 12229790
+   Article title: CRIC Cervix Microscope Slide Image #86
+   File name: de81ced6d8b99536da382f09b4290d70.png
+   Size: 2478469 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490510
+
+90. Article ID: 12229793
+   Article title: CRIC Cervix Microscope Slide Image #87
+   File name: aab4785d3320a7fd40e5ec45caf36b72.png
+   Size: 2544441 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490513
+
+91. Article ID: 12229796
+   Article title: CRIC Cervix Microscope Slide Image #88
+   File name: 6335a5572eb69c87a905e2086964b929.png
+   Size: 2508952 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490516
+
+92. Article ID: 12229799
+   Article title: CRIC Cervix Microscope Slide Image #89
+   File name: 4bdf1fe55c86e3fd82c022a744de5958.png
+   Size: 2513338 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490519
+
+93. Article ID: 12229802
+   Article title: CRIC Cervix Microscope Slide Image #90
+   File name: 81508bd550a84bbe5731b93048e54270.png
+   Size: 2344308 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490522
+
+94. Article ID: 12229808
+   Article title: CRIC Cervix Microscope Slide Image #91
+   File name: 18f547031e43fa4fa11c2ceb03d1aaaa.png
+   Size: 2538791 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490525
+
+95. Article ID: 12229811
+   Article title: CRIC Cervix Microscope Slide Image #92
+   File name: 66ac6258c1215e76435accb18ec68f08.png
+   Size: 2577163 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490531
+
+96. Article ID: 12229814
+   Article title: CRIC Cervix Microscope Slide Image #93
+   File name: 9b712bff27856e5b7a14e4bbf67a4abc.png
+   Size: 2558688 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490534
+
+97. Article ID: 12229817
+   Article title: CRIC Cervix Microscope Slide Image #94
+   File name: 02c7fb946ad5c5e5f9c1e1178c21fc92.png
+   Size: 2482597 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490537
+
+98. Article ID: 12229820
+   Article title: CRIC Cervix Microscope Slide Image #95
+   File name: 9b77f6a1b82859bc68b26fae965564fa.png
+   Size: 2586702 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490549
+
+99. Article ID: 12229844
+   Article title: CRIC Cervix Microscope Slide Image #96
+   File name: c9b3f954a9d1e35591818b6c493facb9.png
+   Size: 2558907 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490564
+
+100. Article ID: 12229847
+   Article title: CRIC Cervix Microscope Slide Image #97
+   File name: 299abd9ed2593fa2a0bcd9ba0c73a576.png
+   Size: 2538365 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490567
+
+101. Article ID: 12229850
+   Article title: CRIC Cervix Microscope Slide Image #98
+   File name: eb3f9b657f847098a227d3c826c6d19c.png
+   Size: 2329588 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490573
+
+102. Article ID: 12229856
+   Article title: CRIC Cervix Microscope Slide Image #99
+   File name: 81c4574751d0daa8c717d37e047ec234.png
+   Size: 2382011 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490576
+
+103. Article ID: 12229859
+   Article title: CRIC Cervix Microscope Slide Image #100
+   File name: ee5338ab73b4db0c88f9e9dc98aca68e.png
+   Size: 2382741 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490579
+
+104. Article ID: 12229865
+   Article title: CRIC Cervix Microscope Slide Image #101
+   File name: 688bb88091ed6d58563888211455a559.png
+   Size: 2521801 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490585
+
+105. Article ID: 12229871
+   Article title: CRIC Cervix Microscope Slide Image #102
+   File name: 023fcddb41b212f8ac3edde190d4ae5c.png
+   Size: 2139818 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490588
+
+106. Article ID: 12229874
+   Article title: CRIC Cervix Microscope Slide Image #103
+   File name: b0fddd5dbd774fcc23ddf897ee7bf26c.png
+   Size: 2090237 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490591
+
+107. Article ID: 12229877
+   Article title: CRIC Cervix Microscope Slide Image #104
+   File name: 3265df8f2ecb21f1688c33025e540df8.png
+   Size: 1659954 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490597
+
+108. Article ID: 12229883
+   Article title: CRIC Cervix Microscope Slide Image #105
+   File name: f12544c3bfc1959d2010d7ec4f41cc56.png
+   Size: 1865271 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490600
+
+109. Article ID: 12229886
+   Article title: CRIC Cervix Microscope Slide Image #106
+   File name: de74adc961e7cfaecd97f7e7e5e9a571.png
+   Size: 1753917 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490609
+
+110. Article ID: 12229889
+   Article title: CRIC Cervix Microscope Slide Image #107
+   File name: 2fcce94875a4487c35970f75ad569640.png
+   Size: 1885678 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490612
+
+111. Article ID: 12229892
+   Article title: CRIC Cervix Microscope Slide Image #108
+   File name: 5f5ca39f3cb7338eeaec5f00faa11447.png
+   Size: 2035796 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490615
+
+112. Article ID: 12229895
+   Article title: CRIC Cervix Microscope Slide Image #109
+   File name: 0b1732c713ea3f212e602c004fedeb65.png
+   Size: 2053913 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490618
+
+113. Article ID: 12229898
+   Article title: CRIC Cervix Microscope Slide Image #110
+   File name: 05332b67f94b5d1adbd8177bd8e1ff0b.png
+   Size: 1869857 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490621
+
+114. Article ID: 12229901
+   Article title: CRIC Cervix Microscope Slide Image #111
+   File name: e57d535d86c5898be4e897eaed05c8c6.png
+   Size: 2185574 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490624
+
+115. Article ID: 12229907
+   Article title: CRIC Cervix Microscope Slide Image #112
+   File name: 6bcb86179547a5f44a5622293f15d283.png
+   Size: 2130899 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490630
+
+116. Article ID: 12229910
+   Article title: CRIC Cervix Microscope Slide Image #113
+   File name: edc3ac951f31fca241b7f04d2c5daac5.png
+   Size: 1975585 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490633
+
+117. Article ID: 12229913
+   Article title: CRIC Cervix Microscope Slide Image #114
+   File name: 624930d9bfc4219ba1bdd73ea3fed13b.png
+   Size: 2110738 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490636
+
+118. Article ID: 12229916
+   Article title: CRIC Cervix Microscope Slide Image #115
+   File name: b885f6b8c2023a5b25c95fd0381f9892.png
+   Size: 1991917 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490639
+
+119. Article ID: 12229919
+   Article title: CRIC Cervix Microscope Slide Image #116
+   File name: ccfee7ab69cc4221156c47426b0e8ec8.png
+   Size: 2035662 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490642
+
+120. Article ID: 12229925
+   Article title: CRIC Cervix Microscope Slide Image #117
+   File name: 21b6561df430853f3831fd83389c109f.png
+   Size: 2036898 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490645
+
+121. Article ID: 12229928
+   Article title: CRIC Cervix Microscope Slide Image #118
+   File name: 886b686fa3d22bb870a6ba41e5d1b82d.png
+   Size: 1978040 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490648
+
+122. Article ID: 12229934
+   Article title: CRIC Cervix Microscope Slide Image #119
+   File name: ba49ee2fe18405a74c4daaef256365cc.png
+   Size: 1921922 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490654
+
+123. Article ID: 12229937
+   Article title: CRIC Cervix Microscope Slide Image #120
+   File name: 79bd0d0b44949450452bd745fd795a9a.png
+   Size: 1995592 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490666
+
+124. Article ID: 12229949
+   Article title: CRIC Cervix Microscope Slide Image #121
+   File name: 84c4b1e0a44ff6f6ce78e04f751518ed.png
+   Size: 1995966 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490672
+
+125. Article ID: 12229955
+   Article title: CRIC Cervix Microscope Slide Image #122
+   File name: a83df706a2f6abcc60ee209fc3cb9b64.png
+   Size: 1950695 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490678
+
+126. Article ID: 12229958
+   Article title: CRIC Cervix Microscope Slide Image #123
+   File name: e9743b8e738f3f0bd2a084cbf8dc1cab.png
+   Size: 2090367 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490681
+
+127. Article ID: 12229961
+   Article title: CRIC Cervix Microscope Slide Image #124
+   File name: d87688d665139adb1d9dec9f902fa4a9.png
+   Size: 2081223 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490684
+
+128. Article ID: 12229967
+   Article title: CRIC Cervix Microscope Slide Image #125
+   File name: c642b1c083b38d9b56724bc76867459e.png
+   Size: 2122283 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490690
+
+129. Article ID: 12229970
+   Article title: CRIC Cervix Microscope Slide Image #126
+   File name: fc7e39dda329976b5095eef082d6e998.png
+   Size: 2004980 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490693
+
+130. Article ID: 12229973
+   Article title: CRIC Cervix Microscope Slide Image #127
+   File name: c22f24fa5dc7c8d99c2d2ba5e293960c.png
+   Size: 2011122 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490696
+
+131. Article ID: 12229979
+   Article title: CRIC Cervix Microscope Slide Image #128
+   File name: cef1983c1bb8c0d9eb60efe03cfb3582.png
+   Size: 2002762 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490702
+
+132. Article ID: 12229982
+   Article title: CRIC Cervix Microscope Slide Image #129
+   File name: b8f6374bc7c780a8b4fd99498b05afbb.png
+   Size: 2186065 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490705
+
+133. Article ID: 12229985
+   Article title: CRIC Cervix Microscope Slide Image #130
+   File name: a42845987c650d7243ad0c08e97debf5.png
+   Size: 2141910 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490708
+
+134. Article ID: 12229988
+   Article title: CRIC Cervix Microscope Slide Image #131
+   File name: 7d9c47264d5ffa28fdb561d0be14bb90.png
+   Size: 1940798 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490711
+
+135. Article ID: 12229994
+   Article title: CRIC Cervix Microscope Slide Image #132
+   File name: 763240077e66777b2a196a6af78c9716.png
+   Size: 2045861 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490717
+
+136. Article ID: 12229997
+   Article title: CRIC Cervix Microscope Slide Image #133
+   File name: 4a34b60331799fdc99ccce2ac9531a9d.png
+   Size: 1922124 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490720
+
+137. Article ID: 12230003
+   Article title: CRIC Cervix Microscope Slide Image #134
+   File name: 8f99ed3b3a6ef71e354c099db23e7498.png
+   Size: 1818910 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490723
+
+138. Article ID: 12230006
+   Article title: CRIC Cervix Microscope Slide Image #135
+   File name: 8d62bc0267b58954ef9fa8e355d6ec22.png
+   Size: 1986071 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490726
+
+139. Article ID: 12230009
+   Article title: CRIC Cervix Microscope Slide Image #136
+   File name: 8cfdeaf76c0a48043406626f1a0b90a7.png
+   Size: 2074547 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490729
+
+140. Article ID: 12230012
+   Article title: CRIC Cervix Microscope Slide Image #137
+   File name: bcebe0cdee9c892e34e20a5bf3e96a20.png
+   Size: 1899004 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490732
+
+141. Article ID: 12230015
+   Article title: CRIC Cervix Microscope Slide Image #138
+   File name: c0d57801655afd0ab48ad3f1e4b43603.png
+   Size: 1971507 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490735
+
+142. Article ID: 12230021
+   Article title: CRIC Cervix Microscope Slide Image #139
+   File name: f015142693fefeb45ad5202b66404293.png
+   Size: 1873413 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490738
+
+143. Article ID: 12230027
+   Article title: CRIC Cervix Microscope Slide Image #140
+   File name: ae9ad0a0e62cb046468591ce92237bfc.png
+   Size: 2017530 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490744
+
+144. Article ID: 12230030
+   Article title: CRIC Cervix Microscope Slide Image #141
+   File name: 30c400872fcaf018f0605eeff12d0f51.png
+   Size: 1999196 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490747
+
+145. Article ID: 12230036
+   Article title: CRIC Cervix Microscope Slide Image #142
+   File name: c899c91db0a340602f35d125ec47fb74.png
+   Size: 1930840 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490750
+
+146. Article ID: 12230039
+   Article title: CRIC Cervix Microscope Slide Image #143
+   File name: c01b36e0a384197ca9a2e6bcd2c552e1.png
+   Size: 1960270 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490753
+
+147. Article ID: 12230042
+   Article title: CRIC Cervix Microscope Slide Image #144
+   File name: b8491225e9d46d5f48c33c310b7d2755.png
+   Size: 2033444 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490756
+
+148. Article ID: 12230045
+   Article title: CRIC Cervix Microscope Slide Image #145
+   File name: 7a43cea47c58c87e989e37ba67714b53.png
+   Size: 1980584 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490759
+
+149. Article ID: 12230048
+   Article title: CRIC Cervix Microscope Slide Image #146
+   File name: 055cde67bf7565df83f914b053ab86eb.png
+   Size: 1928176 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490762
+
+150. Article ID: 12230051
+   Article title: CRIC Cervix Microscope Slide Image #147
+   File name: 7cadcc842e5559cd14a3cd1143dd8db0.png
+   Size: 2097364 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490765
+
+151. Article ID: 12230054
+   Article title: CRIC Cervix Microscope Slide Image #148
+   File name: ec14a8dad00ce2aa24bae8dd2683077b.png
+   Size: 2165047 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490768
+
+152. Article ID: 12230057
+   Article title: CRIC Cervix Microscope Slide Image #149
+   File name: 4dbb52e87bc98d0d5a10cc0dc05fdc3f.png
+   Size: 2132670 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490771
+
+153. Article ID: 12230060
+   Article title: CRIC Cervix Microscope Slide Image #150
+   File name: c41261e68aabdf7ff5d4bc90c2efd8f3.png
+   Size: 1930005 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490774
+
+154. Article ID: 12230063
+   Article title: CRIC Cervix Microscope Slide Image #151
+   File name: 8042f9c026bca2cf1761489102ea284f.png
+   Size: 1833138 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490777
+
+155. Article ID: 12230066
+   Article title: CRIC Cervix Microscope Slide Image #152
+   File name: 3ae2fc6e5e6530f3291e21a8937c71b3.png
+   Size: 1863051 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490780
+
+156. Article ID: 12230069
+   Article title: CRIC Cervix Microscope Slide Image #153
+   File name: acd5b382631b7f7b22d5be5b42ebac05.png
+   Size: 1954677 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490783
+
+157. Article ID: 12230072
+   Article title: CRIC Cervix Microscope Slide Image #154
+   File name: 49c8feec9afcd85f1f9b16908c34bdca.png
+   Size: 1922576 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490786
+
+158. Article ID: 12230075
+   Article title: CRIC Cervix Microscope Slide Image #155
+   File name: 37264b18b1096a6515b8ce006c6568ee.png
+   Size: 2035216 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490789
+
+159. Article ID: 12230078
+   Article title: CRIC Cervix Microscope Slide Image #156
+   File name: 66c20a252497fd16ec17a40b5dbc05f6.png
+   Size: 1645444 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490792
+
+160. Article ID: 12230081
+   Article title: CRIC Cervix Microscope Slide Image #157
+   File name: 6df65e12916327e0c88c75191451a3f7.png
+   Size: 1968411 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490795
+
+161. Article ID: 12230084
+   Article title: CRIC Cervix Microscope Slide Image #158
+   File name: b5cde4d2a21fb2e2d70db49b1db1df50.png
+   Size: 1713935 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490798
+
+162. Article ID: 12230087
+   Article title: CRIC Cervix Microscope Slide Image #159
+   File name: c5a677e9d495b6c0419df420f65c5a26.png
+   Size: 1417231 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490801
+
+163. Article ID: 12230090
+   Article title: CRIC Cervix Microscope Slide Image #160
+   File name: fbb86fcc0948f02be36a1348d1046688.png
+   Size: 2000233 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490804
+
+164. Article ID: 12230093
+   Article title: CRIC Cervix Microscope Slide Image #161
+   File name: e8795423a9b8dadabdfaac3547c17abe.png
+   Size: 1352655 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490807
+
+165. Article ID: 12230096
+   Article title: CRIC Cervix Microscope Slide Image #162
+   File name: 5633910bdb41ea5626f7b60a8ef80af0.png
+   Size: 1686253 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490810
+
+166. Article ID: 12230099
+   Article title: CRIC Cervix Microscope Slide Image #163
+   File name: 1c900ddde4d55e63c0d06c4854b29f89.png
+   Size: 1564856 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490813
+
+167. Article ID: 12230102
+   Article title: CRIC Cervix Microscope Slide Image #164
+   File name: 0a2a5a681410054941cc56f51eb8fbda.png
+   Size: 1388000 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490816
+
+168. Article ID: 12230105
+   Article title: CRIC Cervix Microscope Slide Image #165
+   File name: 7c09a4a52e0cb6ffc6a10044dd321123.png
+   Size: 1466743 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490819
+
+169. Article ID: 12230108
+   Article title: CRIC Cervix Microscope Slide Image #166
+   File name: eeabc7b91c5ab80afd2907f4111c6376.png
+   Size: 1729335 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490825
+
+170. Article ID: 12230111
+   Article title: CRIC Cervix Microscope Slide Image #167
+   File name: b1f43c3a74ea03d4df18696b710a3fc4.png
+   Size: 1921541 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490831
+
+171. Article ID: 12230114
+   Article title: CRIC Cervix Microscope Slide Image #168
+   File name: c99bb99a4e4ab6bbabceeea1bd229447.png
+   Size: 2058976 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490834
+
+172. Article ID: 12230117
+   Article title: CRIC Cervix Microscope Slide Image #169
+   File name: 21b10fc9c3e06aaea9b934a68b29d832.png
+   Size: 1755387 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490837
+
+173. Article ID: 12230120
+   Article title: CRIC Cervix Microscope Slide Image #170
+   File name: c3342e85b3c771fadb1e7365b6eff252.png
+   Size: 1257057 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490840
+
+174. Article ID: 12230123
+   Article title: CRIC Cervix Microscope Slide Image #171
+   File name: cb206130cf379df998fa4fd995411ea7.png
+   Size: 1996055 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490843
+
+175. Article ID: 12230126
+   Article title: CRIC Cervix Microscope Slide Image #172
+   File name: bdb0651112686ecfdb9db5b4d2e1d0e7.png
+   Size: 1893074 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490846
+
+176. Article ID: 12230129
+   Article title: CRIC Cervix Microscope Slide Image #173
+   File name: 4bae321eaa4fedb2a75bf5c53b14b4f4.png
+   Size: 2092841 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490849
+
+177. Article ID: 12230138
+   Article title: CRIC Cervix Microscope Slide Image #174
+   File name: 4b474d44ad6dd5b66d25d339db5fe138.png
+   Size: 2111373 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490855
+
+178. Article ID: 12230141
+   Article title: CRIC Cervix Microscope Slide Image #175
+   File name: c489085d5447252cf12c696ae302af23.png
+   Size: 1253543 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490861
+
+179. Article ID: 12230144
+   Article title: CRIC Cervix Microscope Slide Image #176
+   File name: 5613e617f960b8414dbec5aa38647f96.png
+   Size: 2035718 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490864
+
+180. Article ID: 12230147
+   Article title: CRIC Cervix Microscope Slide Image #177
+   File name: 96d54337d5489e81ce6ad5508d7a5434.png
+   Size: 2116270 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490867
+
+181. Article ID: 12230150
+   Article title: CRIC Cervix Microscope Slide Image #178
+   File name: 008df697b9283d9ad4774096584d2efb.png
+   Size: 1703149 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490870
+
+182. Article ID: 12230156
+   Article title: CRIC Cervix Microscope Slide Image #179
+   File name: b8df9a1c242fc6f825df3d16a1de8588.png
+   Size: 1889804 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490873
+
+183. Article ID: 12230159
+   Article title: CRIC Cervix Microscope Slide Image #180
+   File name: f5bd2f7c1dea1ebb6ab3aeb72834b282.png
+   Size: 2288210 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490876
+
+184. Article ID: 12230162
+   Article title: CRIC Cervix Microscope Slide Image #181
+   File name: ad4c619f92f722c47fed0bed95045fcd.png
+   Size: 2328428 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490879
+
+185. Article ID: 12230165
+   Article title: CRIC Cervix Microscope Slide Image #182
+   File name: c63289c59bca91f80b2dde9ac013cc57.png
+   Size: 2602225 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490882
+
+186. Article ID: 12230168
+   Article title: CRIC Cervix Microscope Slide Image #183
+   File name: d44546808b8c6976fbc7946f370562c4.png
+   Size: 2256318 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490885
+
+187. Article ID: 12230171
+   Article title: CRIC Cervix Microscope Slide Image #184
+   File name: 1a57775542328ddeda39a1aaacebfef0.png
+   Size: 2337993 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490891
+
+188. Article ID: 12230174
+   Article title: CRIC Cervix Microscope Slide Image #185
+   File name: c02a44c85b736dce9991d38c3f5fdd14.png
+   Size: 2053989 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490894
+
+189. Article ID: 12230177
+   Article title: CRIC Cervix Microscope Slide Image #186
+   File name: 09ddefdfc9ca8df4da326825425336d3.png
+   Size: 2131845 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490897
+
+190. Article ID: 12230180
+   Article title: CRIC Cervix Microscope Slide Image #187
+   File name: 8f4f6c8c7589b41794bb248571026f1f.png
+   Size: 2118612 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490900
+
+191. Article ID: 12230183
+   Article title: CRIC Cervix Microscope Slide Image #188
+   File name: 430addb0dc6daf0e6271fb6efe1a9777.png
+   Size: 1694695 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490903
+
+192. Article ID: 12230186
+   Article title: CRIC Cervix Microscope Slide Image #189
+   File name: 03f5d5ec88161b9365bea549d7ce92cd.png
+   Size: 2042877 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490906
+
+193. Article ID: 12230189
+   Article title: CRIC Cervix Microscope Slide Image #190
+   File name: e6b13ffc7b9ba7170133da814ce6aa51.png
+   Size: 2156151 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490909
+
+194. Article ID: 12230192
+   Article title: CRIC Cervix Microscope Slide Image #191
+   File name: e40cc4bedbe9837b12f9343953b391ef.png
+   Size: 1967554 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490912
+
+195. Article ID: 12230195
+   Article title: CRIC Cervix Microscope Slide Image #192
+   File name: 5c7feaaf66d0981fe28378fbab186509.png
+   Size: 2182298 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490915
+
+196. Article ID: 12230198
+   Article title: CRIC Cervix Microscope Slide Image #193
+   File name: c0dad84e596a1fd11720827eda489983.png
+   Size: 2286353 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490918
+
+197. Article ID: 12230201
+   Article title: CRIC Cervix Microscope Slide Image #194
+   File name: 040722a73af21747a3b66a8d69a235d0.png
+   Size: 2179306 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490921
+
+198. Article ID: 12230204
+   Article title: CRIC Cervix Microscope Slide Image #195
+   File name: a7b7d4eb6367ad432a806b5662ff44e0.png
+   Size: 2112534 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490924
+
+199. Article ID: 12230207
+   Article title: CRIC Cervix Microscope Slide Image #196
+   File name: afc49f54ae8294f041c7998bd02d5a8f.png
+   Size: 2280237 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490930
+
+200. Article ID: 12230213
+   Article title: CRIC Cervix Microscope Slide Image #197
+   File name: 7275dd2f91a0dbb6e49b28da3f456c57.png
+   Size: 1654124 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490939
+
+201. Article ID: 12230216
+   Article title: CRIC Cervix Microscope Slide Image #198
+   File name: 51219b4ad46ba947174b808fcee65478.png
+   Size: 1788367 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490942
+
+202. Article ID: 12230219
+   Article title: CRIC Cervix Microscope Slide Image #199
+   File name: 5ebaeeae59a5bc5ca0d79d99cb4dcac1.png
+   Size: 2043778 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490945
+
+203. Article ID: 12230222
+   Article title: CRIC Cervix Microscope Slide Image #200
+   File name: 8dc7e2c87515b5dd4261c2ef24e86b59.png
+   Size: 1622972 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490948
+
+204. Article ID: 12230225
+   Article title: CRIC Cervix Microscope Slide Image #201
+   File name: a9ceb5e547fed2f7d052cdc794cb1330.png
+   Size: 1916462 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490951
+
+205. Article ID: 12230228
+   Article title: CRIC Cervix Microscope Slide Image #202
+   File name: 3f273237f9068624e14886afde134e09.png
+   Size: 1761353 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490954
+
+206. Article ID: 12230231
+   Article title: CRIC Cervix Microscope Slide Image #203
+   File name: dada70571c7ddf32b8bbbf448a6880a4.png
+   Size: 1300153 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490957
+
+207. Article ID: 12230234
+   Article title: CRIC Cervix Microscope Slide Image #204
+   File name: ac988fe10c5e2b605b2c7e48f2af8701.png
+   Size: 1996456 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490960
+
+208. Article ID: 12230240
+   Article title: CRIC Cervix Microscope Slide Image #205
+   File name: 33915ae53ce2cffb30485ad683a8c64e.png
+   Size: 1851297 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490963
+
+209. Article ID: 12230243
+   Article title: CRIC Cervix Microscope Slide Image #206
+   File name: a9a16f442db25098459cc72d4e816c2d.png
+   Size: 2293025 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490966
+
+210. Article ID: 12230246
+   Article title: CRIC Cervix Microscope Slide Image #207
+   File name: cafba392717cd7b7077f8aec6d99296c.png
+   Size: 1676009 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490969
+
+211. Article ID: 12230249
+   Article title: CRIC Cervix Microscope Slide Image #208
+   File name: 9c42ed347e00dc159b9fb767b52de139.png
+   Size: 2085251 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490972
+
+212. Article ID: 12230252
+   Article title: CRIC Cervix Microscope Slide Image #209
+   File name: 3c6531547003951472ce20fa1de720fc.png
+   Size: 2370990 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490975
+
+213. Article ID: 12230255
+   Article title: CRIC Cervix Microscope Slide Image #210
+   File name: b3b5a33dee9c880c1abb235a50a5cd81.png
+   Size: 2236945 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490981
+
+214. Article ID: 12230258
+   Article title: CRIC Cervix Microscope Slide Image #211
+   File name: 75ae516a4fba3943054907d8f738aa73.png
+   Size: 2197014 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490984
+
+215. Article ID: 12230261
+   Article title: CRIC Cervix Microscope Slide Image #212
+   File name: 6e20d6ec569513933f5768d5424b7e86.png
+   Size: 2246810 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490987
+
+216. Article ID: 12230264
+   Article title: CRIC Cervix Microscope Slide Image #213
+   File name: 0c52e27c5383dd946fffdf0253f96067.png
+   Size: 2307077 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490990
+
+217. Article ID: 12230267
+   Article title: CRIC Cervix Microscope Slide Image #214
+   File name: 85b6a7b08f5f5820a20b582046a7d7a9.png
+   Size: 2254709 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490993
+
+218. Article ID: 12230270
+   Article title: CRIC Cervix Microscope Slide Image #215
+   File name: 3b73689cbb3b2a04a1a713230459f7e5.png
+   Size: 1725291 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490996
+
+219. Article ID: 12230273
+   Article title: CRIC Cervix Microscope Slide Image #216
+   File name: 011fda505d7e4af4b8cc57545343624d.png
+   Size: 2340380 bytes
+   Download URL: https://ndownloader.figshare.com/files/22490999
+
+220. Article ID: 12230276
+   Article title: CRIC Cervix Microscope Slide Image #217
+   File name: 5a65081dd9202379699a7518fd51a9a5.png
+   Size: 2374579 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491002
+
+221. Article ID: 12230279
+   Article title: CRIC Cervix Microscope Slide Image #218
+   File name: 7756dcc0d11e89797a0a2f25e99d3b07.png
+   Size: 2295633 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491005
+
+222. Article ID: 12230282
+   Article title: CRIC Cervix Microscope Slide Image #219
+   File name: a478295afdbbbc6ca8d08b3a435a4528.png
+   Size: 2125199 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491008
+
+223. Article ID: 12230288
+   Article title: CRIC Cervix Microscope Slide Image #220
+   File name: 5b3e7408f7ab2a8bce36cfda5a1e121b.png
+   Size: 2469963 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491011
+
+224. Article ID: 12230291
+   Article title: CRIC Cervix Microscope Slide Image #221
+   File name: 2fd118764c0afa9a4e1ccbe9bd8210a5.png
+   Size: 2426848 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491014
+
+225. Article ID: 12230297
+   Article title: CRIC Cervix Microscope Slide Image #222
+   File name: ed10d2a300c0f99915a467afc514c5cf.png
+   Size: 2215144 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491020
+
+226. Article ID: 12230306
+   Article title: CRIC Cervix Microscope Slide Image #223
+   File name: b75d053b22d2ed9d019608c8508676b6.png
+   Size: 1495053 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491029
+
+227. Article ID: 12230309
+   Article title: CRIC Cervix Microscope Slide Image #224
+   File name: f996f3195bdb1c5ed08d97272ae16e62.png
+   Size: 2129780 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491032
+
+228. Article ID: 12230312
+   Article title: CRIC Cervix Microscope Slide Image #225
+   File name: fcc9c7e2fc1a0f4d30fa745308d15194.png
+   Size: 2285123 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491035
+
+229. Article ID: 12230315
+   Article title: CRIC Cervix Microscope Slide Image #226
+   File name: 199ea9d75d6266bcc1be87995de6a70a.png
+   Size: 2070317 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491038
+
+230. Article ID: 12230318
+   Article title: CRIC Cervix Microscope Slide Image #227
+   File name: f261e4379ef4e11a13db19e54b698395.png
+   Size: 2093892 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491044
+
+231. Article ID: 12230324
+   Article title: CRIC Cervix Microscope Slide Image #228
+   File name: 7d96810eb097fe737df7fc9eb0a8b3ed.png
+   Size: 2418683 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491047
+
+232. Article ID: 12230327
+   Article title: CRIC Cervix Microscope Slide Image #229
+   File name: f6ed8a6797cceb43ed891679cd4434de.png
+   Size: 2053772 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491050
+
+233. Article ID: 12230330
+   Article title: CRIC Cervix Microscope Slide Image #230
+   File name: 6bf1d6248d10a7f358f28d39245bb8fe.png
+   Size: 1967825 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491053
+
+234. Article ID: 12230333
+   Article title: CRIC Cervix Microscope Slide Image #231
+   File name: dd245e5ad1da4d1d4b86786d2470d145.png
+   Size: 2126761 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491059
+
+235. Article ID: 12230339
+   Article title: CRIC Cervix Microscope Slide Image #232
+   File name: 75d04c5e7ddcdf002714f7ef57d4e418.png
+   Size: 2159999 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491062
+
+236. Article ID: 12230342
+   Article title: CRIC Cervix Microscope Slide Image #233
+   File name: 379c7ce231b0c43a3d9a964680573dce.png
+   Size: 2083567 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491068
+
+237. Article ID: 12230345
+   Article title: CRIC Cervix Microscope Slide Image #234
+   File name: eddca08930f139f44c5d22a48d9f2909.png
+   Size: 2198313 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491071
+
+238. Article ID: 12230348
+   Article title: CRIC Cervix Microscope Slide Image #235
+   File name: 38b630ac8a1f02f6a466824f6babaf0e.png
+   Size: 2436022 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491074
+
+239. Article ID: 12230354
+   Article title: CRIC Cervix Microscope Slide Image #236
+   File name: 221e5472253d8a712be2eb84079a6a72.png
+   Size: 2396869 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491080
+
+240. Article ID: 12230357
+   Article title: CRIC Cervix Microscope Slide Image #237
+   File name: 8e39307fc74e68a5f4a6ae66764331b4.png
+   Size: 2294430 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491083
+
+241. Article ID: 12230360
+   Article title: CRIC Cervix Microscope Slide Image #238
+   File name: 3f30a996dcac3c4845ba2e650fe874b5.png
+   Size: 2338661 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491086
+
+242. Article ID: 12230363
+   Article title: CRIC Cervix Microscope Slide Image #239
+   File name: f5cad8f1a038b616cb2ce4ca46183262.png
+   Size: 2130835 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491089
+
+243. Article ID: 12230366
+   Article title: CRIC Cervix Microscope Slide Image #240
+   File name: 9dc92f731aa43451aaccdaabbca220fa.png
+   Size: 2233630 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491092
+
+244. Article ID: 12230369
+   Article title: CRIC Cervix Microscope Slide Image #241
+   File name: ab81d6ae2c9e6ba88aa8d094019358cb.png
+   Size: 1381161 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491095
+
+245. Article ID: 12230372
+   Article title: CRIC Cervix Microscope Slide Image #242
+   File name: 36ec7e0332c9ab3aa1edb53fe8f6cba8.png
+   Size: 2469247 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491098
+
+246. Article ID: 12230375
+   Article title: CRIC Cervix Microscope Slide Image #243
+   File name: 431ffd642258bfa70558eb03afa9bc83.png
+   Size: 2440567 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491101
+
+247. Article ID: 12230378
+   Article title: CRIC Cervix Microscope Slide Image #244
+   File name: d718a645caa4281cefd7d6dc8f54e36b.png
+   Size: 2279840 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491104
+
+248. Article ID: 12230384
+   Article title: CRIC Cervix Microscope Slide Image #245
+   File name: fb8f92d163cb0370fa7fa8e7bbaa4edc.png
+   Size: 2177799 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491107
+
+249. Article ID: 12230387
+   Article title: CRIC Cervix Microscope Slide Image #246
+   File name: c4f51dd4f48d013f69b4c5e2adced54d.png
+   Size: 2280941 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491110
+
+250. Article ID: 12230390
+   Article title: CRIC Cervix Microscope Slide Image #247
+   File name: ebdd17c9dd496a1231cc29c081e78e80.png
+   Size: 2244434 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491113
+
+251. Article ID: 12230393
+   Article title: CRIC Cervix Microscope Slide Image #248
+   File name: a5ce47f6a10f543bf7fdac28b709d30d.png
+   Size: 2199648 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491116
+
+252. Article ID: 12230396
+   Article title: CRIC Cervix Microscope Slide Image #249
+   File name: bd7e1530680d11547db567150fa7c403.png
+   Size: 2359348 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491119
+
+253. Article ID: 12230402
+   Article title: CRIC Cervix Microscope Slide Image #250
+   File name: 539a88e6ce009eee5398bdbada60ff23.png
+   Size: 2324186 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491122
+
+254. Article ID: 12230405
+   Article title: CRIC Cervix Microscope Slide Image #251
+   File name: e457af606b15cffb99021a1018f1424f.png
+   Size: 2099694 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491125
+
+255. Article ID: 12230411
+   Article title: CRIC Cervix Microscope Slide Image #252
+   File name: da51093be0db6b3ccd477a6aeddc2261.png
+   Size: 2337622 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491131
+
+256. Article ID: 12230414
+   Article title: CRIC Cervix Microscope Slide Image #253
+   File name: 303399e0cd747a0646339f4e1f6c91a9.png
+   Size: 2064844 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491134
+
+257. Article ID: 12230417
+   Article title: CRIC Cervix Microscope Slide Image #254
+   File name: 855dda15d3be4156803b1fa32ed2a19b.png
+   Size: 2107455 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491137
+
+258. Article ID: 12230420
+   Article title: CRIC Cervix Microscope Slide Image #255
+   File name: 550a723278b6eb460f4cf76bd5dbaff0.png
+   Size: 2178169 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491140
+
+259. Article ID: 12230423
+   Article title: CRIC Cervix Microscope Slide Image #256
+   File name: 8932ac9bf855b72eef7390e7e486133e.png
+   Size: 2152534 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491143
+
+260. Article ID: 12230426
+   Article title: CRIC Cervix Microscope Slide Image #257
+   File name: 3b536324e212ad03ae37afcf97d0c760.png
+   Size: 2272568 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491146
+
+261. Article ID: 12230429
+   Article title: CRIC Cervix Microscope Slide Image #258
+   File name: a88f00847363c89e1960ade289b38612.png
+   Size: 2153106 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491149
+
+262. Article ID: 12230432
+   Article title: CRIC Cervix Microscope Slide Image #259
+   File name: a0e4c7e0f677cfcdb5614940266d221e.png
+   Size: 2309001 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491152
+
+263. Article ID: 12230438
+   Article title: CRIC Cervix Microscope Slide Image #260
+   File name: 9fc84cd39cefe6f1a7b54e92cd971210.png
+   Size: 2283624 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491158
+
+264. Article ID: 12230441
+   Article title: CRIC Cervix Microscope Slide Image #261
+   File name: 6a8631b14ebfd221bad8b5238cf7dd03.png
+   Size: 2066487 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491161
+
+265. Article ID: 12230444
+   Article title: CRIC Cervix Microscope Slide Image #262
+   File name: 425f92ac0896cfea0e4e674cd449ce23.png
+   Size: 2157025 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491164
+
+266. Article ID: 12230447
+   Article title: CRIC Cervix Microscope Slide Image #263
+   File name: 5901e3526774e5847970bb8203c7c711.png
+   Size: 2104857 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491167
+
+267. Article ID: 12230453
+   Article title: CRIC Cervix Microscope Slide Image #264
+   File name: 094367d4b4e508075c004d2e2f08c7ef.png
+   Size: 2614698 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491170
+
+268. Article ID: 12230456
+   Article title: CRIC Cervix Microscope Slide Image #265
+   File name: 02c6113a42960d9617990a3b291cf65d.png
+   Size: 2047487 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491173
+
+269. Article ID: 12230459
+   Article title: CRIC Cervix Microscope Slide Image #266
+   File name: 29bb0d0010f481423a9d4293ad1e67b2.png
+   Size: 1829476 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491176
+
+270. Article ID: 12230462
+   Article title: CRIC Cervix Microscope Slide Image #267
+   File name: f7b28bd33b541782b308e1a3ef84995a.png
+   Size: 1784976 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491179
+
+271. Article ID: 12230465
+   Article title: CRIC Cervix Microscope Slide Image #268
+   File name: 8725a834d8421b4f506987ce6402613a.png
+   Size: 1649735 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491182
+
+272. Article ID: 12230468
+   Article title: CRIC Cervix Microscope Slide Image #269
+   File name: 651555a374eacf3de392c98dbd85d44d.png
+   Size: 1966666 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491185
+
+273. Article ID: 12230471
+   Article title: CRIC Cervix Microscope Slide Image #270
+   File name: 29f484bfc17af22288d78f7187777fc6.png
+   Size: 1792874 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491188
+
+274. Article ID: 12230474
+   Article title: CRIC Cervix Microscope Slide Image #271
+   File name: 0d2057f820c3b157fd030fe3308f60dc.png
+   Size: 1647330 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491191
+
+275. Article ID: 12230477
+   Article title: CRIC Cervix Microscope Slide Image #272
+   File name: 17192f69185395519f65be5358d32c3f.png
+   Size: 2372563 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491194
+
+276. Article ID: 12230480
+   Article title: CRIC Cervix Microscope Slide Image #273
+   File name: 8c6d9eb30595ab305050c80d21aab128.png
+   Size: 2009298 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491197
+
+277. Article ID: 12230483
+   Article title: CRIC Cervix Microscope Slide Image #274
+   File name: a3cd8fc514a7a507198e186b5c58f9d2.png
+   Size: 1889235 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491200
+
+278. Article ID: 12230486
+   Article title: CRIC Cervix Microscope Slide Image #275
+   File name: 4929d79aaa3dcea4133f2a17cb7e10e0.png
+   Size: 2180351 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491203
+
+279. Article ID: 12230489
+   Article title: CRIC Cervix Microscope Slide Image #276
+   File name: 5d8297d46d5babc9aaba0652a2a5051f.png
+   Size: 1157342 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491206
+
+280. Article ID: 12230492
+   Article title: CRIC Cervix Microscope Slide Image #277
+   File name: 449a3b9bd9ad2cc080d8960bb3834968.png
+   Size: 2293858 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491209
+
+281. Article ID: 12230495
+   Article title: CRIC Cervix Microscope Slide Image #278
+   File name: b5236e7b9f5dc7783cce4dbb5fb1a082.png
+   Size: 2049495 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491212
+
+282. Article ID: 12230498
+   Article title: CRIC Cervix Microscope Slide Image #279
+   File name: 5dccd5619d4469ed4516cbbcb4c29944.png
+   Size: 1901883 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491215
+
+283. Article ID: 12230501
+   Article title: CRIC Cervix Microscope Slide Image #280
+   File name: 1e4460705ccdffafa78ceef35bf11ad2.png
+   Size: 2190906 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491218
+
+284. Article ID: 12230504
+   Article title: CRIC Cervix Microscope Slide Image #281
+   File name: 477a31e5481902c6624a3d0407be13bf.png
+   Size: 2113897 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491221
+
+285. Article ID: 12230507
+   Article title: CRIC Cervix Microscope Slide Image #282
+   File name: 04010e1dae8de0da7f038efd3a0a204a.png
+   Size: 2179951 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491224
+
+286. Article ID: 12230510
+   Article title: CRIC Cervix Microscope Slide Image #283
+   File name: 5966509346d31911ac8644a23e128f56.png
+   Size: 2129170 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491227
+
+287. Article ID: 12230513
+   Article title: CRIC Cervix Microscope Slide Image #284
+   File name: a57e3c97ad51375f4656963d6bd88f8d.png
+   Size: 2325239 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491230
+
+288. Article ID: 12230516
+   Article title: CRIC Cervix Microscope Slide Image #285
+   File name: 14ea41d8e885c165390da7e03f594d9d.png
+   Size: 2254629 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491233
+
+289. Article ID: 12230519
+   Article title: CRIC Cervix Microscope Slide Image #286
+   File name: 519e7eefd219097919196d38beb06136.png
+   Size: 1999059 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491236
+
+290. Article ID: 12230522
+   Article title: CRIC Cervix Microscope Slide Image #287
+   File name: 7ba4a45ed026e5a7c8571c46b53a81bb.png
+   Size: 2282910 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491239
+
+291. Article ID: 12230525
+   Article title: CRIC Cervix Microscope Slide Image #288
+   File name: 00b1e59ebc3e7be500ef7548207d44e2.png
+   Size: 2144123 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491242
+
+292. Article ID: 12230528
+   Article title: CRIC Cervix Microscope Slide Image #289
+   File name: 2cefdbf695da71852337ae3557ccdd38.png
+   Size: 2317546 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491245
+
+293. Article ID: 12230531
+   Article title: CRIC Cervix Microscope Slide Image #290
+   File name: f24560268564c05b0f400bed26cc74f6.png
+   Size: 2151196 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491248
+
+294. Article ID: 12230534
+   Article title: CRIC Cervix Microscope Slide Image #291
+   File name: a10c2955a9d8654bec42a0d21c8acb6c.png
+   Size: 2045583 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491251
+
+295. Article ID: 12230537
+   Article title: CRIC Cervix Microscope Slide Image #292
+   File name: 35323790c9bcae22c96ab32a2fc165b9.png
+   Size: 2381998 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491254
+
+296. Article ID: 12230540
+   Article title: CRIC Cervix Microscope Slide Image #293
+   File name: f195a1576fa4437e8f31f35959554eda.png
+   Size: 2328603 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491257
+
+297. Article ID: 12230543
+   Article title: CRIC Cervix Microscope Slide Image #294
+   File name: 4f8e654e9c41b941ef6ced7a6b833917.png
+   Size: 1945289 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491260
+
+298. Article ID: 12230546
+   Article title: CRIC Cervix Microscope Slide Image #295
+   File name: 18379ef3f64b0efa33ee42877fdd6947.png
+   Size: 2367730 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491263
+
+299. Article ID: 12230549
+   Article title: CRIC Cervix Microscope Slide Image #296
+   File name: ba64e833160b9da794e7aeb64207ba69.png
+   Size: 2112094 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491266
+
+300. Article ID: 12230552
+   Article title: CRIC Cervix Microscope Slide Image #297
+   File name: 7b04019e566ede8ebbbce0ffd3a7601e.png
+   Size: 2132205 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491269
+
+301. Article ID: 12230555
+   Article title: CRIC Cervix Microscope Slide Image #298
+   File name: d8e4b84f30c820328c07765d8f1f4c73.png
+   Size: 2095701 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491272
+
+302. Article ID: 12230558
+   Article title: CRIC Cervix Microscope Slide Image #299
+   File name: 1ee9fd65fccbf776a6170b4e4d034335.png
+   Size: 1897322 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491275
+
+303. Article ID: 12230561
+   Article title: CRIC Cervix Microscope Slide Image #300
+   File name: 19c7c2f6bb8dfb3143ab9f9be7dd3e9d.png
+   Size: 2363864 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491278
+
+304. Article ID: 12230564
+   Article title: CRIC Cervix Microscope Slide Image #301
+   File name: 272c49a7303c02c8c000fe0bc3a6dbbe.png
+   Size: 2210372 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491281
+
+305. Article ID: 12230567
+   Article title: CRIC Cervix Microscope Slide Image #302
+   File name: 555c3bddd4513160fb3681c88f4bcc87.png
+   Size: 2227337 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491284
+
+306. Article ID: 12230570
+   Article title: CRIC Cervix Microscope Slide Image #303
+   File name: 7c38ddce962298663b96ec38a7561b56.png
+   Size: 2349996 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491287
+
+307. Article ID: 12230573
+   Article title: CRIC Cervix Microscope Slide Image #304
+   File name: c5304cb4ceea0d7c9c64e26b6b3e804e.png
+   Size: 2090003 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491290
+
+308. Article ID: 12230576
+   Article title: CRIC Cervix Microscope Slide Image #305
+   File name: 30cef53c58d14524f9d49e24af9887fa.png
+   Size: 1556716 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491293
+
+309. Article ID: 12230579
+   Article title: CRIC Cervix Microscope Slide Image #306
+   File name: 8c21e0dc6b8fbeddfd6f9923b4b1054c.png
+   Size: 1978324 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491296
+
+310. Article ID: 12230582
+   Article title: CRIC Cervix Microscope Slide Image #307
+   File name: 532d83297919d817648393a46f6835db.png
+   Size: 2066615 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491299
+
+311. Article ID: 12230585
+   Article title: CRIC Cervix Microscope Slide Image #308
+   File name: aee74e3c1bcd82561303ee974d31c08f.png
+   Size: 2187340 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491302
+
+312. Article ID: 12230588
+   Article title: CRIC Cervix Microscope Slide Image #309
+   File name: d72288404d45ed33074fcfb77d099f2f.png
+   Size: 2399929 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491305
+
+313. Article ID: 12230591
+   Article title: CRIC Cervix Microscope Slide Image #310
+   File name: f4062608fdab5e483be224b0b807bfbb.png
+   Size: 2196804 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491308
+
+314. Article ID: 12230594
+   Article title: CRIC Cervix Microscope Slide Image #311
+   File name: 5b9327cfecd550d543d371d0c94b2bad.png
+   Size: 2326114 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491314
+
+315. Article ID: 12230597
+   Article title: CRIC Cervix Microscope Slide Image #312
+   File name: e195831951b7e556d3ca5f497ad4bc9c.png
+   Size: 2220186 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491317
+
+316. Article ID: 12230600
+   Article title: CRIC Cervix Microscope Slide Image #313
+   File name: c7f09970db9f10dbaf7e567234d1371a.png
+   Size: 2188846 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491320
+
+317. Article ID: 12230603
+   Article title: CRIC Cervix Microscope Slide Image #314
+   File name: debaf960d9af83738102e03ce40d4cc3.png
+   Size: 1982002 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491323
+
+318. Article ID: 12230606
+   Article title: CRIC Cervix Microscope Slide Image #315
+   File name: c1d551f467cac1389043740557caae1f.png
+   Size: 2160911 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491326
+
+319. Article ID: 12230609
+   Article title: CRIC Cervix Microscope Slide Image #316
+   File name: 9cb5c0144965b0274edc70210f100940.png
+   Size: 2323095 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491329
+
+320. Article ID: 12230612
+   Article title: CRIC Cervix Microscope Slide Image #317
+   File name: b4240350cfa007681725731c5eed73ac.png
+   Size: 2162541 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491332
+
+321. Article ID: 12230615
+   Article title: CRIC Cervix Microscope Slide Image #318
+   File name: a30fcaf343b17a21a7018e1ed1ec907e.png
+   Size: 2088200 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491335
+
+322. Article ID: 12230618
+   Article title: CRIC Cervix Microscope Slide Image #319
+   File name: 31a989e43eb0a9645509eb60e068aefc.png
+   Size: 2435262 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491338
+
+323. Article ID: 12230621
+   Article title: CRIC Cervix Microscope Slide Image #320
+   File name: 5921d98f5baacc86b3a1445540c858ee.png
+   Size: 2460690 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491341
+
+324. Article ID: 12230624
+   Article title: CRIC Cervix Microscope Slide Image #321
+   File name: abaafc46c2b0cecef1ddb0ba3202ae74.png
+   Size: 2484288 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491344
+
+325. Article ID: 12230627
+   Article title: CRIC Cervix Microscope Slide Image #322
+   File name: d40792e661b40a04ccf56f5e992c5d0c.png
+   Size: 1917665 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491347
+
+326. Article ID: 12230633
+   Article title: CRIC Cervix Microscope Slide Image #323
+   File name: 502a16718f0316c85196c0e491f37fd3.png
+   Size: 2403732 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491365
+
+327. Article ID: 12230636
+   Article title: CRIC Cervix Microscope Slide Image #324
+   File name: aa57acbb927273704ae48cf748a79351.png
+   Size: 2392533 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491368
+
+328. Article ID: 12230639
+   Article title: CRIC Cervix Microscope Slide Image #325
+   File name: ea0a94ccb2d1cee563d9d1f88309967e.png
+   Size: 1952435 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491371
+
+329. Article ID: 12230642
+   Article title: CRIC Cervix Microscope Slide Image #326
+   File name: f0f7dd54c926f100051df6361d0fbeac.png
+   Size: 958287 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491374
+
+330. Article ID: 12230645
+   Article title: CRIC Cervix Microscope Slide Image #327
+   File name: 491840cea6a38ba8af9779a0ec319f4e.png
+   Size: 2164851 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491377
+
+331. Article ID: 12230648
+   Article title: CRIC Cervix Microscope Slide Image #328
+   File name: 4372f7114534a5e0b688673c15a43fa9.png
+   Size: 2207108 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491380
+
+332. Article ID: 12230651
+   Article title: CRIC Cervix Microscope Slide Image #329
+   File name: 40387ef8bd22eb5167427ca9a25bc65a.png
+   Size: 2056125 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491383
+
+333. Article ID: 12230654
+   Article title: CRIC Cervix Microscope Slide Image #330
+   File name: 3731e3064f5b3dfaf2df337f4b481c78.png
+   Size: 2162798 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491386
+
+334. Article ID: 12230657
+   Article title: CRIC Cervix Microscope Slide Image #331
+   File name: 9a847d90855db08e9dbd0b040689c3cb.png
+   Size: 2078472 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491389
+
+335. Article ID: 12230660
+   Article title: CRIC Cervix Microscope Slide Image #332
+   File name: fb5e83755f682922aee859fd52013c36.png
+   Size: 1754987 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491392
+
+336. Article ID: 12230663
+   Article title: CRIC Cervix Microscope Slide Image #333
+   File name: a26e4ca310cc5150b95c849657f6d0d9.png
+   Size: 2289839 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491395
+
+337. Article ID: 12230666
+   Article title: CRIC Cervix Microscope Slide Image #334
+   File name: 515abacf9c89f439f90e7d34b406f581.png
+   Size: 2252599 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491398
+
+338. Article ID: 12230672
+   Article title: CRIC Cervix Microscope Slide Image #335
+   File name: 239fed60a9c2ffa1abce3e958b69f317.png
+   Size: 1948519 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491404
+
+339. Article ID: 12230675
+   Article title: CRIC Cervix Microscope Slide Image #336
+   File name: 862dd6f5e10f4b0622898c8c5ba7f3a3.png
+   Size: 2242073 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491407
+
+340. Article ID: 12230678
+   Article title: CRIC Cervix Microscope Slide Image #337
+   File name: 16032768fe56bbb933730762d726d263.png
+   Size: 2234132 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491410
+
+341. Article ID: 12230681
+   Article title: CRIC Cervix Microscope Slide Image #338
+   File name: f7f0f05e4ea3c356b520371057e646b9.png
+   Size: 2398712 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491413
+
+342. Article ID: 12230687
+   Article title: CRIC Cervix Microscope Slide Image #339
+   File name: 9073bf65a95626d36c392876535fbd34.png
+   Size: 2451634 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491419
+
+343. Article ID: 12230690
+   Article title: CRIC Cervix Microscope Slide Image #340
+   File name: 987a233d03cd94cd14e42ac9a2a5ab62.png
+   Size: 2162801 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491422
+
+344. Article ID: 12230693
+   Article title: CRIC Cervix Microscope Slide Image #341
+   File name: 7da6d1898a00a92ef361c07b5a304ac2.png
+   Size: 2148436 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491425
+
+345. Article ID: 12230696
+   Article title: CRIC Cervix Microscope Slide Image #342
+   File name: 12c15166cc92ff5c3ef75f735704365e.png
+   Size: 2102150 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491428
+
+346. Article ID: 12230699
+   Article title: CRIC Cervix Microscope Slide Image #343
+   File name: b31ae3b8ec79bc3999e4165ca22ad373.png
+   Size: 2087781 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491431
+
+347. Article ID: 12230702
+   Article title: CRIC Cervix Microscope Slide Image #344
+   File name: dbb1bf3a7bced124e9f9012a950eb06b.png
+   Size: 1961691 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491434
+
+348. Article ID: 12230705
+   Article title: CRIC Cervix Microscope Slide Image #345
+   File name: 2abb345da4a749001db486464032e6ab.png
+   Size: 1972936 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491437
+
+349. Article ID: 12230708
+   Article title: CRIC Cervix Microscope Slide Image #346
+   File name: aff2bee962c634294622f44a16b4f968.png
+   Size: 2210084 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491443
+
+350. Article ID: 12230711
+   Article title: CRIC Cervix Microscope Slide Image #347
+   File name: 2810965a78043a20fc999bfddec80b90.png
+   Size: 2086939 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491446
+
+351. Article ID: 12230717
+   Article title: CRIC Cervix Microscope Slide Image #348
+   File name: eb88a78cefd39ef4f57be86f7d6c55b6.png
+   Size: 2343177 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491452
+
+352. Article ID: 12230720
+   Article title: CRIC Cervix Microscope Slide Image #349
+   File name: 0c2a10baed0650fa1f7bb87e5d83a545.png
+   Size: 2454531 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491455
+
+353. Article ID: 12230723
+   Article title: CRIC Cervix Microscope Slide Image #350
+   File name: 94510a321f43fadd424e96343d6cab76.png
+   Size: 2533557 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491458
+
+354. Article ID: 12230726
+   Article title: CRIC Cervix Microscope Slide Image #351
+   File name: 941ca821697b81353df26f6e422cbfdd.png
+   Size: 2486761 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491461
+
+355. Article ID: 12230729
+   Article title: CRIC Cervix Microscope Slide Image #352
+   File name: 060d7d018977ad7cca7643f2deb6f3e8.png
+   Size: 2546521 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491464
+
+356. Article ID: 12230732
+   Article title: CRIC Cervix Microscope Slide Image #353
+   File name: 151e9e19a4a8a347e2eeb00ad52a210f.png
+   Size: 2517986 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491467
+
+357. Article ID: 12230735
+   Article title: CRIC Cervix Microscope Slide Image #354
+   File name: fdcdaeed25a84e2966eda7ba86bdbcf6.png
+   Size: 2384081 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491470
+
+358. Article ID: 12230738
+   Article title: CRIC Cervix Microscope Slide Image #355
+   File name: efb31641309ac289f6c7d7259fe95ecb.png
+   Size: 2548080 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491473
+
+359. Article ID: 12230741
+   Article title: CRIC Cervix Microscope Slide Image #356
+   File name: ceff389b4171940ab84ba46c42fbeb72.png
+   Size: 2345933 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491476
+
+360. Article ID: 12230744
+   Article title: CRIC Cervix Microscope Slide Image #357
+   File name: 8c202a2617293100cafc0ee30c52bd7e.png
+   Size: 2377393 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491479
+
+361. Article ID: 12230747
+   Article title: CRIC Cervix Microscope Slide Image #358
+   File name: e0c93ad46ad5dac7832427c1eb191c9e.png
+   Size: 2393310 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491482
+
+362. Article ID: 12230750
+   Article title: CRIC Cervix Microscope Slide Image #359
+   File name: ce95aaf77e8e7bcd44e4d1f731dea349.png
+   Size: 2255399 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491485
+
+363. Article ID: 12230756
+   Article title: CRIC Cervix Microscope Slide Image #360
+   File name: 85a21c60c167f742b313ae379ef31fb2.png
+   Size: 2520764 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491491
+
+364. Article ID: 12230759
+   Article title: CRIC Cervix Microscope Slide Image #361
+   File name: 8fd47c55033c1488a851a6660cc24f3a.png
+   Size: 2198107 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491494
+
+365. Article ID: 12230762
+   Article title: CRIC Cervix Microscope Slide Image #362
+   File name: e501b86a4eb392736b083deb8c4537f8.png
+   Size: 2255299 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491497
+
+366. Article ID: 12230768
+   Article title: CRIC Cervix Microscope Slide Image #363
+   File name: c1647f9466f402dee1065a2466c11047.png
+   Size: 2432442 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491503
+
+367. Article ID: 12230771
+   Article title: CRIC Cervix Microscope Slide Image #364
+   File name: 92eb1f2563016d967eb885ee1a5fd2dd.png
+   Size: 2306295 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491506
+
+368. Article ID: 12230774
+   Article title: CRIC Cervix Microscope Slide Image #365
+   File name: 6276a59c41a41f34b59a647c412a9ab6.png
+   Size: 2194584 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491509
+
+369. Article ID: 12230777
+   Article title: CRIC Cervix Microscope Slide Image #366
+   File name: 6a2ed524278daea0ddd2f37a47ca2b69.png
+   Size: 2320315 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491512
+
+370. Article ID: 12230780
+   Article title: CRIC Cervix Microscope Slide Image #367
+   File name: f1e600e1264144f6c44514f8abf0191a.png
+   Size: 2321826 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491515
+
+371. Article ID: 12230783
+   Article title: CRIC Cervix Microscope Slide Image #368
+   File name: a110c8eecfe599a9120a3aec324f0da8.png
+   Size: 2215647 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491518
+
+372. Article ID: 12230786
+   Article title: CRIC Cervix Microscope Slide Image #369
+   File name: 519384b776f2f4e5d18fae3e8c66d0ff.png
+   Size: 2515381 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491524
+
+373. Article ID: 12230789
+   Article title: CRIC Cervix Microscope Slide Image #370
+   File name: b73f6ce80af2295f03792c3c2bdc338b.png
+   Size: 2214309 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491527
+
+374. Article ID: 12230792
+   Article title: CRIC Cervix Microscope Slide Image #371
+   File name: 674fd708f0a5faed1e7057724ef43fb4.png
+   Size: 2423969 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491530
+
+375. Article ID: 12230795
+   Article title: CRIC Cervix Microscope Slide Image #372
+   File name: 67f61d22243d7d51469eee3071e688cb.png
+   Size: 2096105 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491533
+
+376. Article ID: 12230801
+   Article title: CRIC Cervix Microscope Slide Image #373
+   File name: 19b7ae0c1983488b205056be14cb8d3f.png
+   Size: 2195677 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491539
+
+377. Article ID: 12230804
+   Article title: CRIC Cervix Microscope Slide Image #374
+   File name: 39f65c61194a94113080add1c7d5a198.png
+   Size: 2147577 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491542
+
+378. Article ID: 12230807
+   Article title: CRIC Cervix Microscope Slide Image #375
+   File name: 78d680144e599148615a263fb6048f66.png
+   Size: 2141916 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491545
+
+379. Article ID: 12230810
+   Article title: CRIC Cervix Microscope Slide Image #376
+   File name: da21a895881b3ba7d6108dba4a4ce17a.png
+   Size: 2209360 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491548
+
+380. Article ID: 12230813
+   Article title: CRIC Cervix Microscope Slide Image #377
+   File name: b849f2f30721992da28419731f8c4d21.png
+   Size: 2350639 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491551
+
+381. Article ID: 12230816
+   Article title: CRIC Cervix Microscope Slide Image #378
+   File name: b7c9bdb02733f1e3d77ac191115c15f7.png
+   Size: 2368103 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491554
+
+382. Article ID: 12230819
+   Article title: CRIC Cervix Microscope Slide Image #379
+   File name: 326be63a57e19af9bff9a7df786b9987.png
+   Size: 2505647 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491557
+
+383. Article ID: 12230822
+   Article title: CRIC Cervix Microscope Slide Image #380
+   File name: f9df91b71002aad46ba2415744b0816c.png
+   Size: 2041061 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491560
+
+384. Article ID: 12230825
+   Article title: CRIC Cervix Microscope Slide Image #381
+   File name: f503e5ca8eb5564129dcf3b1b78d8f6f.png
+   Size: 2096187 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491563
+
+385. Article ID: 12230828
+   Article title: CRIC Cervix Microscope Slide Image #382
+   File name: 6cdee50089fd0f8937732789776cd025.png
+   Size: 2433878 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491566
+
+386. Article ID: 12230831
+   Article title: CRIC Cervix Microscope Slide Image #383
+   File name: d15e51987c8439946557b0f0829ad5a1.png
+   Size: 2274021 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491569
+
+387. Article ID: 12230837
+   Article title: CRIC Cervix Microscope Slide Image #384
+   File name: 54562f3bda233bc849ce844c2d6d0809.png
+   Size: 2489867 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491572
+
+388. Article ID: 12230840
+   Article title: CRIC Cervix Microscope Slide Image #385
+   File name: 5c64597b1e31000275d0d6d97f935d58.png
+   Size: 2227144 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491575
+
+389. Article ID: 12230843
+   Article title: CRIC Cervix Microscope Slide Image #386
+   File name: 855ef72948b5ef0f051083d1cceca3f9.png
+   Size: 2270342 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491578
+
+390. Article ID: 12230846
+   Article title: CRIC Cervix Microscope Slide Image #387
+   File name: b5bc96650b0315465891547e78e4490c.png
+   Size: 2315065 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491584
+
+391. Article ID: 12230864
+   Article title: CRIC Cervix Microscope Slide Image #388
+   File name: 6a642a0409ea6f1ffd234d666d6c9319.png
+   Size: 2229773 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491599
+
+392. Article ID: 12230867
+   Article title: CRIC Cervix Microscope Slide Image #389
+   File name: bef90ce102d8ea3841e78ed81d2d03ea.png
+   Size: 2257937 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491602
+
+393. Article ID: 12230870
+   Article title: CRIC Cervix Microscope Slide Image #390
+   File name: 1208a64963167c6b7d56a072f8b8ee1a.png
+   Size: 1965259 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491605
+
+394. Article ID: 12230873
+   Article title: CRIC Cervix Microscope Slide Image #391
+   File name: 0d07c6d5b42ace6162cff25fc06b21b9.png
+   Size: 2409008 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491611
+
+395. Article ID: 12230879
+   Article title: CRIC Cervix Microscope Slide Image #392
+   File name: ac20a24b37b7e87dcc375e6b7420d40e.png
+   Size: 2177770 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491614
+
+396. Article ID: 12230885
+   Article title: CRIC Cervix Microscope Slide Image #393
+   File name: 363b6b00d925e5c52694b8f7b678c53b.png
+   Size: 2242713 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491617
+
+397. Article ID: 12230888
+   Article title: CRIC Cervix Microscope Slide Image #394
+   File name: f1662645f23a20ea9806ca8c6d655fba.png
+   Size: 2163041 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491620
+
+398. Article ID: 12230891
+   Article title: CRIC Cervix Microscope Slide Image #395
+   File name: 1a1319ef78624dc20d4a43cadde1da01.png
+   Size: 2293380 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491623
+
+399. Article ID: 12230894
+   Article title: CRIC Cervix Microscope Slide Image #396
+   File name: ba9d94a8fdbaba01220db89cde170b24.png
+   Size: 2230946 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491626
+
+400. Article ID: 12230897
+   Article title: CRIC Cervix Microscope Slide Image #397
+   File name: dbf4ff8985d6e352b46cd8f42add72e8.png
+   Size: 2417405 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491629
+
+401. Article ID: 12230900
+   Article title: CRIC Cervix Microscope Slide Image #398
+   File name: 0cc6e576dac3046d279bba515e10a7a9.png
+   Size: 2515126 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491632
+
+402. Article ID: 12230903
+   Article title: CRIC Cervix Microscope Slide Image #399
+   File name: dc2df7c3f88649ded343b13b9486cddf.png
+   Size: 2580308 bytes
+   Download URL: https://ndownloader.figshare.com/files/22491635
+
+403. Article ID: 12230906
+   Article title: CRIC Cervix Microscope Slide Image #400
+   File name: 9ae8a4edde40219bad6303cebc672ee4.png
+   Size: 2266896 bytes
+   Download URL: https://ndownloader.figshare.com/files/22613978
+

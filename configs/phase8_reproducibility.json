@@ -1,0 +1,32 @@
+{
+  "project": "cervical-semi-sl",
+  "stage": "08_fixed_splits_reproducibility",
+  "random_seed": 42,
+  "datasets": {
+    "CRIC": {
+      "learning_units": 11534,
+      "parent_unit": "image",
+      "images": 400,
+      "split_file": "data/splits/cric_splits.csv"
+    },
+    "RIVA": {
+      "learning_units": 15949,
+      "parent_unit": "slide",
+      "images": 959,
+      "slides_represented": 111,
+      "split_file": "data/splits/riva_splits.csv"
+    }
+  },
+  "split_policy": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15,
+    "cric_grouping": "image",
+    "riva_grouping": "slide"
+  },
+  "label_definition": {
+    "0": "Normal / non-pathological",
+    "1": "Abnormal / pathological"
+  },
+  "status": "fixed"
+}

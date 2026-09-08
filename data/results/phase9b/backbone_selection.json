@@ -1,0 +1,27 @@
+{
+  "stage": "09B_supervised_backbone_pilot",
+  "dataset": "CRIC",
+  "train_samples": 8274,
+  "validation_samples": 1539,
+  "input_size": "128x128",
+  "epochs": 3,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "optimizer": "AdamW",
+  "candidate_backbones": [
+    "ResNet-18",
+    "DenseNet-121",
+    "EfficientNet-B0",
+    "ConvNeXt-Tiny",
+    "Swin-Tiny",
+    "ViT-B/16"
+  ],
+  "selected_backbone": "DenseNet-121",
+  "selection_basis": [
+    "strong validation macro-F1",
+    "stable validation behavior",
+    "substantially lower training cost than ViT-B/16",
+    "suitable for repeated downstream Semi-SL experiments"
+  ],
+  "pilot_results_file": "data/results/phase9b/backbone_pilot_results.csv"
+}
