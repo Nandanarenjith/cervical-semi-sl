@@ -1,0 +1,13 @@
+{
+    "experiment_id": "riva_pseudolabel_5pct_densenet121_seed42",
+    "metrics": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\results\\phase13\\riva_pseudolabel_5pct_densenet121_seed42\\metrics.json",
+    "comparison": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\results\\phase13\\riva_pseudolabel_5pct_densenet121_seed42\\supervised_vs_pseudolabeling.csv",
+    "pseudo_label_statistics": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\results\\phase13\\riva_pseudolabel_5pct_densenet121_seed42\\pseudo_label_statistics.json",
+    "training_history_csv": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\results\\phase13\\riva_pseudolabel_5pct_densenet121_seed42\\training_history.csv",
+    "training_history_json": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\results\\phase13\\riva_pseudolabel_5pct_densenet121_seed42\\training_history.json",
+    "loss_curve": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\results\\phase13\\riva_pseudolabel_5pct_densenet121_seed42\\curves\\loss_curve.png",
+    "accuracy_curve": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\results\\phase13\\riva_pseudolabel_5pct_densenet121_seed42\\curves\\accuracy_curve.png",
+    "macro_f1_curve": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\results\\phase13\\riva_pseudolabel_5pct_densenet121_seed42\\curves\\macro_f1_curve.png",
+    "sensitivity_specificity_curve": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\results\\phase13\\riva_pseudolabel_5pct_densenet121_seed42\\curves\\sensitivity_specificity_curve.png",
+    "checkpoint": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\checkpoints\\phase13\\riva_pseudolabel_5pct\\best_model.pt"
+}

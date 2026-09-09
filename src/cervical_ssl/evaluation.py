@@ -11,21 +11,24 @@ from sklearn.metrics import (
 )
 
 
-def evaluate_model(
+def predict_model(
     model,
     dataloader,
     device,
 ):
     """
-    Evaluate a binary classification model.
+    Generate predictions and positive-class probabilities.
 
-    Returns:
-        accuracy
-        precision
-        recall
-        specificity
-        macro_f1
-        auroc
+    Returns
+    -------
+    y_true : numpy.ndarray
+        Ground-truth binary labels.
+
+    y_pred : numpy.ndarray
+        Predicted binary labels.
+
+    y_prob : numpy.ndarray
+        Positive-class probabilities.
     """
 
     model.eval()
@@ -38,23 +41,76 @@ def evaluate_model(
 
         for images, labels in dataloader:
 
-            images = images.to(device, non_blocking=True)
+            images = images.to(device)
 
             outputs = model(images)
 
-            probabilities = torch.softmax(outputs, dim=1)
-
-            predictions = outputs.argmax(dim=1)
-
-            all_labels.extend(labels.cpu().numpy())
-            all_predictions.extend(predictions.cpu().numpy())
-            all_probabilities.extend(
-                probabilities[:, 1].cpu().numpy()
+            probabilities = torch.softmax(
+                outputs,
+                dim=1,
             )
 
-    y_true = np.asarray(all_labels)
-    y_pred = np.asarray(all_predictions)
-    y_prob = np.asarray(all_probabilities)
+            predictions = torch.argmax(
+                probabilities,
+                dim=1,
+            )
+
+            all_labels.extend(
+                labels.cpu().numpy()
+            )
+
+            all_predictions.extend(
+                predictions.cpu().numpy()
+            )
+
+            all_probabilities.extend(
+                probabilities[:, 1]
+                .cpu()
+                .numpy()
+            )
+
+    y_true = np.asarray(
+        all_labels,
+        dtype=np.int64,
+    )
+
+    y_pred = np.asarray(
+        all_predictions,
+        dtype=np.int64,
+    )
+
+    y_prob = np.asarray(
+        all_probabilities,
+        dtype=np.float32,
+    )
+
+    return (
+        y_true,
+        y_pred,
+        y_prob,
+    )
+
+
+def evaluate_model(
+    model,
+    dataloader,
+    device,
+):
+    """
+    Evaluate a binary cervical cytology classifier.
+
+    Returns
+    -------
+    dict
+        Accuracy, precision, recall/sensitivity,
+        specificity, macro-F1, and AUROC.
+    """
+
+    y_true, y_pred, y_prob = predict_model(
+        model=model,
+        dataloader=dataloader,
+        device=device,
+    )
 
     accuracy = accuracy_score(
         y_true,
@@ -79,7 +135,11 @@ def evaluate_model(
         labels=[0, 1],
     ).ravel()
 
-    specificity = tn / (tn + fp) if (tn + fp) > 0 else 0.0
+    specificity = (
+        tn / (tn + fp)
+        if (tn + fp) > 0
+        else 0.0
+    )
 
     macro_f1 = f1_score(
         y_true,
@@ -89,18 +149,21 @@ def evaluate_model(
     )
 
     if len(np.unique(y_true)) == 2:
+
         auroc = roc_auc_score(
             y_true,
             y_prob,
         )
+
     else:
+
         auroc = float("nan")
 
     return {
-        "accuracy": accuracy,
-        "precision": precision,
-        "recall": recall,
-        "specificity": specificity,
-        "macro_f1": macro_f1,
-        "auroc": auroc,
+        "accuracy": float(accuracy),
+        "precision": float(precision),
+        "recall": float(recall),
+        "specificity": float(specificity),
+        "macro_f1": float(macro_f1),
+        "auroc": float(auroc),
     }

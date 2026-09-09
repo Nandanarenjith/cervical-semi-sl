@@ -80,6 +80,9 @@ def validate_one_epoch(
 ):
     """
     Evaluate the model for one epoch.
+
+    In addition to loss and accuracy, computes
+    Macro-F1, sensitivity, and specificity.
     """
 
     model.eval()
@@ -87,6 +90,9 @@ def validate_one_epoch(
     running_loss = 0.0
     correct = 0
     total = 0
+
+    all_labels = []
+    all_predictions = []
 
     start_time = time.time()
 
@@ -123,13 +129,61 @@ def validate_one_epoch(
 
             total += labels.size(0)
 
+            all_labels.extend(
+                labels.cpu().numpy()
+            )
+
+            all_predictions.extend(
+                predictions.cpu().numpy()
+            )
+
     epoch_loss = running_loss / total
     epoch_accuracy = correct / total
+
+    # --------------------------------------------------------
+    # Classification metrics
+    # --------------------------------------------------------
+
+    from sklearn.metrics import (
+        f1_score,
+        confusion_matrix,
+        recall_score,
+    )
+
+    macro_f1 = f1_score(
+        all_labels,
+        all_predictions,
+        average="macro",
+        zero_division=0,
+    )
+
+    sensitivity = recall_score(
+        all_labels,
+        all_predictions,
+        pos_label=1,
+        zero_division=0,
+    )
+
+    tn, fp, fn, tp = confusion_matrix(
+        all_labels,
+        all_predictions,
+        labels=[0, 1],
+    ).ravel()
+
+    specificity = (
+        tn / (tn + fp)
+        if (tn + fp) > 0
+        else 0.0
+    )
+
     epoch_time = time.time() - start_time
 
     return {
         "loss": epoch_loss,
         "accuracy": epoch_accuracy,
+        "macro_f1": macro_f1,
+        "sensitivity": sensitivity,
+        "specificity": specificity,
         "time": epoch_time,
     }
 
@@ -144,21 +198,38 @@ def train_model(
     epochs,
     checkpoint_path=None,
     early_stopping_patience=None,
+    selection_metric="macro_f1",
 ):
     """
     Train a model for multiple epochs.
 
-    The best model is selected using validation loss.
+    The best model is selected using the requested
+    validation metric.
+
+    Supported selection metrics:
+        - macro_f1
+        - sensitivity
+        - specificity
+        - accuracy
+        - loss
+
+    Default:
+        macro_f1
 
     Returns:
         training history
-        best validation loss
+        best validation metric
         best epoch
     """
 
     history = []
 
-    best_val_loss = float("inf")
+    best_metric = (
+        float("inf")
+        if selection_metric == "loss"
+        else -float("inf")
+    )
+
     best_epoch = 0
     patience_counter = 0
 
@@ -185,6 +256,9 @@ def train_model(
             "train_accuracy": train_result["accuracy"],
             "val_loss": val_result["loss"],
             "val_accuracy": val_result["accuracy"],
+            "val_macro_f1": val_result["macro_f1"],
+            "val_sensitivity": val_result["sensitivity"],
+            "val_specificity": val_result["specificity"],
             "train_time": train_result["time"],
             "val_time": val_result["time"],
         }
@@ -196,16 +270,49 @@ def train_model(
             f"Train Loss: {train_result['loss']:.4f} | "
             f"Train Acc: {train_result['accuracy']:.4f} | "
             f"Val Loss: {val_result['loss']:.4f} | "
-            f"Val Acc: {val_result['accuracy']:.4f}"
+            f"Val Acc: {val_result['accuracy']:.4f} | "
+            f"Val Macro-F1: {val_result['macro_f1']:.4f} | "
+            f"Val Sensitivity: {val_result['sensitivity']:.4f} | "
+            f"Val Specificity: {val_result['specificity']:.4f}"
         )
 
         # ----------------------------------------------------
-        # Best model tracking
+        # Determine current selection value
         # ----------------------------------------------------
 
-        if val_result["loss"] < best_val_loss:
+        if selection_metric == "macro_f1":
+            current_metric = val_result["macro_f1"]
 
-            best_val_loss = val_result["loss"]
+        elif selection_metric == "sensitivity":
+            current_metric = val_result["sensitivity"]
+
+        elif selection_metric == "specificity":
+            current_metric = val_result["specificity"]
+
+        elif selection_metric == "accuracy":
+            current_metric = val_result["accuracy"]
+
+        elif selection_metric == "loss":
+            current_metric = val_result["loss"]
+
+        else:
+            raise ValueError(
+                f"Unsupported selection metric: "
+                f"{selection_metric}"
+            )
+
+        # ----------------------------------------------------
+        # Determine whether this is the best model
+        # ----------------------------------------------------
+
+        if selection_metric == "loss":
+            improved = current_metric < best_metric
+        else:
+            improved = current_metric > best_metric
+
+        if improved:
+
+            best_metric = current_metric
             best_epoch = epoch
             patience_counter = 0
 
@@ -221,11 +328,12 @@ def train_model(
 
                 print(
                     f"  → Best checkpoint saved "
-                    f"(epoch {epoch})"
+                    f"(epoch {epoch}, "
+                    f"{selection_metric}="
+                    f"{current_metric:.4f})"
                 )
 
         else:
-
             patience_counter += 1
 
         # ----------------------------------------------------
@@ -246,6 +354,7 @@ def train_model(
 
     return {
         "history": history,
-        "best_val_loss": best_val_loss,
+        "best_metric": best_metric,
         "best_epoch": best_epoch,
+        "selection_metric": selection_metric,
     }

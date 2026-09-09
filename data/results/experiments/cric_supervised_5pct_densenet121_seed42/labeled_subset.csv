@@ -1,0 +1,415 @@
+dataset,image_filename,cell_id,x_pixel,y_pixel,class_bethesda,binary_label,crop_path,crop_valid,split
+CRIC,9ae8a4edde40219bad6303cebc672ee4.png,24,219,160,LSIL,1,data\processed\cric_crops\9ae8a4edde40219bad6303cebc672ee4_cell_24.png,True,train
+CRIC,9ae8a4edde40219bad6303cebc672ee4.png,34,973,556,ASC-H,1,data\processed\cric_crops\9ae8a4edde40219bad6303cebc672ee4_cell_34.png,True,train
+CRIC,dc2df7c3f88649ded343b13b9486cddf.png,66,541,127,SCC,1,data\processed\cric_crops\dc2df7c3f88649ded343b13b9486cddf_cell_66.png,True,train
+CRIC,0cc6e576dac3046d279bba515e10a7a9.png,94,1024,591,SCC,1,data\processed\cric_crops\0cc6e576dac3046d279bba515e10a7a9_cell_94.png,True,train
+CRIC,0cc6e576dac3046d279bba515e10a7a9.png,102,391,865,SCC,1,data\processed\cric_crops\0cc6e576dac3046d279bba515e10a7a9_cell_102.png,True,train
+CRIC,dbf4ff8985d6e352b46cd8f42add72e8.png,133,159,519,HSIL,1,data\processed\cric_crops\dbf4ff8985d6e352b46cd8f42add72e8_cell_133.png,True,train
+CRIC,dbf4ff8985d6e352b46cd8f42add72e8.png,222,1243,458,LSIL,1,data\processed\cric_crops\dbf4ff8985d6e352b46cd8f42add72e8_cell_222.png,True,train
+CRIC,ba9d94a8fdbaba01220db89cde170b24.png,223,508,164,Negative for intraepithelial lesion,0,data\processed\cric_crops\ba9d94a8fdbaba01220db89cde170b24_cell_223.png,True,train
+CRIC,ba9d94a8fdbaba01220db89cde170b24.png,234,650,143,HSIL,1,data\processed\cric_crops\ba9d94a8fdbaba01220db89cde170b24_cell_234.png,True,train
+CRIC,ba9d94a8fdbaba01220db89cde170b24.png,240,793,199,HSIL,1,data\processed\cric_crops\ba9d94a8fdbaba01220db89cde170b24_cell_240.png,True,train
+CRIC,ba9d94a8fdbaba01220db89cde170b24.png,264,538,259,HSIL,1,data\processed\cric_crops\ba9d94a8fdbaba01220db89cde170b24_cell_264.png,True,train
+CRIC,ba9d94a8fdbaba01220db89cde170b24.png,292,472,499,HSIL,1,data\processed\cric_crops\ba9d94a8fdbaba01220db89cde170b24_cell_292.png,True,train
+CRIC,ba9d94a8fdbaba01220db89cde170b24.png,316,659,550,HSIL,1,data\processed\cric_crops\ba9d94a8fdbaba01220db89cde170b24_cell_316.png,True,train
+CRIC,ba9d94a8fdbaba01220db89cde170b24.png,319,1024,335,Negative for intraepithelial lesion,0,data\processed\cric_crops\ba9d94a8fdbaba01220db89cde170b24_cell_319.png,True,train
+CRIC,ba9d94a8fdbaba01220db89cde170b24.png,320,1029,470,Negative for intraepithelial lesion,0,data\processed\cric_crops\ba9d94a8fdbaba01220db89cde170b24_cell_320.png,True,train
+CRIC,1a1319ef78624dc20d4a43cadde1da01.png,350,590,332,HSIL,1,data\processed\cric_crops\1a1319ef78624dc20d4a43cadde1da01_cell_350.png,True,train
+CRIC,1a1319ef78624dc20d4a43cadde1da01.png,354,493,359,HSIL,1,data\processed\cric_crops\1a1319ef78624dc20d4a43cadde1da01_cell_354.png,True,train
+CRIC,f1662645f23a20ea9806ca8c6d655fba.png,454,302,480,HSIL,1,data\processed\cric_crops\f1662645f23a20ea9806ca8c6d655fba_cell_454.png,True,train
+CRIC,f1662645f23a20ea9806ca8c6d655fba.png,462,432,467,HSIL,1,data\processed\cric_crops\f1662645f23a20ea9806ca8c6d655fba_cell_462.png,True,train
+CRIC,f1662645f23a20ea9806ca8c6d655fba.png,473,563,692,HSIL,1,data\processed\cric_crops\f1662645f23a20ea9806ca8c6d655fba_cell_473.png,True,train
+CRIC,f1662645f23a20ea9806ca8c6d655fba.png,488,854,742,HSIL,1,data\processed\cric_crops\f1662645f23a20ea9806ca8c6d655fba_cell_488.png,True,train
+CRIC,f1662645f23a20ea9806ca8c6d655fba.png,512,707,444,HSIL,1,data\processed\cric_crops\f1662645f23a20ea9806ca8c6d655fba_cell_512.png,True,train
+CRIC,f1662645f23a20ea9806ca8c6d655fba.png,519,779,561,HSIL,1,data\processed\cric_crops\f1662645f23a20ea9806ca8c6d655fba_cell_519.png,True,train
+CRIC,ac20a24b37b7e87dcc375e6b7420d40e.png,543,274,313,Negative for intraepithelial lesion,0,data\processed\cric_crops\ac20a24b37b7e87dcc375e6b7420d40e_cell_543.png,True,train
+CRIC,ac20a24b37b7e87dcc375e6b7420d40e.png,550,269,871,Negative for intraepithelial lesion,0,data\processed\cric_crops\ac20a24b37b7e87dcc375e6b7420d40e_cell_550.png,True,train
+CRIC,1208a64963167c6b7d56a072f8b8ee1a.png,596,359,339,HSIL,1,data\processed\cric_crops\1208a64963167c6b7d56a072f8b8ee1a_cell_596.png,True,train
+CRIC,bef90ce102d8ea3841e78ed81d2d03ea.png,635,408,348,ASC-H,1,data\processed\cric_crops\bef90ce102d8ea3841e78ed81d2d03ea_cell_635.png,True,train
+CRIC,bef90ce102d8ea3841e78ed81d2d03ea.png,657,837,588,ASC-H,1,data\processed\cric_crops\bef90ce102d8ea3841e78ed81d2d03ea_cell_657.png,True,train
+CRIC,bef90ce102d8ea3841e78ed81d2d03ea.png,706,603,921,Negative for intraepithelial lesion,0,data\processed\cric_crops\bef90ce102d8ea3841e78ed81d2d03ea_cell_706.png,True,train
+CRIC,855ef72948b5ef0f051083d1cceca3f9.png,805,633,821,ASC-H,1,data\processed\cric_crops\855ef72948b5ef0f051083d1cceca3f9_cell_805.png,True,train
+CRIC,855ef72948b5ef0f051083d1cceca3f9.png,808,608,721,ASC-H,1,data\processed\cric_crops\855ef72948b5ef0f051083d1cceca3f9_cell_808.png,True,train
+CRIC,54562f3bda233bc849ce844c2d6d0809.png,861,1107,372,ASC-H,1,data\processed\cric_crops\54562f3bda233bc849ce844c2d6d0809_cell_861.png,True,train
+CRIC,54562f3bda233bc849ce844c2d6d0809.png,934,342,1004,Negative for intraepithelial lesion,0,data\processed\cric_crops\54562f3bda233bc849ce844c2d6d0809_cell_934.png,True,train
+CRIC,6cdee50089fd0f8937732789776cd025.png,956,238,324,Negative for intraepithelial lesion,0,data\processed\cric_crops\6cdee50089fd0f8937732789776cd025_cell_956.png,True,train
+CRIC,b7c9bdb02733f1e3d77ac191115c15f7.png,1022,52,682,Negative for intraepithelial lesion,0,data\processed\cric_crops\b7c9bdb02733f1e3d77ac191115c15f7_cell_1022.png,True,train
+CRIC,b7c9bdb02733f1e3d77ac191115c15f7.png,1030,913,603,Negative for intraepithelial lesion,0,data\processed\cric_crops\b7c9bdb02733f1e3d77ac191115c15f7_cell_1030.png,True,train
+CRIC,78d680144e599148615a263fb6048f66.png,1066,652,517,Negative for intraepithelial lesion,0,data\processed\cric_crops\78d680144e599148615a263fb6048f66_cell_1066.png,True,train
+CRIC,39f65c61194a94113080add1c7d5a198.png,1078,999,426,ASC-US,1,data\processed\cric_crops\39f65c61194a94113080add1c7d5a198_cell_1078.png,True,train
+CRIC,19b7ae0c1983488b205056be14cb8d3f.png,1098,1035,87,Negative for intraepithelial lesion,0,data\processed\cric_crops\19b7ae0c1983488b205056be14cb8d3f_cell_1098.png,True,train
+CRIC,19b7ae0c1983488b205056be14cb8d3f.png,1101,1223,604,Negative for intraepithelial lesion,0,data\processed\cric_crops\19b7ae0c1983488b205056be14cb8d3f_cell_1101.png,True,train
+CRIC,19b7ae0c1983488b205056be14cb8d3f.png,1105,707,987,Negative for intraepithelial lesion,0,data\processed\cric_crops\19b7ae0c1983488b205056be14cb8d3f_cell_1105.png,True,train
+CRIC,19b7ae0c1983488b205056be14cb8d3f.png,1106,553,706,Negative for intraepithelial lesion,0,data\processed\cric_crops\19b7ae0c1983488b205056be14cb8d3f_cell_1106.png,True,train
+CRIC,67f61d22243d7d51469eee3071e688cb.png,1113,482,722,ASC-US,1,data\processed\cric_crops\67f61d22243d7d51469eee3071e688cb_cell_1113.png,True,train
+CRIC,67f61d22243d7d51469eee3071e688cb.png,1121,652,772,Negative for intraepithelial lesion,0,data\processed\cric_crops\67f61d22243d7d51469eee3071e688cb_cell_1121.png,True,train
+CRIC,b73f6ce80af2295f03792c3c2bdc338b.png,1236,705,636,Negative for intraepithelial lesion,0,data\processed\cric_crops\b73f6ce80af2295f03792c3c2bdc338b_cell_1236.png,True,train
+CRIC,f1e600e1264144f6c44514f8abf0191a.png,1281,639,399,Negative for intraepithelial lesion,0,data\processed\cric_crops\f1e600e1264144f6c44514f8abf0191a_cell_1281.png,True,train
+CRIC,6a2ed524278daea0ddd2f37a47ca2b69.png,1297,753,972,Negative for intraepithelial lesion,0,data\processed\cric_crops\6a2ed524278daea0ddd2f37a47ca2b69_cell_1297.png,True,train
+CRIC,92eb1f2563016d967eb885ee1a5fd2dd.png,1326,514,124,Negative for intraepithelial lesion,0,data\processed\cric_crops\92eb1f2563016d967eb885ee1a5fd2dd_cell_1326.png,True,train
+CRIC,8fd47c55033c1488a851a6660cc24f3a.png,1419,862,750,LSIL,1,data\processed\cric_crops\8fd47c55033c1488a851a6660cc24f3a_cell_1419.png,True,train
+CRIC,8fd47c55033c1488a851a6660cc24f3a.png,1450,154,576,LSIL,1,data\processed\cric_crops\8fd47c55033c1488a851a6660cc24f3a_cell_1450.png,True,train
+CRIC,ceff389b4171940ab84ba46c42fbeb72.png,1593,575,555,Negative for intraepithelial lesion,0,data\processed\cric_crops\ceff389b4171940ab84ba46c42fbeb72_cell_1593.png,True,train
+CRIC,151e9e19a4a8a347e2eeb00ad52a210f.png,1632,575,569,LSIL,1,data\processed\cric_crops\151e9e19a4a8a347e2eeb00ad52a210f_cell_1632.png,True,train
+CRIC,060d7d018977ad7cca7643f2deb6f3e8.png,1648,1039,220,Negative for intraepithelial lesion,0,data\processed\cric_crops\060d7d018977ad7cca7643f2deb6f3e8_cell_1648.png,True,train
+CRIC,94510a321f43fadd424e96343d6cab76.png,1687,585,442,LSIL,1,data\processed\cric_crops\94510a321f43fadd424e96343d6cab76_cell_1687.png,True,train
+CRIC,94510a321f43fadd424e96343d6cab76.png,1708,634,914,Negative for intraepithelial lesion,0,data\processed\cric_crops\94510a321f43fadd424e96343d6cab76_cell_1708.png,True,train
+CRIC,eb88a78cefd39ef4f57be86f7d6c55b6.png,1756,595,78,LSIL,1,data\processed\cric_crops\eb88a78cefd39ef4f57be86f7d6c55b6_cell_1756.png,True,train
+CRIC,eb88a78cefd39ef4f57be86f7d6c55b6.png,1766,794,385,LSIL,1,data\processed\cric_crops\eb88a78cefd39ef4f57be86f7d6c55b6_cell_1766.png,True,train
+CRIC,eb88a78cefd39ef4f57be86f7d6c55b6.png,1783,703,986,LSIL,1,data\processed\cric_crops\eb88a78cefd39ef4f57be86f7d6c55b6_cell_1783.png,True,train
+CRIC,eb88a78cefd39ef4f57be86f7d6c55b6.png,1797,674,767,Negative for intraepithelial lesion,0,data\processed\cric_crops\eb88a78cefd39ef4f57be86f7d6c55b6_cell_1797.png,True,train
+CRIC,eb88a78cefd39ef4f57be86f7d6c55b6.png,1803,993,652,ASC-US,1,data\processed\cric_crops\eb88a78cefd39ef4f57be86f7d6c55b6_cell_1803.png,True,train
+CRIC,2810965a78043a20fc999bfddec80b90.png,1813,847,395,LSIL,1,data\processed\cric_crops\2810965a78043a20fc999bfddec80b90_cell_1813.png,True,train
+CRIC,aff2bee962c634294622f44a16b4f968.png,1837,815,711,Negative for intraepithelial lesion,0,data\processed\cric_crops\aff2bee962c634294622f44a16b4f968_cell_1837.png,True,train
+CRIC,dbb1bf3a7bced124e9f9012a950eb06b.png,1854,634,183,ASC-US,1,data\processed\cric_crops\dbb1bf3a7bced124e9f9012a950eb06b_cell_1854.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,1979,955,255,ASC-H,1,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_1979.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,1987,974,444,ASC-H,1,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_1987.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2011,712,532,ASC-H,1,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2011.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2021,790,647,ASC-H,1,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2021.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2035,742,210,Negative for intraepithelial lesion,0,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2035.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2039,925,149,Negative for intraepithelial lesion,0,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2039.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2044,150,935,Negative for intraepithelial lesion,0,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2044.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2053,783,909,Negative for intraepithelial lesion,0,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2053.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2064,1023,812,Negative for intraepithelial lesion,0,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2064.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2071,1094,904,Negative for intraepithelial lesion,0,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2071.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2084,1097,148,Negative for intraepithelial lesion,0,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2084.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2093,213,516,ASC-H,1,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2093.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2104,220,725,ASC-H,1,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2104.png,True,train
+CRIC,9073bf65a95626d36c392876535fbd34.png,2110,353,630,ASC-H,1,data\processed\cric_crops\9073bf65a95626d36c392876535fbd34_cell_2110.png,True,train
+CRIC,16032768fe56bbb933730762d726d263.png,2190,495,302,Negative for intraepithelial lesion,0,data\processed\cric_crops\16032768fe56bbb933730762d726d263_cell_2190.png,True,train
+CRIC,515abacf9c89f439f90e7d34b406f581.png,2245,924,455,LSIL,1,data\processed\cric_crops\515abacf9c89f439f90e7d34b406f581_cell_2245.png,True,train
+CRIC,515abacf9c89f439f90e7d34b406f581.png,2249,952,582,LSIL,1,data\processed\cric_crops\515abacf9c89f439f90e7d34b406f581_cell_2249.png,True,train
+CRIC,515abacf9c89f439f90e7d34b406f581.png,2264,700,707,LSIL,1,data\processed\cric_crops\515abacf9c89f439f90e7d34b406f581_cell_2264.png,True,train
+CRIC,515abacf9c89f439f90e7d34b406f581.png,2272,158,364,Negative for intraepithelial lesion,0,data\processed\cric_crops\515abacf9c89f439f90e7d34b406f581_cell_2272.png,True,train
+CRIC,a26e4ca310cc5150b95c849657f6d0d9.png,2276,693,694,LSIL,1,data\processed\cric_crops\a26e4ca310cc5150b95c849657f6d0d9_cell_2276.png,True,train
+CRIC,fb5e83755f682922aee859fd52013c36.png,2286,615,567,Negative for intraepithelial lesion,0,data\processed\cric_crops\fb5e83755f682922aee859fd52013c36_cell_2286.png,True,train
+CRIC,9a847d90855db08e9dbd0b040689c3cb.png,2290,668,491,LSIL,1,data\processed\cric_crops\9a847d90855db08e9dbd0b040689c3cb_cell_2290.png,True,train
+CRIC,9a847d90855db08e9dbd0b040689c3cb.png,2304,659,760,LSIL,1,data\processed\cric_crops\9a847d90855db08e9dbd0b040689c3cb_cell_2304.png,True,train
+CRIC,40387ef8bd22eb5167427ca9a25bc65a.png,2355,110,47,Negative for intraepithelial lesion,0,data\processed\cric_crops\40387ef8bd22eb5167427ca9a25bc65a_cell_2355.png,True,train
+CRIC,491840cea6a38ba8af9779a0ec319f4e.png,2399,1165,522,Negative for intraepithelial lesion,0,data\processed\cric_crops\491840cea6a38ba8af9779a0ec319f4e_cell_2399.png,True,train
+CRIC,5921d98f5baacc86b3a1445540c858ee.png,2489,1014,796,Negative for intraepithelial lesion,0,data\processed\cric_crops\5921d98f5baacc86b3a1445540c858ee_cell_2489.png,True,train
+CRIC,9cb5c0144965b0274edc70210f100940.png,2528,557,212,Negative for intraepithelial lesion,0,data\processed\cric_crops\9cb5c0144965b0274edc70210f100940_cell_2528.png,True,train
+CRIC,debaf960d9af83738102e03ce40d4cc3.png,2566,864,362,LSIL,1,data\processed\cric_crops\debaf960d9af83738102e03ce40d4cc3_cell_2566.png,True,train
+CRIC,debaf960d9af83738102e03ce40d4cc3.png,2576,965,250,LSIL,1,data\processed\cric_crops\debaf960d9af83738102e03ce40d4cc3_cell_2576.png,True,train
+CRIC,5b9327cfecd550d543d371d0c94b2bad.png,2656,1163,867,Negative for intraepithelial lesion,0,data\processed\cric_crops\5b9327cfecd550d543d371d0c94b2bad_cell_2656.png,True,train
+CRIC,aee74e3c1bcd82561303ee974d31c08f.png,2737,903,447,LSIL,1,data\processed\cric_crops\aee74e3c1bcd82561303ee974d31c08f_cell_2737.png,True,train
+CRIC,aee74e3c1bcd82561303ee974d31c08f.png,2749,593,545,LSIL,1,data\processed\cric_crops\aee74e3c1bcd82561303ee974d31c08f_cell_2749.png,True,train
+CRIC,30cef53c58d14524f9d49e24af9887fa.png,2802,375,379,Negative for intraepithelial lesion,0,data\processed\cric_crops\30cef53c58d14524f9d49e24af9887fa_cell_2802.png,True,train
+CRIC,c5304cb4ceea0d7c9c64e26b6b3e804e.png,2813,222,453,Negative for intraepithelial lesion,0,data\processed\cric_crops\c5304cb4ceea0d7c9c64e26b6b3e804e_cell_2813.png,True,train
+CRIC,7c38ddce962298663b96ec38a7561b56.png,2839,714,316,Negative for intraepithelial lesion,0,data\processed\cric_crops\7c38ddce962298663b96ec38a7561b56_cell_2839.png,True,train
+CRIC,7c38ddce962298663b96ec38a7561b56.png,2847,378,72,Negative for intraepithelial lesion,0,data\processed\cric_crops\7c38ddce962298663b96ec38a7561b56_cell_2847.png,True,train
+CRIC,7b04019e566ede8ebbbce0ffd3a7601e.png,2900,1004,288,Negative for intraepithelial lesion,0,data\processed\cric_crops\7b04019e566ede8ebbbce0ffd3a7601e_cell_2900.png,True,train
+CRIC,ba64e833160b9da794e7aeb64207ba69.png,2909,868,638,ASC-US,1,data\processed\cric_crops\ba64e833160b9da794e7aeb64207ba69_cell_2909.png,True,train
+CRIC,ba64e833160b9da794e7aeb64207ba69.png,2913,153,144,Negative for intraepithelial lesion,0,data\processed\cric_crops\ba64e833160b9da794e7aeb64207ba69_cell_2913.png,True,train
+CRIC,ba64e833160b9da794e7aeb64207ba69.png,2917,687,25,Negative for intraepithelial lesion,0,data\processed\cric_crops\ba64e833160b9da794e7aeb64207ba69_cell_2917.png,True,train
+CRIC,ba64e833160b9da794e7aeb64207ba69.png,2925,928,760,Negative for intraepithelial lesion,0,data\processed\cric_crops\ba64e833160b9da794e7aeb64207ba69_cell_2925.png,True,train
+CRIC,f195a1576fa4437e8f31f35959554eda.png,2962,905,631,Negative for intraepithelial lesion,0,data\processed\cric_crops\f195a1576fa4437e8f31f35959554eda_cell_2962.png,True,train
+CRIC,f195a1576fa4437e8f31f35959554eda.png,2973,839,362,Negative for intraepithelial lesion,0,data\processed\cric_crops\f195a1576fa4437e8f31f35959554eda_cell_2973.png,True,train
+CRIC,f195a1576fa4437e8f31f35959554eda.png,2978,402,220,Negative for intraepithelial lesion,0,data\processed\cric_crops\f195a1576fa4437e8f31f35959554eda_cell_2978.png,True,train
+CRIC,519e7eefd219097919196d38beb06136.png,3078,365,652,ASC-US,1,data\processed\cric_crops\519e7eefd219097919196d38beb06136_cell_3078.png,True,train
+CRIC,519e7eefd219097919196d38beb06136.png,3082,465,506,Negative for intraepithelial lesion,0,data\processed\cric_crops\519e7eefd219097919196d38beb06136_cell_3082.png,True,train
+CRIC,14ea41d8e885c165390da7e03f594d9d.png,3099,868,277,ASC-US,1,data\processed\cric_crops\14ea41d8e885c165390da7e03f594d9d_cell_3099.png,True,train
+CRIC,14ea41d8e885c165390da7e03f594d9d.png,3105,1045,470,Negative for intraepithelial lesion,0,data\processed\cric_crops\14ea41d8e885c165390da7e03f594d9d_cell_3105.png,True,train
+CRIC,14ea41d8e885c165390da7e03f594d9d.png,3108,140,605,ASC-US,1,data\processed\cric_crops\14ea41d8e885c165390da7e03f594d9d_cell_3108.png,True,train
+CRIC,a57e3c97ad51375f4656963d6bd88f8d.png,3116,767,92,Negative for intraepithelial lesion,0,data\processed\cric_crops\a57e3c97ad51375f4656963d6bd88f8d_cell_3116.png,True,train
+CRIC,5966509346d31911ac8644a23e128f56.png,3151,347,806,ASC-US,1,data\processed\cric_crops\5966509346d31911ac8644a23e128f56_cell_3151.png,True,train
+CRIC,477a31e5481902c6624a3d0407be13bf.png,3205,365,265,Negative for intraepithelial lesion,0,data\processed\cric_crops\477a31e5481902c6624a3d0407be13bf_cell_3205.png,True,train
+CRIC,1e4460705ccdffafa78ceef35bf11ad2.png,3222,890,465,Negative for intraepithelial lesion,0,data\processed\cric_crops\1e4460705ccdffafa78ceef35bf11ad2_cell_3222.png,True,train
+CRIC,b5236e7b9f5dc7783cce4dbb5fb1a082.png,3253,328,33,Negative for intraepithelial lesion,0,data\processed\cric_crops\b5236e7b9f5dc7783cce4dbb5fb1a082_cell_3253.png,True,train
+CRIC,449a3b9bd9ad2cc080d8960bb3834968.png,3274,639,544,ASC-US,1,data\processed\cric_crops\449a3b9bd9ad2cc080d8960bb3834968_cell_3274.png,True,train
+CRIC,449a3b9bd9ad2cc080d8960bb3834968.png,3311,120,588,Negative for intraepithelial lesion,0,data\processed\cric_crops\449a3b9bd9ad2cc080d8960bb3834968_cell_3311.png,True,train
+CRIC,449a3b9bd9ad2cc080d8960bb3834968.png,3325,263,674,Negative for intraepithelial lesion,0,data\processed\cric_crops\449a3b9bd9ad2cc080d8960bb3834968_cell_3325.png,True,train
+CRIC,449a3b9bd9ad2cc080d8960bb3834968.png,3328,230,954,Negative for intraepithelial lesion,0,data\processed\cric_crops\449a3b9bd9ad2cc080d8960bb3834968_cell_3328.png,True,train
+CRIC,5d8297d46d5babc9aaba0652a2a5051f.png,3354,318,997,Negative for intraepithelial lesion,0,data\processed\cric_crops\5d8297d46d5babc9aaba0652a2a5051f_cell_3354.png,True,train
+CRIC,4929d79aaa3dcea4133f2a17cb7e10e0.png,3375,759,775,ASC-US,1,data\processed\cric_crops\4929d79aaa3dcea4133f2a17cb7e10e0_cell_3375.png,True,train
+CRIC,4929d79aaa3dcea4133f2a17cb7e10e0.png,3402,673,831,Negative for intraepithelial lesion,0,data\processed\cric_crops\4929d79aaa3dcea4133f2a17cb7e10e0_cell_3402.png,True,train
+CRIC,4929d79aaa3dcea4133f2a17cb7e10e0.png,3412,844,701,Negative for intraepithelial lesion,0,data\processed\cric_crops\4929d79aaa3dcea4133f2a17cb7e10e0_cell_3412.png,True,train
+CRIC,17192f69185395519f65be5358d32c3f.png,3468,1123,739,Negative for intraepithelial lesion,0,data\processed\cric_crops\17192f69185395519f65be5358d32c3f_cell_3468.png,True,train
+CRIC,17192f69185395519f65be5358d32c3f.png,3470,272,756,Negative for intraepithelial lesion,0,data\processed\cric_crops\17192f69185395519f65be5358d32c3f_cell_3470.png,True,train
+CRIC,0d2057f820c3b157fd030fe3308f60dc.png,3503,925,330,Negative for intraepithelial lesion,0,data\processed\cric_crops\0d2057f820c3b157fd030fe3308f60dc_cell_3503.png,True,train
+CRIC,0d2057f820c3b157fd030fe3308f60dc.png,3506,998,159,Negative for intraepithelial lesion,0,data\processed\cric_crops\0d2057f820c3b157fd030fe3308f60dc_cell_3506.png,True,train
+CRIC,8725a834d8421b4f506987ce6402613a.png,3547,263,913,Negative for intraepithelial lesion,0,data\processed\cric_crops\8725a834d8421b4f506987ce6402613a_cell_3547.png,True,train
+CRIC,8725a834d8421b4f506987ce6402613a.png,3550,44,747,Negative for intraepithelial lesion,0,data\processed\cric_crops\8725a834d8421b4f506987ce6402613a_cell_3550.png,True,train
+CRIC,02c6113a42960d9617990a3b291cf65d.png,3621,303,263,Negative for intraepithelial lesion,0,data\processed\cric_crops\02c6113a42960d9617990a3b291cf65d_cell_3621.png,True,train
+CRIC,425f92ac0896cfea0e4e674cd449ce23.png,3674,924,790,ASC-US,1,data\processed\cric_crops\425f92ac0896cfea0e4e674cd449ce23_cell_3674.png,True,train
+CRIC,3b536324e212ad03ae37afcf97d0c760.png,3777,948,456,Negative for intraepithelial lesion,0,data\processed\cric_crops\3b536324e212ad03ae37afcf97d0c760_cell_3777.png,True,train
+CRIC,303399e0cd747a0646339f4e1f6c91a9.png,3864,28,348,Negative for intraepithelial lesion,0,data\processed\cric_crops\303399e0cd747a0646339f4e1f6c91a9_cell_3864.png,True,train
+CRIC,da51093be0db6b3ccd477a6aeddc2261.png,3898,398,836,LSIL,1,data\processed\cric_crops\da51093be0db6b3ccd477a6aeddc2261_cell_3898.png,True,train
+CRIC,539a88e6ce009eee5398bdbada60ff23.png,3953,774,518,Negative for intraepithelial lesion,0,data\processed\cric_crops\539a88e6ce009eee5398bdbada60ff23_cell_3953.png,True,train
+CRIC,539a88e6ce009eee5398bdbada60ff23.png,3970,952,508,LSIL,1,data\processed\cric_crops\539a88e6ce009eee5398bdbada60ff23_cell_3970.png,True,train
+CRIC,539a88e6ce009eee5398bdbada60ff23.png,3972,36,175,Negative for intraepithelial lesion,0,data\processed\cric_crops\539a88e6ce009eee5398bdbada60ff23_cell_3972.png,True,train
+CRIC,a5ce47f6a10f543bf7fdac28b709d30d.png,4015,674,131,Negative for intraepithelial lesion,0,data\processed\cric_crops\a5ce47f6a10f543bf7fdac28b709d30d_cell_4015.png,True,train
+CRIC,a5ce47f6a10f543bf7fdac28b709d30d.png,4053,743,780,ASC-US,1,data\processed\cric_crops\a5ce47f6a10f543bf7fdac28b709d30d_cell_4053.png,True,train
+CRIC,c4f51dd4f48d013f69b4c5e2adced54d.png,4074,564,475,LSIL,1,data\processed\cric_crops\c4f51dd4f48d013f69b4c5e2adced54d_cell_4074.png,True,train
+CRIC,c4f51dd4f48d013f69b4c5e2adced54d.png,4083,714,247,Negative for intraepithelial lesion,0,data\processed\cric_crops\c4f51dd4f48d013f69b4c5e2adced54d_cell_4083.png,True,train
+CRIC,c4f51dd4f48d013f69b4c5e2adced54d.png,4099,434,983,Negative for intraepithelial lesion,0,data\processed\cric_crops\c4f51dd4f48d013f69b4c5e2adced54d_cell_4099.png,True,train
+CRIC,d718a645caa4281cefd7d6dc8f54e36b.png,4130,173,357,Negative for intraepithelial lesion,0,data\processed\cric_crops\d718a645caa4281cefd7d6dc8f54e36b_cell_4130.png,True,train
+CRIC,d718a645caa4281cefd7d6dc8f54e36b.png,4132,947,597,Negative for intraepithelial lesion,0,data\processed\cric_crops\d718a645caa4281cefd7d6dc8f54e36b_cell_4132.png,True,train
+CRIC,431ffd642258bfa70558eb03afa9bc83.png,4154,870,772,Negative for intraepithelial lesion,0,data\processed\cric_crops\431ffd642258bfa70558eb03afa9bc83_cell_4154.png,True,train
+CRIC,9dc92f731aa43451aaccdaabbca220fa.png,4224,587,383,Negative for intraepithelial lesion,0,data\processed\cric_crops\9dc92f731aa43451aaccdaabbca220fa_cell_4224.png,True,train
+CRIC,8e39307fc74e68a5f4a6ae66764331b4.png,4281,662,599,LSIL,1,data\processed\cric_crops\8e39307fc74e68a5f4a6ae66764331b4_cell_4281.png,True,train
+CRIC,38b630ac8a1f02f6a466824f6babaf0e.png,4362,800,502,Negative for intraepithelial lesion,0,data\processed\cric_crops\38b630ac8a1f02f6a466824f6babaf0e_cell_4362.png,True,train
+CRIC,38b630ac8a1f02f6a466824f6babaf0e.png,4385,351,974,Negative for intraepithelial lesion,0,data\processed\cric_crops\38b630ac8a1f02f6a466824f6babaf0e_cell_4385.png,True,train
+CRIC,eddca08930f139f44c5d22a48d9f2909.png,4422,1061,172,Negative for intraepithelial lesion,0,data\processed\cric_crops\eddca08930f139f44c5d22a48d9f2909_cell_4422.png,True,train
+CRIC,eddca08930f139f44c5d22a48d9f2909.png,4426,1031,260,Negative for intraepithelial lesion,0,data\processed\cric_crops\eddca08930f139f44c5d22a48d9f2909_cell_4426.png,True,train
+CRIC,eddca08930f139f44c5d22a48d9f2909.png,4444,857,556,Negative for intraepithelial lesion,0,data\processed\cric_crops\eddca08930f139f44c5d22a48d9f2909_cell_4444.png,True,train
+CRIC,379c7ce231b0c43a3d9a964680573dce.png,4457,539,89,Negative for intraepithelial lesion,0,data\processed\cric_crops\379c7ce231b0c43a3d9a964680573dce_cell_4457.png,True,train
+CRIC,379c7ce231b0c43a3d9a964680573dce.png,4458,861,498,Negative for intraepithelial lesion,0,data\processed\cric_crops\379c7ce231b0c43a3d9a964680573dce_cell_4458.png,True,train
+CRIC,379c7ce231b0c43a3d9a964680573dce.png,4470,1214,1003,Negative for intraepithelial lesion,0,data\processed\cric_crops\379c7ce231b0c43a3d9a964680573dce_cell_4470.png,True,train
+CRIC,f6ed8a6797cceb43ed891679cd4434de.png,4520,148,202,LSIL,1,data\processed\cric_crops\f6ed8a6797cceb43ed891679cd4434de_cell_4520.png,True,train
+CRIC,f6ed8a6797cceb43ed891679cd4434de.png,4525,179,288,LSIL,1,data\processed\cric_crops\f6ed8a6797cceb43ed891679cd4434de_cell_4525.png,True,train
+CRIC,f6ed8a6797cceb43ed891679cd4434de.png,4528,259,303,LSIL,1,data\processed\cric_crops\f6ed8a6797cceb43ed891679cd4434de_cell_4528.png,True,train
+CRIC,f6ed8a6797cceb43ed891679cd4434de.png,4550,533,724,LSIL,1,data\processed\cric_crops\f6ed8a6797cceb43ed891679cd4434de_cell_4550.png,True,train
+CRIC,fcc9c7e2fc1a0f4d30fa745308d15194.png,4665,1029,428,Negative for intraepithelial lesion,0,data\processed\cric_crops\fcc9c7e2fc1a0f4d30fa745308d15194_cell_4665.png,True,train
+CRIC,fcc9c7e2fc1a0f4d30fa745308d15194.png,4670,630,636,LSIL,1,data\processed\cric_crops\fcc9c7e2fc1a0f4d30fa745308d15194_cell_4670.png,True,train
+CRIC,f996f3195bdb1c5ed08d97272ae16e62.png,4690,604,582,Negative for intraepithelial lesion,0,data\processed\cric_crops\f996f3195bdb1c5ed08d97272ae16e62_cell_4690.png,True,train
+CRIC,2fd118764c0afa9a4e1ccbe9bd8210a5.png,4734,908,468,Negative for intraepithelial lesion,0,data\processed\cric_crops\2fd118764c0afa9a4e1ccbe9bd8210a5_cell_4734.png,True,train
+CRIC,2fd118764c0afa9a4e1ccbe9bd8210a5.png,4739,464,672,Negative for intraepithelial lesion,0,data\processed\cric_crops\2fd118764c0afa9a4e1ccbe9bd8210a5_cell_4739.png,True,train
+CRIC,5b3e7408f7ab2a8bce36cfda5a1e121b.png,4756,287,738,Negative for intraepithelial lesion,0,data\processed\cric_crops\5b3e7408f7ab2a8bce36cfda5a1e121b_cell_4756.png,True,train
+CRIC,5b3e7408f7ab2a8bce36cfda5a1e121b.png,4780,135,11,Negative for intraepithelial lesion,0,data\processed\cric_crops\5b3e7408f7ab2a8bce36cfda5a1e121b_cell_4780.png,True,train
+CRIC,3b73689cbb3b2a04a1a713230459f7e5.png,4849,107,973,Negative for intraepithelial lesion,0,data\processed\cric_crops\3b73689cbb3b2a04a1a713230459f7e5_cell_4849.png,True,train
+CRIC,3c6531547003951472ce20fa1de720fc.png,4941,984,306,Negative for intraepithelial lesion,0,data\processed\cric_crops\3c6531547003951472ce20fa1de720fc_cell_4941.png,True,train
+CRIC,9c42ed347e00dc159b9fb767b52de139.png,4953,954,153,Negative for intraepithelial lesion,0,data\processed\cric_crops\9c42ed347e00dc159b9fb767b52de139_cell_4953.png,True,train
+CRIC,cafba392717cd7b7077f8aec6d99296c.png,5001,323,333,Negative for intraepithelial lesion,0,data\processed\cric_crops\cafba392717cd7b7077f8aec6d99296c_cell_5001.png,True,train
+CRIC,c0dad84e596a1fd11720827eda489983.png,5128,884,240,Negative for intraepithelial lesion,0,data\processed\cric_crops\c0dad84e596a1fd11720827eda489983_cell_5128.png,True,train
+CRIC,c0dad84e596a1fd11720827eda489983.png,5143,377,670,LSIL,1,data\processed\cric_crops\c0dad84e596a1fd11720827eda489983_cell_5143.png,True,train
+CRIC,5c7feaaf66d0981fe28378fbab186509.png,5185,369,785,Negative for intraepithelial lesion,0,data\processed\cric_crops\5c7feaaf66d0981fe28378fbab186509_cell_5185.png,True,train
+CRIC,5c7feaaf66d0981fe28378fbab186509.png,5194,1182,122,LSIL,1,data\processed\cric_crops\5c7feaaf66d0981fe28378fbab186509_cell_5194.png,True,train
+CRIC,430addb0dc6daf0e6271fb6efe1a9777.png,5221,323,488,LSIL,1,data\processed\cric_crops\430addb0dc6daf0e6271fb6efe1a9777_cell_5221.png,True,train
+CRIC,430addb0dc6daf0e6271fb6efe1a9777.png,5226,433,412,LSIL,1,data\processed\cric_crops\430addb0dc6daf0e6271fb6efe1a9777_cell_5226.png,True,train
+CRIC,8f4f6c8c7589b41794bb248571026f1f.png,5296,1022,899,Negative for intraepithelial lesion,0,data\processed\cric_crops\8f4f6c8c7589b41794bb248571026f1f_cell_5296.png,True,train
+CRIC,d44546808b8c6976fbc7946f370562c4.png,5364,262,549,ASC-US,1,data\processed\cric_crops\d44546808b8c6976fbc7946f370562c4_cell_5364.png,True,train
+CRIC,b8df9a1c242fc6f825df3d16a1de8588.png,5403,819,515,LSIL,1,data\processed\cric_crops\b8df9a1c242fc6f825df3d16a1de8588_cell_5403.png,True,train
+CRIC,4bae321eaa4fedb2a75bf5c53b14b4f4.png,5496,1115,372,Negative for intraepithelial lesion,0,data\processed\cric_crops\4bae321eaa4fedb2a75bf5c53b14b4f4_cell_5496.png,True,train
+CRIC,4bae321eaa4fedb2a75bf5c53b14b4f4.png,5520,518,277,LSIL,1,data\processed\cric_crops\4bae321eaa4fedb2a75bf5c53b14b4f4_cell_5520.png,True,train
+CRIC,cb206130cf379df998fa4fd995411ea7.png,5564,592,285,LSIL,1,data\processed\cric_crops\cb206130cf379df998fa4fd995411ea7_cell_5564.png,True,train
+CRIC,b1f43c3a74ea03d4df18696b710a3fc4.png,5610,695,558,Negative for intraepithelial lesion,0,data\processed\cric_crops\b1f43c3a74ea03d4df18696b710a3fc4_cell_5610.png,True,train
+CRIC,eeabc7b91c5ab80afd2907f4111c6376.png,5619,1038,642,Negative for intraepithelial lesion,0,data\processed\cric_crops\eeabc7b91c5ab80afd2907f4111c6376_cell_5619.png,True,train
+CRIC,1c900ddde4d55e63c0d06c4854b29f89.png,5630,387,457,Negative for intraepithelial lesion,0,data\processed\cric_crops\1c900ddde4d55e63c0d06c4854b29f89_cell_5630.png,True,train
+CRIC,7c09a4a52e0cb6ffc6a10044dd321123.png,5645,317,733,Negative for intraepithelial lesion,0,data\processed\cric_crops\7c09a4a52e0cb6ffc6a10044dd321123_cell_5645.png,True,train
+CRIC,5633910bdb41ea5626f7b60a8ef80af0.png,5659,647,335,Negative for intraepithelial lesion,0,data\processed\cric_crops\5633910bdb41ea5626f7b60a8ef80af0_cell_5659.png,True,train
+CRIC,e8795423a9b8dadabdfaac3547c17abe.png,5683,808,393,Negative for intraepithelial lesion,0,data\processed\cric_crops\e8795423a9b8dadabdfaac3547c17abe_cell_5683.png,True,train
+CRIC,b5cde4d2a21fb2e2d70db49b1db1df50.png,5723,183,330,Negative for intraepithelial lesion,0,data\processed\cric_crops\b5cde4d2a21fb2e2d70db49b1db1df50_cell_5723.png,True,train
+CRIC,6df65e12916327e0c88c75191451a3f7.png,5751,823,559,Negative for intraepithelial lesion,0,data\processed\cric_crops\6df65e12916327e0c88c75191451a3f7_cell_5751.png,True,train
+CRIC,49c8feec9afcd85f1f9b16908c34bdca.png,5849,900,425,Negative for intraepithelial lesion,0,data\processed\cric_crops\49c8feec9afcd85f1f9b16908c34bdca_cell_5849.png,True,train
+CRIC,acd5b382631b7f7b22d5be5b42ebac05.png,5856,432,408,Negative for intraepithelial lesion,0,data\processed\cric_crops\acd5b382631b7f7b22d5be5b42ebac05_cell_5856.png,True,train
+CRIC,acd5b382631b7f7b22d5be5b42ebac05.png,5878,1097,490,Negative for intraepithelial lesion,0,data\processed\cric_crops\acd5b382631b7f7b22d5be5b42ebac05_cell_5878.png,True,train
+CRIC,8042f9c026bca2cf1761489102ea284f.png,5900,848,642,Negative for intraepithelial lesion,0,data\processed\cric_crops\8042f9c026bca2cf1761489102ea284f_cell_5900.png,True,train
+CRIC,3ae2fc6e5e6530f3291e21a8937c71b3.png,5916,536,471,Negative for intraepithelial lesion,0,data\processed\cric_crops\3ae2fc6e5e6530f3291e21a8937c71b3_cell_5916.png,True,train
+CRIC,3ae2fc6e5e6530f3291e21a8937c71b3.png,5921,883,540,Negative for intraepithelial lesion,0,data\processed\cric_crops\3ae2fc6e5e6530f3291e21a8937c71b3_cell_5921.png,True,train
+CRIC,c41261e68aabdf7ff5d4bc90c2efd8f3.png,6003,1194,79,Negative for intraepithelial lesion,0,data\processed\cric_crops\c41261e68aabdf7ff5d4bc90c2efd8f3_cell_6003.png,True,train
+CRIC,ec14a8dad00ce2aa24bae8dd2683077b.png,6020,484,247,Negative for intraepithelial lesion,0,data\processed\cric_crops\ec14a8dad00ce2aa24bae8dd2683077b_cell_6020.png,True,train
+CRIC,ec14a8dad00ce2aa24bae8dd2683077b.png,6021,1101,265,Negative for intraepithelial lesion,0,data\processed\cric_crops\ec14a8dad00ce2aa24bae8dd2683077b_cell_6021.png,True,train
+CRIC,ec14a8dad00ce2aa24bae8dd2683077b.png,6026,1096,343,Negative for intraepithelial lesion,0,data\processed\cric_crops\ec14a8dad00ce2aa24bae8dd2683077b_cell_6026.png,True,train
+CRIC,ec14a8dad00ce2aa24bae8dd2683077b.png,6028,1162,443,Negative for intraepithelial lesion,0,data\processed\cric_crops\ec14a8dad00ce2aa24bae8dd2683077b_cell_6028.png,True,train
+CRIC,ec14a8dad00ce2aa24bae8dd2683077b.png,6040,1254,641,Negative for intraepithelial lesion,0,data\processed\cric_crops\ec14a8dad00ce2aa24bae8dd2683077b_cell_6040.png,True,train
+CRIC,ec14a8dad00ce2aa24bae8dd2683077b.png,6050,1052,990,Negative for intraepithelial lesion,0,data\processed\cric_crops\ec14a8dad00ce2aa24bae8dd2683077b_cell_6050.png,True,train
+CRIC,055cde67bf7565df83f914b053ab86eb.png,6130,367,141,Negative for intraepithelial lesion,0,data\processed\cric_crops\055cde67bf7565df83f914b053ab86eb_cell_6130.png,True,train
+CRIC,055cde67bf7565df83f914b053ab86eb.png,6133,776,5,Negative for intraepithelial lesion,0,data\processed\cric_crops\055cde67bf7565df83f914b053ab86eb_cell_6133.png,True,train
+CRIC,b8491225e9d46d5f48c33c310b7d2755.png,6187,625,514,Negative for intraepithelial lesion,0,data\processed\cric_crops\b8491225e9d46d5f48c33c310b7d2755_cell_6187.png,True,train
+CRIC,b8491225e9d46d5f48c33c310b7d2755.png,6197,30,616,Negative for intraepithelial lesion,0,data\processed\cric_crops\b8491225e9d46d5f48c33c310b7d2755_cell_6197.png,True,train
+CRIC,c01b36e0a384197ca9a2e6bcd2c552e1.png,6240,1065,246,Negative for intraepithelial lesion,0,data\processed\cric_crops\c01b36e0a384197ca9a2e6bcd2c552e1_cell_6240.png,True,train
+CRIC,ae9ad0a0e62cb046468591ce92237bfc.png,6335,583,292,Negative for intraepithelial lesion,0,data\processed\cric_crops\ae9ad0a0e62cb046468591ce92237bfc_cell_6335.png,True,train
+CRIC,ae9ad0a0e62cb046468591ce92237bfc.png,6337,868,26,Negative for intraepithelial lesion,0,data\processed\cric_crops\ae9ad0a0e62cb046468591ce92237bfc_cell_6337.png,True,train
+CRIC,ae9ad0a0e62cb046468591ce92237bfc.png,6355,94,917,Negative for intraepithelial lesion,0,data\processed\cric_crops\ae9ad0a0e62cb046468591ce92237bfc_cell_6355.png,True,train
+CRIC,c0d57801655afd0ab48ad3f1e4b43603.png,6400,370,436,Negative for intraepithelial lesion,0,data\processed\cric_crops\c0d57801655afd0ab48ad3f1e4b43603_cell_6400.png,True,train
+CRIC,f015142693fefeb45ad5202b66404293.png,6442,878,172,Negative for intraepithelial lesion,0,data\processed\cric_crops\f015142693fefeb45ad5202b66404293_cell_6442.png,True,train
+CRIC,bcebe0cdee9c892e34e20a5bf3e96a20.png,6486,129,791,Negative for intraepithelial lesion,0,data\processed\cric_crops\bcebe0cdee9c892e34e20a5bf3e96a20_cell_6486.png,True,train
+CRIC,bcebe0cdee9c892e34e20a5bf3e96a20.png,6492,578,540,Negative for intraepithelial lesion,0,data\processed\cric_crops\bcebe0cdee9c892e34e20a5bf3e96a20_cell_6492.png,True,train
+CRIC,bcebe0cdee9c892e34e20a5bf3e96a20.png,6494,580,810,Negative for intraepithelial lesion,0,data\processed\cric_crops\bcebe0cdee9c892e34e20a5bf3e96a20_cell_6494.png,True,train
+CRIC,bcebe0cdee9c892e34e20a5bf3e96a20.png,6502,1025,203,Negative for intraepithelial lesion,0,data\processed\cric_crops\bcebe0cdee9c892e34e20a5bf3e96a20_cell_6502.png,True,train
+CRIC,8d62bc0267b58954ef9fa8e355d6ec22.png,6530,210,792,Negative for intraepithelial lesion,0,data\processed\cric_crops\8d62bc0267b58954ef9fa8e355d6ec22_cell_6530.png,True,train
+CRIC,4a34b60331799fdc99ccce2ac9531a9d.png,6623,922,886,Negative for intraepithelial lesion,0,data\processed\cric_crops\4a34b60331799fdc99ccce2ac9531a9d_cell_6623.png,True,train
+CRIC,4a34b60331799fdc99ccce2ac9531a9d.png,6631,412,115,Negative for intraepithelial lesion,0,data\processed\cric_crops\4a34b60331799fdc99ccce2ac9531a9d_cell_6631.png,True,train
+CRIC,4a34b60331799fdc99ccce2ac9531a9d.png,6635,897,136,Negative for intraepithelial lesion,0,data\processed\cric_crops\4a34b60331799fdc99ccce2ac9531a9d_cell_6635.png,True,train
+CRIC,7d9c47264d5ffa28fdb561d0be14bb90.png,6655,705,564,Negative for intraepithelial lesion,0,data\processed\cric_crops\7d9c47264d5ffa28fdb561d0be14bb90_cell_6655.png,True,train
+CRIC,a42845987c650d7243ad0c08e97debf5.png,6776,595,123,Negative for intraepithelial lesion,0,data\processed\cric_crops\a42845987c650d7243ad0c08e97debf5_cell_6776.png,True,train
+CRIC,a42845987c650d7243ad0c08e97debf5.png,6779,561,270,Negative for intraepithelial lesion,0,data\processed\cric_crops\a42845987c650d7243ad0c08e97debf5_cell_6779.png,True,train
+CRIC,a42845987c650d7243ad0c08e97debf5.png,6795,557,838,Negative for intraepithelial lesion,0,data\processed\cric_crops\a42845987c650d7243ad0c08e97debf5_cell_6795.png,True,train
+CRIC,a42845987c650d7243ad0c08e97debf5.png,6797,428,985,Negative for intraepithelial lesion,0,data\processed\cric_crops\a42845987c650d7243ad0c08e97debf5_cell_6797.png,True,train
+CRIC,a42845987c650d7243ad0c08e97debf5.png,6811,956,411,Negative for intraepithelial lesion,0,data\processed\cric_crops\a42845987c650d7243ad0c08e97debf5_cell_6811.png,True,train
+CRIC,c642b1c083b38d9b56724bc76867459e.png,6900,64,123,Negative for intraepithelial lesion,0,data\processed\cric_crops\c642b1c083b38d9b56724bc76867459e_cell_6900.png,True,train
+CRIC,c642b1c083b38d9b56724bc76867459e.png,6907,502,200,Negative for intraepithelial lesion,0,data\processed\cric_crops\c642b1c083b38d9b56724bc76867459e_cell_6907.png,True,train
+CRIC,e9743b8e738f3f0bd2a084cbf8dc1cab.png,6975,633,957,Negative for intraepithelial lesion,0,data\processed\cric_crops\e9743b8e738f3f0bd2a084cbf8dc1cab_cell_6975.png,True,train
+CRIC,d87688d665139adb1d9dec9f902fa4a9.png,6985,244,190,Negative for intraepithelial lesion,0,data\processed\cric_crops\d87688d665139adb1d9dec9f902fa4a9_cell_6985.png,True,train
+CRIC,84c4b1e0a44ff6f6ce78e04f751518ed.png,7030,335,174,Negative for intraepithelial lesion,0,data\processed\cric_crops\84c4b1e0a44ff6f6ce78e04f751518ed_cell_7030.png,True,train
+CRIC,84c4b1e0a44ff6f6ce78e04f751518ed.png,7060,412,28,Negative for intraepithelial lesion,0,data\processed\cric_crops\84c4b1e0a44ff6f6ce78e04f751518ed_cell_7060.png,True,train
+CRIC,a83df706a2f6abcc60ee209fc3cb9b64.png,7071,695,634,Negative for intraepithelial lesion,0,data\processed\cric_crops\a83df706a2f6abcc60ee209fc3cb9b64_cell_7071.png,True,train
+CRIC,a83df706a2f6abcc60ee209fc3cb9b64.png,7073,764,822,Negative for intraepithelial lesion,0,data\processed\cric_crops\a83df706a2f6abcc60ee209fc3cb9b64_cell_7073.png,True,train
+CRIC,a83df706a2f6abcc60ee209fc3cb9b64.png,7081,648,400,Negative for intraepithelial lesion,0,data\processed\cric_crops\a83df706a2f6abcc60ee209fc3cb9b64_cell_7081.png,True,train
+CRIC,a83df706a2f6abcc60ee209fc3cb9b64.png,7089,1064,491,Negative for intraepithelial lesion,0,data\processed\cric_crops\a83df706a2f6abcc60ee209fc3cb9b64_cell_7089.png,True,train
+CRIC,a83df706a2f6abcc60ee209fc3cb9b64.png,7090,1094,368,Negative for intraepithelial lesion,0,data\processed\cric_crops\a83df706a2f6abcc60ee209fc3cb9b64_cell_7090.png,True,train
+CRIC,21b6561df430853f3831fd83389c109f.png,7142,958,496,Negative for intraepithelial lesion,0,data\processed\cric_crops\21b6561df430853f3831fd83389c109f_cell_7142.png,True,train
+CRIC,21b6561df430853f3831fd83389c109f.png,7159,370,666,Negative for intraepithelial lesion,0,data\processed\cric_crops\21b6561df430853f3831fd83389c109f_cell_7159.png,True,train
+CRIC,21b6561df430853f3831fd83389c109f.png,7161,474,724,Negative for intraepithelial lesion,0,data\processed\cric_crops\21b6561df430853f3831fd83389c109f_cell_7161.png,True,train
+CRIC,21b6561df430853f3831fd83389c109f.png,7174,203,804,Negative for intraepithelial lesion,0,data\processed\cric_crops\21b6561df430853f3831fd83389c109f_cell_7174.png,True,train
+CRIC,21b6561df430853f3831fd83389c109f.png,7184,96,831,Negative for intraepithelial lesion,0,data\processed\cric_crops\21b6561df430853f3831fd83389c109f_cell_7184.png,True,train
+CRIC,ccfee7ab69cc4221156c47426b0e8ec8.png,7270,349,469,Negative for intraepithelial lesion,0,data\processed\cric_crops\ccfee7ab69cc4221156c47426b0e8ec8_cell_7270.png,True,train
+CRIC,ccfee7ab69cc4221156c47426b0e8ec8.png,7280,604,642,Negative for intraepithelial lesion,0,data\processed\cric_crops\ccfee7ab69cc4221156c47426b0e8ec8_cell_7280.png,True,train
+CRIC,624930d9bfc4219ba1bdd73ea3fed13b.png,7328,682,849,Negative for intraepithelial lesion,0,data\processed\cric_crops\624930d9bfc4219ba1bdd73ea3fed13b_cell_7328.png,True,train
+CRIC,624930d9bfc4219ba1bdd73ea3fed13b.png,7330,194,917,Negative for intraepithelial lesion,0,data\processed\cric_crops\624930d9bfc4219ba1bdd73ea3fed13b_cell_7330.png,True,train
+CRIC,624930d9bfc4219ba1bdd73ea3fed13b.png,7335,1109,897,Negative for intraepithelial lesion,0,data\processed\cric_crops\624930d9bfc4219ba1bdd73ea3fed13b_cell_7335.png,True,train
+CRIC,edc3ac951f31fca241b7f04d2c5daac5.png,7402,1048,650,Negative for intraepithelial lesion,0,data\processed\cric_crops\edc3ac951f31fca241b7f04d2c5daac5_cell_7402.png,True,train
+CRIC,0b1732c713ea3f212e602c004fedeb65.png,7474,1197,942,Negative for intraepithelial lesion,0,data\processed\cric_crops\0b1732c713ea3f212e602c004fedeb65_cell_7474.png,True,train
+CRIC,0b1732c713ea3f212e602c004fedeb65.png,7483,747,821,Negative for intraepithelial lesion,0,data\processed\cric_crops\0b1732c713ea3f212e602c004fedeb65_cell_7483.png,True,train
+CRIC,0b1732c713ea3f212e602c004fedeb65.png,7500,674,963,Negative for intraepithelial lesion,0,data\processed\cric_crops\0b1732c713ea3f212e602c004fedeb65_cell_7500.png,True,train
+CRIC,5f5ca39f3cb7338eeaec5f00faa11447.png,7509,413,77,Negative for intraepithelial lesion,0,data\processed\cric_crops\5f5ca39f3cb7338eeaec5f00faa11447_cell_7509.png,True,train
+CRIC,5f5ca39f3cb7338eeaec5f00faa11447.png,7535,428,757,Negative for intraepithelial lesion,0,data\processed\cric_crops\5f5ca39f3cb7338eeaec5f00faa11447_cell_7535.png,True,train
+CRIC,5f5ca39f3cb7338eeaec5f00faa11447.png,7539,677,548,Negative for intraepithelial lesion,0,data\processed\cric_crops\5f5ca39f3cb7338eeaec5f00faa11447_cell_7539.png,True,train
+CRIC,5f5ca39f3cb7338eeaec5f00faa11447.png,7543,682,932,Negative for intraepithelial lesion,0,data\processed\cric_crops\5f5ca39f3cb7338eeaec5f00faa11447_cell_7543.png,True,train
+CRIC,5f5ca39f3cb7338eeaec5f00faa11447.png,7544,557,867,Negative for intraepithelial lesion,0,data\processed\cric_crops\5f5ca39f3cb7338eeaec5f00faa11447_cell_7544.png,True,train
+CRIC,023fcddb41b212f8ac3edde190d4ae5c.png,7585,777,138,Negative for intraepithelial lesion,0,data\processed\cric_crops\023fcddb41b212f8ac3edde190d4ae5c_cell_7585.png,True,train
+CRIC,023fcddb41b212f8ac3edde190d4ae5c.png,7595,98,889,Negative for intraepithelial lesion,0,data\processed\cric_crops\023fcddb41b212f8ac3edde190d4ae5c_cell_7595.png,True,train
+CRIC,688bb88091ed6d58563888211455a559.png,7605,421,789,HSIL,1,data\processed\cric_crops\688bb88091ed6d58563888211455a559_cell_7605.png,True,train
+CRIC,ee5338ab73b4db0c88f9e9dc98aca68e.png,7620,733,446,SCC,1,data\processed\cric_crops\ee5338ab73b4db0c88f9e9dc98aca68e_cell_7620.png,True,train
+CRIC,9b77f6a1b82859bc68b26fae965564fa.png,7734,700,738,SCC,1,data\processed\cric_crops\9b77f6a1b82859bc68b26fae965564fa_cell_7734.png,True,train
+CRIC,9b77f6a1b82859bc68b26fae965564fa.png,7749,1143,555,SCC,1,data\processed\cric_crops\9b77f6a1b82859bc68b26fae965564fa_cell_7749.png,True,train
+CRIC,9b712bff27856e5b7a14e4bbf67a4abc.png,7779,694,740,HSIL,1,data\processed\cric_crops\9b712bff27856e5b7a14e4bbf67a4abc_cell_7779.png,True,train
+CRIC,4bdf1fe55c86e3fd82c022a744de5958.png,7898,1074,280,SCC,1,data\processed\cric_crops\4bdf1fe55c86e3fd82c022a744de5958_cell_7898.png,True,train
+CRIC,4bdf1fe55c86e3fd82c022a744de5958.png,7903,163,714,LSIL,1,data\processed\cric_crops\4bdf1fe55c86e3fd82c022a744de5958_cell_7903.png,True,train
+CRIC,4bdf1fe55c86e3fd82c022a744de5958.png,7906,860,841,HSIL,1,data\processed\cric_crops\4bdf1fe55c86e3fd82c022a744de5958_cell_7906.png,True,train
+CRIC,81508bd550a84bbe5731b93048e54270.png,7912,652,641,SCC,1,data\processed\cric_crops\81508bd550a84bbe5731b93048e54270_cell_7912.png,True,train
+CRIC,de81ced6d8b99536da382f09b4290d70.png,7997,1058,724,LSIL,1,data\processed\cric_crops\de81ced6d8b99536da382f09b4290d70_cell_7997.png,True,train
+CRIC,de81ced6d8b99536da382f09b4290d70.png,8009,107,799,HSIL,1,data\processed\cric_crops\de81ced6d8b99536da382f09b4290d70_cell_8009.png,True,train
+CRIC,c7adf1972424f069b6355c500962722f.png,8016,1022,113,HSIL,1,data\processed\cric_crops\c7adf1972424f069b6355c500962722f_cell_8016.png,True,train
+CRIC,c7adf1972424f069b6355c500962722f.png,8046,1250,132,ASC-US,1,data\processed\cric_crops\c7adf1972424f069b6355c500962722f_cell_8046.png,True,train
+CRIC,6bb20c67c4013e8805d0f64315b9bcb1.png,8060,559,727,HSIL,1,data\processed\cric_crops\6bb20c67c4013e8805d0f64315b9bcb1_cell_8060.png,True,train
+CRIC,6bb20c67c4013e8805d0f64315b9bcb1.png,8068,720,661,HSIL,1,data\processed\cric_crops\6bb20c67c4013e8805d0f64315b9bcb1_cell_8068.png,True,train
+CRIC,6bb20c67c4013e8805d0f64315b9bcb1.png,8074,468,795,HSIL,1,data\processed\cric_crops\6bb20c67c4013e8805d0f64315b9bcb1_cell_8074.png,True,train
+CRIC,6bb20c67c4013e8805d0f64315b9bcb1.png,8085,947,841,HSIL,1,data\processed\cric_crops\6bb20c67c4013e8805d0f64315b9bcb1_cell_8085.png,True,train
+CRIC,6bb20c67c4013e8805d0f64315b9bcb1.png,8123,942,356,ASC-US,1,data\processed\cric_crops\6bb20c67c4013e8805d0f64315b9bcb1_cell_8123.png,True,train
+CRIC,0f023f6ad3d33b33334016798995fe53.png,8162,675,437,Negative for intraepithelial lesion,0,data\processed\cric_crops\0f023f6ad3d33b33334016798995fe53_cell_8162.png,True,train
+CRIC,dd61f345bc7cdcbf3bb86d58eb0992b4.png,8174,465,525,Negative for intraepithelial lesion,0,data\processed\cric_crops\dd61f345bc7cdcbf3bb86d58eb0992b4_cell_8174.png,True,train
+CRIC,dd61f345bc7cdcbf3bb86d58eb0992b4.png,8179,702,552,Negative for intraepithelial lesion,0,data\processed\cric_crops\dd61f345bc7cdcbf3bb86d58eb0992b4_cell_8179.png,True,train
+CRIC,ec342d2fc5da33cd79e9c1e3c507778e.png,8209,371,219,HSIL,1,data\processed\cric_crops\ec342d2fc5da33cd79e9c1e3c507778e_cell_8209.png,True,train
+CRIC,ec342d2fc5da33cd79e9c1e3c507778e.png,8210,1053,821,Negative for intraepithelial lesion,0,data\processed\cric_crops\ec342d2fc5da33cd79e9c1e3c507778e_cell_8210.png,True,train
+CRIC,408929e7f250196167bf4418c08fd999.png,8226,845,815,HSIL,1,data\processed\cric_crops\408929e7f250196167bf4418c08fd999_cell_8226.png,True,train
+CRIC,408929e7f250196167bf4418c08fd999.png,8247,780,295,HSIL,1,data\processed\cric_crops\408929e7f250196167bf4418c08fd999_cell_8247.png,True,train
+CRIC,408929e7f250196167bf4418c08fd999.png,8257,908,445,HSIL,1,data\processed\cric_crops\408929e7f250196167bf4418c08fd999_cell_8257.png,True,train
+CRIC,408929e7f250196167bf4418c08fd999.png,8270,435,506,HSIL,1,data\processed\cric_crops\408929e7f250196167bf4418c08fd999_cell_8270.png,True,train
+CRIC,5e0c3876e86a354de6847e17b71133a4.png,8285,305,296,HSIL,1,data\processed\cric_crops\5e0c3876e86a354de6847e17b71133a4_cell_8285.png,True,train
+CRIC,5e0c3876e86a354de6847e17b71133a4.png,8330,924,682,HSIL,1,data\processed\cric_crops\5e0c3876e86a354de6847e17b71133a4_cell_8330.png,True,train
+CRIC,62b10ef656ce919574d9479871af5aee.png,8419,978,702,HSIL,1,data\processed\cric_crops\62b10ef656ce919574d9479871af5aee_cell_8419.png,True,train
+CRIC,62b10ef656ce919574d9479871af5aee.png,8435,939,404,HSIL,1,data\processed\cric_crops\62b10ef656ce919574d9479871af5aee_cell_8435.png,True,train
+CRIC,62b10ef656ce919574d9479871af5aee.png,8441,821,548,HSIL,1,data\processed\cric_crops\62b10ef656ce919574d9479871af5aee_cell_8441.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8503,69,279,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8503.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8531,218,739,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8531.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8535,249,616,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8535.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8537,314,662,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8537.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8557,599,641,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8557.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8559,665,707,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8559.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8591,903,697,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8591.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8594,927,592,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8594.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8604,1142,448,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8604.png,True,train
+CRIC,19bdf3c429c892641865a1bd2b143fea.png,8605,1146,503,HSIL,1,data\processed\cric_crops\19bdf3c429c892641865a1bd2b143fea_cell_8605.png,True,train
+CRIC,5e5f9e511001c3ead65b7dc51897a1ba.png,8824,797,616,HSIL,1,data\processed\cric_crops\5e5f9e511001c3ead65b7dc51897a1ba_cell_8824.png,True,train
+CRIC,5e5f9e511001c3ead65b7dc51897a1ba.png,8884,1103,427,HSIL,1,data\processed\cric_crops\5e5f9e511001c3ead65b7dc51897a1ba_cell_8884.png,True,train
+CRIC,f29860b096765cfacea56a44c4fd805d.png,8947,756,844,HSIL,1,data\processed\cric_crops\f29860b096765cfacea56a44c4fd805d_cell_8947.png,True,train
+CRIC,f29860b096765cfacea56a44c4fd805d.png,8954,521,420,HSIL,1,data\processed\cric_crops\f29860b096765cfacea56a44c4fd805d_cell_8954.png,True,train
+CRIC,f29860b096765cfacea56a44c4fd805d.png,8955,513,362,HSIL,1,data\processed\cric_crops\f29860b096765cfacea56a44c4fd805d_cell_8955.png,True,train
+CRIC,f29860b096765cfacea56a44c4fd805d.png,8957,561,416,HSIL,1,data\processed\cric_crops\f29860b096765cfacea56a44c4fd805d_cell_8957.png,True,train
+CRIC,f29860b096765cfacea56a44c4fd805d.png,8969,549,324,HSIL,1,data\processed\cric_crops\f29860b096765cfacea56a44c4fd805d_cell_8969.png,True,train
+CRIC,f29860b096765cfacea56a44c4fd805d.png,8997,959,143,HSIL,1,data\processed\cric_crops\f29860b096765cfacea56a44c4fd805d_cell_8997.png,True,train
+CRIC,3831ee45ac7b7283b9becaa7116d8f33.png,9026,905,138,HSIL,1,data\processed\cric_crops\3831ee45ac7b7283b9becaa7116d8f33_cell_9026.png,True,train
+CRIC,3831ee45ac7b7283b9becaa7116d8f33.png,9060,657,260,HSIL,1,data\processed\cric_crops\3831ee45ac7b7283b9becaa7116d8f33_cell_9060.png,True,train
+CRIC,69a7526d382f793aaccd7dfe79dd2901.png,9163,249,767,LSIL,1,data\processed\cric_crops\69a7526d382f793aaccd7dfe79dd2901_cell_9163.png,True,train
+CRIC,69a7526d382f793aaccd7dfe79dd2901.png,9166,404,697,LSIL,1,data\processed\cric_crops\69a7526d382f793aaccd7dfe79dd2901_cell_9166.png,True,train
+CRIC,69a7526d382f793aaccd7dfe79dd2901.png,9214,867,279,ASC-H,1,data\processed\cric_crops\69a7526d382f793aaccd7dfe79dd2901_cell_9214.png,True,train
+CRIC,69a7526d382f793aaccd7dfe79dd2901.png,9224,1084,625,ASC-H,1,data\processed\cric_crops\69a7526d382f793aaccd7dfe79dd2901_cell_9224.png,True,train
+CRIC,69a7526d382f793aaccd7dfe79dd2901.png,9227,935,672,ASC-H,1,data\processed\cric_crops\69a7526d382f793aaccd7dfe79dd2901_cell_9227.png,True,train
+CRIC,4e36cfad62c065237107d1a0fe1abd9b.png,9262,984,496,HSIL,1,data\processed\cric_crops\4e36cfad62c065237107d1a0fe1abd9b_cell_9262.png,True,train
+CRIC,83685961615806fbb89a8788aa117f05.png,9371,740,802,HSIL,1,data\processed\cric_crops\83685961615806fbb89a8788aa117f05_cell_9371.png,True,train
+CRIC,83685961615806fbb89a8788aa117f05.png,9399,633,562,HSIL,1,data\processed\cric_crops\83685961615806fbb89a8788aa117f05_cell_9399.png,True,train
+CRIC,83685961615806fbb89a8788aa117f05.png,9400,756,476,HSIL,1,data\processed\cric_crops\83685961615806fbb89a8788aa117f05_cell_9400.png,True,train
+CRIC,83685961615806fbb89a8788aa117f05.png,9408,584,301,HSIL,1,data\processed\cric_crops\83685961615806fbb89a8788aa117f05_cell_9408.png,True,train
+CRIC,83685961615806fbb89a8788aa117f05.png,9418,996,624,HSIL,1,data\processed\cric_crops\83685961615806fbb89a8788aa117f05_cell_9418.png,True,train
+CRIC,83685961615806fbb89a8788aa117f05.png,9442,857,443,HSIL,1,data\processed\cric_crops\83685961615806fbb89a8788aa117f05_cell_9442.png,True,train
+CRIC,5223912945e356e1d6de561ad62a946f.png,9574,674,947,Negative for intraepithelial lesion,0,data\processed\cric_crops\5223912945e356e1d6de561ad62a946f_cell_9574.png,True,train
+CRIC,5223912945e356e1d6de561ad62a946f.png,9597,642,556,ASC-H,1,data\processed\cric_crops\5223912945e356e1d6de561ad62a946f_cell_9597.png,True,train
+CRIC,28508d4d8bb189cedd8d6c79b8d529c9.png,9643,930,181,ASC-H,1,data\processed\cric_crops\28508d4d8bb189cedd8d6c79b8d529c9_cell_9643.png,True,train
+CRIC,28508d4d8bb189cedd8d6c79b8d529c9.png,9674,715,692,ASC-H,1,data\processed\cric_crops\28508d4d8bb189cedd8d6c79b8d529c9_cell_9674.png,True,train
+CRIC,28508d4d8bb189cedd8d6c79b8d529c9.png,9689,404,799,ASC-H,1,data\processed\cric_crops\28508d4d8bb189cedd8d6c79b8d529c9_cell_9689.png,True,train
+CRIC,28508d4d8bb189cedd8d6c79b8d529c9.png,9692,357,834,ASC-H,1,data\processed\cric_crops\28508d4d8bb189cedd8d6c79b8d529c9_cell_9692.png,True,train
+CRIC,61b751b4e6c2a79d0369b24683339be1.png,9729,862,353,ASC-H,1,data\processed\cric_crops\61b751b4e6c2a79d0369b24683339be1_cell_9729.png,True,train
+CRIC,61b751b4e6c2a79d0369b24683339be1.png,9739,714,424,ASC-H,1,data\processed\cric_crops\61b751b4e6c2a79d0369b24683339be1_cell_9739.png,True,train
+CRIC,41766de1e13ae83bdad1f7b71a606340.png,9954,755,394,ASC-H,1,data\processed\cric_crops\41766de1e13ae83bdad1f7b71a606340_cell_9954.png,True,train
+CRIC,41766de1e13ae83bdad1f7b71a606340.png,9968,781,995,Negative for intraepithelial lesion,0,data\processed\cric_crops\41766de1e13ae83bdad1f7b71a606340_cell_9968.png,True,train
+CRIC,5ddea605aee431bb47d9580882733a87.png,10137,725,445,Negative for intraepithelial lesion,0,data\processed\cric_crops\5ddea605aee431bb47d9580882733a87_cell_10137.png,True,train
+CRIC,33708abb81e40ff45d1510c44546e82f.png,10164,1261,604,LSIL,1,data\processed\cric_crops\33708abb81e40ff45d1510c44546e82f_cell_10164.png,True,train
+CRIC,dd569f426f91cc5d6a20804c800d6eb3.png,10185,722,572,LSIL,1,data\processed\cric_crops\dd569f426f91cc5d6a20804c800d6eb3_cell_10185.png,True,train
+CRIC,dd569f426f91cc5d6a20804c800d6eb3.png,10191,959,33,ASC-US,1,data\processed\cric_crops\dd569f426f91cc5d6a20804c800d6eb3_cell_10191.png,True,train
+CRIC,dd569f426f91cc5d6a20804c800d6eb3.png,10196,630,531,LSIL,1,data\processed\cric_crops\dd569f426f91cc5d6a20804c800d6eb3_cell_10196.png,True,train
+CRIC,dd569f426f91cc5d6a20804c800d6eb3.png,10210,388,804,Negative for intraepithelial lesion,0,data\processed\cric_crops\dd569f426f91cc5d6a20804c800d6eb3_cell_10210.png,True,train
+CRIC,dd569f426f91cc5d6a20804c800d6eb3.png,10211,375,537,ASC-US,1,data\processed\cric_crops\dd569f426f91cc5d6a20804c800d6eb3_cell_10211.png,True,train
+CRIC,dd569f426f91cc5d6a20804c800d6eb3.png,10216,798,29,Negative for intraepithelial lesion,0,data\processed\cric_crops\dd569f426f91cc5d6a20804c800d6eb3_cell_10216.png,True,train
+CRIC,9e3b55d7afdc1573cc15b347d053ec07.png,10231,1162,521,Negative for intraepithelial lesion,0,data\processed\cric_crops\9e3b55d7afdc1573cc15b347d053ec07_cell_10231.png,True,train
+CRIC,466a61aa31579a2ffb3c561f5a5d37d0.png,10270,693,796,LSIL,1,data\processed\cric_crops\466a61aa31579a2ffb3c561f5a5d37d0_cell_10270.png,True,train
+CRIC,466a61aa31579a2ffb3c561f5a5d37d0.png,10271,982,790,LSIL,1,data\processed\cric_crops\466a61aa31579a2ffb3c561f5a5d37d0_cell_10271.png,True,train
+CRIC,466a61aa31579a2ffb3c561f5a5d37d0.png,10276,152,724,LSIL,1,data\processed\cric_crops\466a61aa31579a2ffb3c561f5a5d37d0_cell_10276.png,True,train
+CRIC,466a61aa31579a2ffb3c561f5a5d37d0.png,10294,1082,154,Negative for intraepithelial lesion,0,data\processed\cric_crops\466a61aa31579a2ffb3c561f5a5d37d0_cell_10294.png,True,train
+CRIC,466a61aa31579a2ffb3c561f5a5d37d0.png,10296,1143,549,Negative for intraepithelial lesion,0,data\processed\cric_crops\466a61aa31579a2ffb3c561f5a5d37d0_cell_10296.png,True,train
+CRIC,466a61aa31579a2ffb3c561f5a5d37d0.png,10303,175,511,Negative for intraepithelial lesion,0,data\processed\cric_crops\466a61aa31579a2ffb3c561f5a5d37d0_cell_10303.png,True,train
+CRIC,466a61aa31579a2ffb3c561f5a5d37d0.png,10304,287,388,Negative for intraepithelial lesion,0,data\processed\cric_crops\466a61aa31579a2ffb3c561f5a5d37d0_cell_10304.png,True,train
+CRIC,ee78da0c06d978fec8d86a8d97182445.png,10385,843,782,Negative for intraepithelial lesion,0,data\processed\cric_crops\ee78da0c06d978fec8d86a8d97182445_cell_10385.png,True,train
+CRIC,ee78da0c06d978fec8d86a8d97182445.png,10386,1137,90,Negative for intraepithelial lesion,0,data\processed\cric_crops\ee78da0c06d978fec8d86a8d97182445_cell_10386.png,True,train
+CRIC,ee78da0c06d978fec8d86a8d97182445.png,10388,1012,22,ASC-US,1,data\processed\cric_crops\ee78da0c06d978fec8d86a8d97182445_cell_10388.png,True,train
+CRIC,07872ee58dea1007dd5d4afa5fb2556d.png,10411,952,578,Negative for intraepithelial lesion,0,data\processed\cric_crops\07872ee58dea1007dd5d4afa5fb2556d_cell_10411.png,True,train
+CRIC,07872ee58dea1007dd5d4afa5fb2556d.png,10427,379,865,Negative for intraepithelial lesion,0,data\processed\cric_crops\07872ee58dea1007dd5d4afa5fb2556d_cell_10427.png,True,train
+CRIC,88e5e1814b1a2c4d30e28f8b98ba157c.png,10447,152,810,Negative for intraepithelial lesion,0,data\processed\cric_crops\88e5e1814b1a2c4d30e28f8b98ba157c_cell_10447.png,True,train
+CRIC,88e5e1814b1a2c4d30e28f8b98ba157c.png,10448,72,422,Negative for intraepithelial lesion,0,data\processed\cric_crops\88e5e1814b1a2c4d30e28f8b98ba157c_cell_10448.png,True,train
+CRIC,88e5e1814b1a2c4d30e28f8b98ba157c.png,10461,660,904,Negative for intraepithelial lesion,0,data\processed\cric_crops\88e5e1814b1a2c4d30e28f8b98ba157c_cell_10461.png,True,train
+CRIC,88e5e1814b1a2c4d30e28f8b98ba157c.png,10462,708,734,Negative for intraepithelial lesion,0,data\processed\cric_crops\88e5e1814b1a2c4d30e28f8b98ba157c_cell_10462.png,True,train
+CRIC,88e5e1814b1a2c4d30e28f8b98ba157c.png,10484,1044,718,Negative for intraepithelial lesion,0,data\processed\cric_crops\88e5e1814b1a2c4d30e28f8b98ba157c_cell_10484.png,True,train
+CRIC,0489736e8d880b5188b04d11c3131cd3.png,10539,1202,316,Negative for intraepithelial lesion,0,data\processed\cric_crops\0489736e8d880b5188b04d11c3131cd3_cell_10539.png,True,train
+CRIC,0489736e8d880b5188b04d11c3131cd3.png,10540,1206,192,Negative for intraepithelial lesion,0,data\processed\cric_crops\0489736e8d880b5188b04d11c3131cd3_cell_10540.png,True,train
+CRIC,0489736e8d880b5188b04d11c3131cd3.png,10543,1186,460,Negative for intraepithelial lesion,0,data\processed\cric_crops\0489736e8d880b5188b04d11c3131cd3_cell_10543.png,True,train
+CRIC,0489736e8d880b5188b04d11c3131cd3.png,10544,1042,778,Negative for intraepithelial lesion,0,data\processed\cric_crops\0489736e8d880b5188b04d11c3131cd3_cell_10544.png,True,train
+CRIC,c5a3e789e449a8123509be5fd671b6b2.png,10641,1259,776,Negative for intraepithelial lesion,0,data\processed\cric_crops\c5a3e789e449a8123509be5fd671b6b2_cell_10641.png,True,train
+CRIC,584d79af21c45131e9af9d54d2c2b8e4.png,10660,321,639,Negative for intraepithelial lesion,0,data\processed\cric_crops\584d79af21c45131e9af9d54d2c2b8e4_cell_10660.png,True,train
+CRIC,584d79af21c45131e9af9d54d2c2b8e4.png,10685,850,720,Negative for intraepithelial lesion,0,data\processed\cric_crops\584d79af21c45131e9af9d54d2c2b8e4_cell_10685.png,True,train
+CRIC,584d79af21c45131e9af9d54d2c2b8e4.png,10703,372,778,Negative for intraepithelial lesion,0,data\processed\cric_crops\584d79af21c45131e9af9d54d2c2b8e4_cell_10703.png,True,train
+CRIC,584d79af21c45131e9af9d54d2c2b8e4.png,10705,562,754,Negative for intraepithelial lesion,0,data\processed\cric_crops\584d79af21c45131e9af9d54d2c2b8e4_cell_10705.png,True,train
+CRIC,584d79af21c45131e9af9d54d2c2b8e4.png,10713,759,420,Negative for intraepithelial lesion,0,data\processed\cric_crops\584d79af21c45131e9af9d54d2c2b8e4_cell_10713.png,True,train
+CRIC,584d79af21c45131e9af9d54d2c2b8e4.png,10720,447,447,ASC-US,1,data\processed\cric_crops\584d79af21c45131e9af9d54d2c2b8e4_cell_10720.png,True,train
+CRIC,36a2bc6bae69351df86a4a2fe4d49c2a.png,10724,1180,58,Negative for intraepithelial lesion,0,data\processed\cric_crops\36a2bc6bae69351df86a4a2fe4d49c2a_cell_10724.png,True,train
+CRIC,36a2bc6bae69351df86a4a2fe4d49c2a.png,10730,650,384,Negative for intraepithelial lesion,0,data\processed\cric_crops\36a2bc6bae69351df86a4a2fe4d49c2a_cell_10730.png,True,train
+CRIC,36a2bc6bae69351df86a4a2fe4d49c2a.png,10739,640,870,Negative for intraepithelial lesion,0,data\processed\cric_crops\36a2bc6bae69351df86a4a2fe4d49c2a_cell_10739.png,True,train
+CRIC,36a2bc6bae69351df86a4a2fe4d49c2a.png,10743,200,728,Negative for intraepithelial lesion,0,data\processed\cric_crops\36a2bc6bae69351df86a4a2fe4d49c2a_cell_10743.png,True,train
+CRIC,f981c4aac622d7cce71a81305dd38ade.png,10785,682,234,Negative for intraepithelial lesion,0,data\processed\cric_crops\f981c4aac622d7cce71a81305dd38ade_cell_10785.png,True,train
+CRIC,f981c4aac622d7cce71a81305dd38ade.png,10787,791,206,Negative for intraepithelial lesion,0,data\processed\cric_crops\f981c4aac622d7cce71a81305dd38ade_cell_10787.png,True,train
+CRIC,f981c4aac622d7cce71a81305dd38ade.png,10812,964,842,Negative for intraepithelial lesion,0,data\processed\cric_crops\f981c4aac622d7cce71a81305dd38ade_cell_10812.png,True,train
+CRIC,d67cd01defdc182ca48cee14e776f22c.png,10828,207,163,Negative for intraepithelial lesion,0,data\processed\cric_crops\d67cd01defdc182ca48cee14e776f22c_cell_10828.png,True,train
+CRIC,d67cd01defdc182ca48cee14e776f22c.png,10838,518,294,Negative for intraepithelial lesion,0,data\processed\cric_crops\d67cd01defdc182ca48cee14e776f22c_cell_10838.png,True,train
+CRIC,d67cd01defdc182ca48cee14e776f22c.png,10845,532,815,Negative for intraepithelial lesion,0,data\processed\cric_crops\d67cd01defdc182ca48cee14e776f22c_cell_10845.png,True,train
+CRIC,d67cd01defdc182ca48cee14e776f22c.png,10857,299,795,Negative for intraepithelial lesion,0,data\processed\cric_crops\d67cd01defdc182ca48cee14e776f22c_cell_10857.png,True,train
+CRIC,77acea6065f24cef2351ef3bc2af43a1.png,10891,456,196,Negative for intraepithelial lesion,0,data\processed\cric_crops\77acea6065f24cef2351ef3bc2af43a1_cell_10891.png,True,train
+CRIC,77acea6065f24cef2351ef3bc2af43a1.png,10894,787,308,Negative for intraepithelial lesion,0,data\processed\cric_crops\77acea6065f24cef2351ef3bc2af43a1_cell_10894.png,True,train
+CRIC,77acea6065f24cef2351ef3bc2af43a1.png,10907,539,609,Negative for intraepithelial lesion,0,data\processed\cric_crops\77acea6065f24cef2351ef3bc2af43a1_cell_10907.png,True,train
+CRIC,77acea6065f24cef2351ef3bc2af43a1.png,10921,112,964,Negative for intraepithelial lesion,0,data\processed\cric_crops\77acea6065f24cef2351ef3bc2af43a1_cell_10921.png,True,train
+CRIC,faf0a263bf469832c7569a5ccbaa48c3.png,10933,652,283,Negative for intraepithelial lesion,0,data\processed\cric_crops\faf0a263bf469832c7569a5ccbaa48c3_cell_10933.png,True,train
+CRIC,8457af003b1ad48e907156b5e6e53bea.png,10947,1007,941,ASC-US,1,data\processed\cric_crops\8457af003b1ad48e907156b5e6e53bea_cell_10947.png,True,train
+CRIC,8457af003b1ad48e907156b5e6e53bea.png,10969,246,716,Negative for intraepithelial lesion,0,data\processed\cric_crops\8457af003b1ad48e907156b5e6e53bea_cell_10969.png,True,train
+CRIC,8457af003b1ad48e907156b5e6e53bea.png,10973,64,647,Negative for intraepithelial lesion,0,data\processed\cric_crops\8457af003b1ad48e907156b5e6e53bea_cell_10973.png,True,train
+CRIC,3659bf68aeea760b319cd0710e3651fb.png,10997,719,829,Negative for intraepithelial lesion,0,data\processed\cric_crops\3659bf68aeea760b319cd0710e3651fb_cell_10997.png,True,train
+CRIC,3659bf68aeea760b319cd0710e3651fb.png,11004,348,496,Negative for intraepithelial lesion,0,data\processed\cric_crops\3659bf68aeea760b319cd0710e3651fb_cell_11004.png,True,train
+CRIC,3659bf68aeea760b319cd0710e3651fb.png,11022,334,719,Negative for intraepithelial lesion,0,data\processed\cric_crops\3659bf68aeea760b319cd0710e3651fb_cell_11022.png,True,train
+CRIC,3659bf68aeea760b319cd0710e3651fb.png,11029,99,759,Negative for intraepithelial lesion,0,data\processed\cric_crops\3659bf68aeea760b319cd0710e3651fb_cell_11029.png,True,train
+CRIC,602e28f6537d6638bc4ccbe4cde5fab1.png,11103,846,729,Negative for intraepithelial lesion,0,data\processed\cric_crops\602e28f6537d6638bc4ccbe4cde5fab1_cell_11103.png,True,train
+CRIC,746c084dbe0b987385df13ddbf4dd635.png,11138,855,999,Negative for intraepithelial lesion,0,data\processed\cric_crops\746c084dbe0b987385df13ddbf4dd635_cell_11138.png,True,train
+CRIC,fe7dccb72ee17d6776970bdb5e5ba3ba.png,11159,810,792,Negative for intraepithelial lesion,0,data\processed\cric_crops\fe7dccb72ee17d6776970bdb5e5ba3ba_cell_11159.png,True,train
+CRIC,ac1ed15ddc7fb3d7e6a9c7521eeebe78.png,11191,150,763,Negative for intraepithelial lesion,0,data\processed\cric_crops\ac1ed15ddc7fb3d7e6a9c7521eeebe78_cell_11191.png,True,train
+CRIC,ac1ed15ddc7fb3d7e6a9c7521eeebe78.png,11200,640,420,Negative for intraepithelial lesion,0,data\processed\cric_crops\ac1ed15ddc7fb3d7e6a9c7521eeebe78_cell_11200.png,True,train
+CRIC,1766e5c4a2a6034960b40bdd3c47c297.png,11268,1027,529,Negative for intraepithelial lesion,0,data\processed\cric_crops\1766e5c4a2a6034960b40bdd3c47c297_cell_11268.png,True,train
+CRIC,fb100898ae793bb2475fd6d3ee92ef31.png,11275,1095,371,Negative for intraepithelial lesion,0,data\processed\cric_crops\fb100898ae793bb2475fd6d3ee92ef31_cell_11275.png,True,train
+CRIC,71abd3d9c8d0e5738c1db3328645fde8.png,11294,514,882,Negative for intraepithelial lesion,0,data\processed\cric_crops\71abd3d9c8d0e5738c1db3328645fde8_cell_11294.png,True,train
+CRIC,71abd3d9c8d0e5738c1db3328645fde8.png,11299,564,703,LSIL,1,data\processed\cric_crops\71abd3d9c8d0e5738c1db3328645fde8_cell_11299.png,True,train
+CRIC,71abd3d9c8d0e5738c1db3328645fde8.png,11302,43,283,Negative for intraepithelial lesion,0,data\processed\cric_crops\71abd3d9c8d0e5738c1db3328645fde8_cell_11302.png,True,train
+CRIC,1f8274db391ed2747c0c3a8560bf6d3a.png,11314,52,603,Negative for intraepithelial lesion,0,data\processed\cric_crops\1f8274db391ed2747c0c3a8560bf6d3a_cell_11314.png,True,train
+CRIC,1f8274db391ed2747c0c3a8560bf6d3a.png,11326,762,418,Negative for intraepithelial lesion,0,data\processed\cric_crops\1f8274db391ed2747c0c3a8560bf6d3a_cell_11326.png,True,train
+CRIC,1f8274db391ed2747c0c3a8560bf6d3a.png,11336,624,775,LSIL,1,data\processed\cric_crops\1f8274db391ed2747c0c3a8560bf6d3a_cell_11336.png,True,train
+CRIC,5b7cc4b7d0373fab44cc5686ba477e0c.png,11418,326,222,Negative for intraepithelial lesion,0,data\processed\cric_crops\5b7cc4b7d0373fab44cc5686ba477e0c_cell_11418.png,True,train
+CRIC,5b7cc4b7d0373fab44cc5686ba477e0c.png,11424,408,510,Negative for intraepithelial lesion,0,data\processed\cric_crops\5b7cc4b7d0373fab44cc5686ba477e0c_cell_11424.png,True,train
+CRIC,5b7cc4b7d0373fab44cc5686ba477e0c.png,11429,884,99,LSIL,1,data\processed\cric_crops\5b7cc4b7d0373fab44cc5686ba477e0c_cell_11429.png,True,train
+CRIC,4fb1ebbd1adb2da024ffe2394c1712c9.png,11444,1039,644,Negative for intraepithelial lesion,0,data\processed\cric_crops\4fb1ebbd1adb2da024ffe2394c1712c9_cell_11444.png,True,train
+CRIC,4fb1ebbd1adb2da024ffe2394c1712c9.png,11456,447,324,HSIL,1,data\processed\cric_crops\4fb1ebbd1adb2da024ffe2394c1712c9_cell_11456.png,True,train
+CRIC,9d0f43b29d78f673e9caf77928b4af3c.png,11491,550,319,ASC-US,1,data\processed\cric_crops\9d0f43b29d78f673e9caf77928b4af3c_cell_11491.png,True,train

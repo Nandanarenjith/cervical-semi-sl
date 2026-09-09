@@ -1,0 +1,2 @@
+experiment_id,source_dataset,method,label_fraction_percent,backbone,seed,checkpoint_epoch,test_samples,training_time_seconds,accuracy,precision,recall,specificity,macro_f1,auroc
+riva_supervised_5pct_densenet121_seed42,riva,supervised,5,densenet121,42,13,2552,186.36591362953186,0.679858934169279,0.5610640870616687,0.5054466230936819,0.7778457772337821,0.644289003327672,0.7165809340191945
