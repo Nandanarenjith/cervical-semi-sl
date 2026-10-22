@@ -1,0 +1,22 @@
+{
+    "dataset": "cric",
+    "model": "convnext_tiny",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.8981361074989164,
+        "precision": 0.8147651006711409,
+        "recall_sensitivity": 0.8622159090909091,
+        "specificity": 0.9139114160948222,
+        "macro_f1": 0.8817847902949902,
+        "auroc": 0.9648798594963988,
+        "tn": 1465.0,
+        "fp": 138.0,
+        "fn": 97.0,
+        "tp": 607.0
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "experiment": "regularization",
+  "model": "convnext_tiny",
+  "dataset": "cric",
+  "seed": 42,
+  "batch_size": 32,
+  "max_epochs": 100,
+  "patience": 12,
+  "lr": 0.0001,
+  "weight_decay": 0.0001,
+  "label_smoothing": 0.05,
+  "augmentation": "none",
+  "selection": "source validation Macro-F1",
+  "test_evaluated": false,
+  "split_file": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\splits_v2\\cric_splits_v2.csv"
+}

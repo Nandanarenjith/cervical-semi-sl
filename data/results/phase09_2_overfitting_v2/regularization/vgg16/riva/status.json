@@ -1,0 +1,6 @@
+{
+  "status": "completed",
+  "best_epoch": 8,
+  "best_val_macro_f1": 0.7613196318709872,
+  "last_epoch": 20
+}

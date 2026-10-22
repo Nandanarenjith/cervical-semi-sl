@@ -1,0 +1,22 @@
+{
+    "dataset": "cric",
+    "model": "vit_b16",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.9042045947117469,
+        "precision": 0.8396624472573839,
+        "recall_sensitivity": 0.8480113636363636,
+        "specificity": 0.9288833437305053,
+        "macro_f1": 0.887366082819609,
+        "auroc": 0.9586898499971643,
+        "tn": 1489.0,
+        "fp": 114.0,
+        "fn": 107.0,
+        "tp": 597.0
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "riva",
+    "model": "convnext_tiny",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.8250938673341677,
+        "precision": 0.7565610859728507,
+        "recall_sensitivity": 0.7424511545293073,
+        "specificity": 0.870048309178744,
+        "macro_f1": 0.8075485035264275,
+        "auroc": 0.8942642503496624,
+        "tn": 1801.0,
+        "fp": 269.0,
+        "fn": 290.0,
+        "tp": 836.0
+    }
+}

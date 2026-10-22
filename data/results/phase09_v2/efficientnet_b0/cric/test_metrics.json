@@ -1,0 +1,22 @@
+{
+    "dataset": "cric",
+    "model": "efficientnet_b0",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.8842652795838751,
+        "precision": 0.8055944055944056,
+        "recall_sensitivity": 0.8181818181818182,
+        "specificity": 0.9132875857766688,
+        "macro_f1": 0.8641356241749298,
+        "auroc": 0.9523066657687291,
+        "tn": 1464.0,
+        "fp": 139.0,
+        "fn": 128.0,
+        "tp": 576.0
+    }
+}

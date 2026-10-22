@@ -1,0 +1,2 @@
+dataset,method,label_fraction,backbone,seed,accuracy,precision,sensitivity,specificity,macro_f1,auroc,best_epoch,best_val_macro_f1
+CRIC,Mean Teacher,0.05,densenet121,42,0.7954677513073795,0.7004608294930875,0.7438825448613376,0.8240072202166066,0.7799514128628052,0.8746002673718059,22,0.8498447619348869

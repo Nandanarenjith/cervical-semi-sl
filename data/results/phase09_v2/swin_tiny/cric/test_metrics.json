@@ -1,0 +1,22 @@
+{
+    "dataset": "cric",
+    "model": "swin_tiny",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.9115734720416124,
+        "precision": 0.8571428571428571,
+        "recall_sensitivity": 0.8522727272727273,
+        "specificity": 0.9376169681846538,
+        "macro_f1": 0.8955747264158479,
+        "auroc": 0.9662861360800772,
+        "tn": 1503.0,
+        "fp": 100.0,
+        "fn": 104.0,
+        "tp": 600.0
+    }
+}

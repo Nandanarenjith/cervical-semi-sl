@@ -1,0 +1,22 @@
+{
+    "dataset": "cric",
+    "model": "densenet121",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.9016038144776767,
+        "precision": 0.8307905686546463,
+        "recall_sensitivity": 0.8508522727272727,
+        "specificity": 0.9238927011852776,
+        "macro_f1": 0.8847597828060273,
+        "auroc": 0.9606916009754438,
+        "tn": 1481.0,
+        "fp": 122.0,
+        "fn": 105.0,
+        "tp": 599.0
+    }
+}

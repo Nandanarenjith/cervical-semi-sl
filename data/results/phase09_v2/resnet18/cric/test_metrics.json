@@ -1,0 +1,22 @@
+{
+    "dataset": "cric",
+    "model": "resnet18",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.8964022540095362,
+        "precision": 0.8215767634854771,
+        "recall_sensitivity": 0.84375,
+        "specificity": 0.9195258889582034,
+        "macro_f1": 0.8787618058559112,
+        "auroc": 0.9544032318663869,
+        "tn": 1474.0,
+        "fp": 129.0,
+        "fn": 110.0,
+        "tp": 594.0
+    }
+}

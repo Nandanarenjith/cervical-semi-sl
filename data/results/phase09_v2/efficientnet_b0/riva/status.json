@@ -1,0 +1,5 @@
+{
+  "status": "COMPLETED",
+  "last_completed_epoch": 24,
+  "best_val_macro_f1": 0.713276942107752
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "riva",
+    "model": "efficientnet_b0",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.7944305381727159,
+        "precision": 0.7080745341614907,
+        "recall_sensitivity": 0.7087033747779752,
+        "specificity": 0.8410628019323672,
+        "macro_f1": 0.7748274105975796,
+        "auroc": 0.8598727057430431,
+        "tn": 1741.0,
+        "fp": 329.0,
+        "fn": 328.0,
+        "tp": 798.0
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "riva",
+    "model": "vgg16",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.8157071339173968,
+        "precision": 0.7412398921832885,
+        "recall_sensitivity": 0.7326820603907638,
+        "specificity": 0.8608695652173913,
+        "macro_f1": 0.7975554727948941,
+        "auroc": 0.8894886778043779,
+        "tn": 1782.0,
+        "fp": 288.0,
+        "fn": 301.0,
+        "tp": 825.0
+    }
+}

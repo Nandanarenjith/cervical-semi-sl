@@ -1,0 +1,16 @@
+{
+  "experiment": "augmentation",
+  "model": "swin_tiny",
+  "dataset": "riva",
+  "seed": 42,
+  "batch_size": 32,
+  "max_epochs": 100,
+  "patience": 12,
+  "lr": 0.0001,
+  "weight_decay": 1e-05,
+  "label_smoothing": 0.0,
+  "augmentation": "moderate",
+  "selection": "source validation Macro-F1",
+  "test_evaluated": false,
+  "split_file": "c:\\Users\\nanda\\Documents\\cervical-semi-sl\\data\\splits_v2\\riva_splits_v2.csv"
+}

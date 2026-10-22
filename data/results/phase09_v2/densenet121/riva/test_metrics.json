@@ -1,0 +1,22 @@
+{
+    "dataset": "riva",
+    "model": "densenet121",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.799749687108886,
+        "precision": 0.7055837563451777,
+        "recall_sensitivity": 0.7406749555950266,
+        "specificity": 0.8318840579710145,
+        "macro_f1": 0.7829972653988936,
+        "auroc": 0.865593653735595,
+        "tn": 1722.0,
+        "fp": 348.0,
+        "fn": 292.0,
+        "tp": 834.0
+    }
+}

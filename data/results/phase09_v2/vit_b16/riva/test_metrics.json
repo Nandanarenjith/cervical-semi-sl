@@ -1,0 +1,22 @@
+{
+    "dataset": "riva",
+    "model": "vit_b16",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.8041301627033792,
+        "precision": 0.7520161290322581,
+        "recall_sensitivity": 0.6625222024866785,
+        "specificity": 0.881159420289855,
+        "macro_f1": 0.7789855696852479,
+        "auroc": 0.8858019924318481,
+        "tn": 1824.0,
+        "fp": 246.0,
+        "fn": 380.0,
+        "tp": 746.0
+    }
+}

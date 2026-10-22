@@ -1,0 +1,35 @@
+{
+  "protocol_version": "FINAL_V2",
+  "split_version": "V2",
+  "seed": 42,
+
+  "split": {
+    "train": 0.70,
+    "validation": 0.10,
+    "test": 0.20
+  },
+
+  "datasets": {
+    "cric": {
+      "group": "image"
+    },
+    "riva": {
+      "group": "slide"
+    }
+  },
+
+  "image": {
+    "size": 128,
+    "channels": 3
+  },
+
+  "labels": {
+    "0": "normal_non_pathological",
+    "1": "abnormal_pathological"
+  },
+
+  "label_fractions": [
+    0.05,
+    0.10
+  ]
+}

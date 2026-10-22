@@ -1,0 +1,22 @@
+{
+    "dataset": "riva",
+    "model": "swin_tiny",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.8100750938673341,
+        "precision": 0.7282321899736148,
+        "recall_sensitivity": 0.7353463587921847,
+        "specificity": 0.8507246376811595,
+        "macro_f1": 0.7923815115422028,
+        "auroc": 0.884341133163436,
+        "tn": 1761.0,
+        "fp": 309.0,
+        "fn": 298.0,
+        "tp": 828.0
+    }
+}

@@ -41,7 +41,7 @@ SCC,
 792,
 462
 ```
-
+ 
 This means that:
 
 - the cell belongs to image ID `400`

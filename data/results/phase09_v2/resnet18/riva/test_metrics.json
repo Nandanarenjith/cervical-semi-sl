@@ -1,0 +1,22 @@
+{
+    "dataset": "riva",
+    "model": "resnet18",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.7956821026282853,
+        "precision": 0.7267497603068073,
+        "recall_sensitivity": 0.6731793960923623,
+        "specificity": 0.8623188405797102,
+        "macro_f1": 0.7721550965660726,
+        "auroc": 0.8640750894534971,
+        "tn": 1785.0,
+        "fp": 285.0,
+        "fn": 368.0,
+        "tp": 758.0
+    }
+}

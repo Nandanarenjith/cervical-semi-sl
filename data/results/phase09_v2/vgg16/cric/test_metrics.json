@@ -1,0 +1,22 @@
+{
+    "dataset": "cric",
+    "model": "vgg16",
+    "checkpoint": "checkpoint_best.pt",
+    "evaluation_split": "test",
+    "class_mapping": {
+        "0": "Normal / Non-pathological",
+        "1": "Abnormal / Pathological"
+    },
+    "metrics": {
+        "accuracy": 0.8912006935413957,
+        "precision": 0.7841907151819323,
+        "recall_sensitivity": 0.8877840909090909,
+        "specificity": 0.8927011852776044,
+        "macro_f1": 0.8760742650846539,
+        "auroc": 0.9607035636306924,
+        "tn": 1431.0,
+        "fp": 172.0,
+        "fn": 79.0,
+        "tp": 625.0
+    }
+}

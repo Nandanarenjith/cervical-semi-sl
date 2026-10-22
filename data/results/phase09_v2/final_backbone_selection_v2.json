@@ -1,0 +1,24 @@
+{
+    "protocol_version": "FINAL_V2",
+    "phase": "09",
+    "selection_method": "source_specific_validation",
+    "cross_dataset_selection_note": "Each transfer direction uses the backbone selected using only the source dataset's validation Macro-F1.",
+    "selections": {
+        "cric": {
+            "source_dataset": "cric",
+            "selected_backbone": "swin_tiny",
+            "selection_metric": "best_val_macro_f1",
+            "source_best_val_macro_f1": 0.9007216181309023,
+            "epoch_best_val_macro_f1": 8,
+            "selection_rule": "Highest observed validation Macro-F1 on the source dataset; target-dataset validation and test results are not used for backbone selection."
+        },
+        "riva": {
+            "source_dataset": "riva",
+            "selected_backbone": "swin_tiny",
+            "selection_metric": "best_val_macro_f1",
+            "source_best_val_macro_f1": 0.7633166996552461,
+            "epoch_best_val_macro_f1": 6,
+            "selection_rule": "Highest observed validation Macro-F1 on the source dataset; target-dataset validation and test results are not used for backbone selection."
+        }
+    }
+}
