@@ -1,0 +1,23 @@
+{
+  "run_id": "cric_10pct_pseudo_label_convnext_tiny_seed42",
+  "dataset": "cric",
+  "method": "pseudo_label",
+  "label_fraction": 0.1,
+  "backbone": "convnext_tiny",
+  "seed": 42,
+  "best_epoch": 7,
+  "best_val_macro_f1": 0.8731396249806291,
+  "test_metrics": {
+    "accuracy": 0.8599913307325531,
+    "precision": 0.7233294255568582,
+    "recall_sensitivity": 0.8764204545454546,
+    "specificity": 0.852776044915783,
+    "macro_f1": 0.8434453161290647,
+    "auroc": 0.9378243208756308,
+    "tn": 1367,
+    "fp": 236,
+    "fn": 87,
+    "tp": 617
+  },
+  "config_hash": "c995dc2d1ab462b3"
+}

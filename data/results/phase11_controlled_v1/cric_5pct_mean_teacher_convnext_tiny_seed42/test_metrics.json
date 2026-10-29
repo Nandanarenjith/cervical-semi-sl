@@ -1,0 +1,23 @@
+{
+  "run_id": "cric_5pct_mean_teacher_convnext_tiny_seed42",
+  "dataset": "cric",
+  "method": "mean_teacher",
+  "label_fraction": 0.05,
+  "backbone": "convnext_tiny",
+  "seed": 42,
+  "best_epoch": 10,
+  "best_val_macro_f1": 0.8242423389640511,
+  "test_metrics": {
+    "accuracy": 0.8309492847854356,
+    "precision": 0.7110215053763441,
+    "recall_sensitivity": 0.7514204545454546,
+    "specificity": 0.8658764815970056,
+    "macro_f1": 0.8037395776255309,
+    "auroc": 0.909157368286735,
+    "tn": 1388,
+    "fp": 215,
+    "fn": 175,
+    "tp": 529
+  },
+  "config_hash": "c995dc2d1ab462b3"
+}

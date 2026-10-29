@@ -1,0 +1,23 @@
+{
+  "run_id": "riva_5pct_fixmatch_convnext_tiny_seed42",
+  "dataset": "riva",
+  "method": "fixmatch",
+  "label_fraction": 0.05,
+  "backbone": "convnext_tiny",
+  "seed": 42,
+  "best_epoch": 24,
+  "best_val_macro_f1": 0.7312685634198396,
+  "test_metrics": {
+    "accuracy": 0.7869211514392991,
+    "precision": 0.6960352422907489,
+    "recall_sensitivity": 0.7015985790408525,
+    "specificity": 0.8333333333333334,
+    "macro_f1": 0.766977356244642,
+    "auroc": 0.8649031242223767,
+    "tn": 1725,
+    "fp": 345,
+    "fn": 336,
+    "tp": 790
+  },
+  "config_hash": "c995dc2d1ab462b3"
+}

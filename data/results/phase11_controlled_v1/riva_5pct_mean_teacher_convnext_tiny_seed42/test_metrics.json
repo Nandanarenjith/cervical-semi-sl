@@ -1,0 +1,23 @@
+{
+  "run_id": "riva_5pct_mean_teacher_convnext_tiny_seed42",
+  "dataset": "riva",
+  "method": "mean_teacher",
+  "label_fraction": 0.05,
+  "backbone": "convnext_tiny",
+  "seed": 42,
+  "best_epoch": 8,
+  "best_val_macro_f1": 0.7212381701235407,
+  "test_metrics": {
+    "accuracy": 0.7844180225281602,
+    "precision": 0.6624535315985131,
+    "recall_sensitivity": 0.7912966252220248,
+    "specificity": 0.7806763285024154,
+    "macro_f1": 0.7727225202814263,
+    "auroc": 0.8637389416600167,
+    "tn": 1616,
+    "fp": 454,
+    "fn": 235,
+    "tp": 891
+  },
+  "config_hash": "c995dc2d1ab462b3"
+}
