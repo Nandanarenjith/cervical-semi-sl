@@ -1,0 +1,26 @@
+{
+  "run_id": "cric_5pct_fixmatch_seed42",
+  "dataset": "cric",
+  "method": "fixmatch",
+  "label_fraction": 0.05,
+  "best_epoch": 7,
+  "best_val_macro_f1": 0.8420802449242668,
+  "tau_low_normal": 0.95,
+  "tau_low_abnormal": 0.95,
+  "test_metrics": {
+    "accuracy": 0.8742956220199393,
+    "precision_abnormal": 0.8194444444444444,
+    "abnormal_recall": 0.7542613636363636,
+    "specificity_normal": 0.9270118527760449,
+    "macro_f1": 0.8483002223923319,
+    "balanced_accuracy": 0.8406366082062042,
+    "auroc": 0.9423404447626609,
+    "tn": 1486,
+    "fp": 117,
+    "fn": 173,
+    "tp": 531,
+    "normal_f1": 0.9110974862047824,
+    "abnormal_f1": 0.7855029585798816
+  },
+  "config_hash": "e213e0fc343fe38f"
+}

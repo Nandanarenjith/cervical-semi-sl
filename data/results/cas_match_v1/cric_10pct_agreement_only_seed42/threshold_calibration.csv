@@ -1,0 +1,7 @@
+method,predicted_class,candidate_tau,accepted_validation_n,pseudo_label_precision,target_met,selected_tau_class,class_target_achieved
+agreement_only,0,0.6,56,0.23214285714285715,False,0.8,False
+agreement_only,0,0.7,51,0.23529411764705882,False,0.8,False
+agreement_only,0,0.8,38,0.2631578947368421,False,0.8,False
+agreement_only,1,0.6,31,0.9032258064516129,True,0.6,True
+agreement_only,1,0.7,30,0.9,True,0.6,True
+agreement_only,1,0.8,24,0.875,False,0.6,True

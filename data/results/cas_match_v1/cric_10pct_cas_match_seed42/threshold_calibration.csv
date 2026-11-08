@@ -1,0 +1,7 @@
+method,predicted_class,candidate_tau,accepted_validation_n,pseudo_label_precision,target_met,selected_tau_class,class_target_achieved
+cas_match,0,0.6,14,0.35714285714285715,False,0.8,False
+cas_match,0,0.7,13,0.38461538461538464,False,0.8,False
+cas_match,0,0.8,13,0.38461538461538464,False,0.8,False
+cas_match,1,0.6,24,0.7083333333333334,False,0.8,False
+cas_match,1,0.7,22,0.7272727272727273,False,0.8,False
+cas_match,1,0.8,19,0.6842105263157895,False,0.8,False

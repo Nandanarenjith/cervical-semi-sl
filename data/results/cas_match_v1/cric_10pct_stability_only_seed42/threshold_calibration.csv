@@ -1,0 +1,7 @@
+method,predicted_class,candidate_tau,accepted_validation_n,pseudo_label_precision,target_met,selected_tau_class,class_target_achieved
+stability_only,0,0.6,9,0.7777777777777778,False,0.8,False
+stability_only,0,0.7,8,0.75,False,0.8,False
+stability_only,0,0.8,7,0.7142857142857143,False,0.8,False
+stability_only,1,0.6,34,0.9117647058823529,True,0.6,True
+stability_only,1,0.7,30,0.9,True,0.6,True
+stability_only,1,0.8,24,0.875,False,0.6,True

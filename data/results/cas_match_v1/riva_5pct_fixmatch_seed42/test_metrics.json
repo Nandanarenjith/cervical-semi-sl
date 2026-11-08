@@ -1,0 +1,26 @@
+{
+  "run_id": "riva_5pct_fixmatch_seed42",
+  "dataset": "riva",
+  "method": "fixmatch",
+  "label_fraction": 0.05,
+  "best_epoch": 1,
+  "best_val_macro_f1": 0.723783317745688,
+  "tau_low_normal": 0.95,
+  "tau_low_abnormal": 0.95,
+  "test_metrics": {
+    "accuracy": 0.8013141426783479,
+    "precision_abnormal": 0.704412989175687,
+    "abnormal_recall": 0.7513321492007105,
+    "specificity_normal": 0.8285024154589372,
+    "macro_f1": 0.7854524484222066,
+    "balanced_accuracy": 0.7899172823298238,
+    "auroc": 0.8723545790751752,
+    "tn": 1715,
+    "fp": 355,
+    "fn": 280,
+    "tp": 846,
+    "normal_f1": 0.8437884378843789,
+    "abnormal_f1": 0.7271164589600344
+  },
+  "config_hash": "e213e0fc343fe38f"
+}

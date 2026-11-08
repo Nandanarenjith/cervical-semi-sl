@@ -1,0 +1,7 @@
+method,predicted_class,candidate_tau,accepted_validation_n,pseudo_label_precision,target_met,selected_tau_class,class_target_achieved
+lower_only,0,0.6,86,0.36046511627906974,False,0.8,False
+lower_only,0,0.7,76,0.35526315789473684,False,0.8,False
+lower_only,0,0.8,62,0.3548387096774194,False,0.8,False
+lower_only,1,0.6,61,0.8360655737704918,False,0.8,False
+lower_only,1,0.7,50,0.86,False,0.8,False
+lower_only,1,0.8,42,0.8571428571428571,False,0.8,False

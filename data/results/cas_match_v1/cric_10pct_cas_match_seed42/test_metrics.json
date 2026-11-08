@@ -1,0 +1,26 @@
+{
+  "run_id": "cric_10pct_cas_match_seed42",
+  "dataset": "cric",
+  "method": "cas_match",
+  "label_fraction": 0.1,
+  "best_epoch": 12,
+  "best_val_macro_f1": 0.8714647324933171,
+  "tau_low_normal": 0.8,
+  "tau_low_abnormal": 0.8,
+  "test_metrics": {
+    "accuracy": 0.8777633289986996,
+    "precision_abnormal": 0.7747395833333334,
+    "abnormal_recall": 0.8451704545454546,
+    "specificity_normal": 0.8920773549594511,
+    "macro_f1": 0.8593360812830377,
+    "balanced_accuracy": 0.8686239047524529,
+    "auroc": 0.9507998142687007,
+    "tn": 1430,
+    "fp": 173,
+    "fn": 109,
+    "tp": 595,
+    "normal_f1": 0.9102482495225971,
+    "abnormal_f1": 0.8084239130434783
+  },
+  "config_hash": "e213e0fc343fe38f"
+}
