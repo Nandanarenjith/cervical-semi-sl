@@ -1,0 +1,26 @@
+{
+  "run_id": "riva_5pct_lower_only_seed42",
+  "dataset": "riva",
+  "method": "lower_only",
+  "label_fraction": 0.05,
+  "best_epoch": 14,
+  "best_val_macro_f1": 0.7295363408521303,
+  "tau_low_normal": 0.8,
+  "tau_low_abnormal": 0.8,
+  "test_metrics": {
+    "accuracy": 0.795369211514393,
+    "precision_abnormal": 0.702054794520548,
+    "abnormal_recall": 0.7282415630550622,
+    "specificity_normal": 0.8318840579710145,
+    "macro_f1": 0.7776592064600376,
+    "balanced_accuracy": 0.7800628105130383,
+    "auroc": 0.8615122574887808,
+    "tn": 1722,
+    "fp": 348,
+    "fn": 306,
+    "tp": 820,
+    "normal_f1": 0.8404099560761347,
+    "abnormal_f1": 0.7149084568439407
+  },
+  "config_hash": "e213e0fc343fe38f"
+}

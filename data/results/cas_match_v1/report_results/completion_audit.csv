@@ -1,0 +1,21 @@
+dataset,label_budget,method,completed_runs,seeds_found,status
+CRIC,5%,FixMatch,1,42,Available
+CRIC,5%,Lower-only,1,42,Available
+CRIC,5%,Agreement-only,1,42,Available
+CRIC,5%,Stability-only,1,42,Available
+CRIC,5%,CAS-Match,1,42,Available
+CRIC,10%,FixMatch,1,42,Available
+CRIC,10%,Lower-only,1,42,Available
+CRIC,10%,Agreement-only,1,42,Available
+CRIC,10%,Stability-only,1,42,Available
+CRIC,10%,CAS-Match,1,42,Available
+RIVA,5%,FixMatch,1,42,Available
+RIVA,5%,Lower-only,1,42,Available
+RIVA,5%,Agreement-only,0,None,Not available
+RIVA,5%,Stability-only,0,None,Not available
+RIVA,5%,CAS-Match,0,None,Not available
+RIVA,10%,FixMatch,0,None,Not available
+RIVA,10%,Lower-only,0,None,Not available
+RIVA,10%,Agreement-only,0,None,Not available
+RIVA,10%,Stability-only,0,None,Not available
+RIVA,10%,CAS-Match,0,None,Not available

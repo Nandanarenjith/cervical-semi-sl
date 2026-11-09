@@ -1,0 +1,94 @@
+{
+  "seed": 42,
+  "datasets": [
+    "cric"
+  ],
+  "fractions": [
+    0.05,
+    0.1
+  ],
+  "methods": [
+    "supervised",
+    "supervised_strong",
+    "supervised_full",
+    "fixmatch",
+    "fixmatch_tau80",
+    "cas_match"
+  ],
+  "backbone": "convnext_tiny",
+  "image_size": 128,
+  "batch_size": 8,
+  "num_workers": 0,
+  "amp_enabled": true,
+  "max_epochs": 60,
+  "patience": 10,
+  "lr": 0.0001,
+  "seeds_core": [
+    42,
+    43,
+    44
+  ],
+  "seeds_primary": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "weight_decay": 0.0001,
+  "tau_high": 0.95,
+  "tau_low_fixed": 0.8,
+  "ema_decay": 0.995,
+  "val_smooth_window": 3,
+  "min_select_epoch": 8,
+  "target_specificity": 0.9,
+  "training_step_policy": "supervised_low_label_matches_unlabeled_batches_per_epoch_with_same_seeded_labeled_sampling; full_supervised_one_labeled_pass",
+  "pseudo_label_inference_mode": "eval_disable_stochastic_depth",
+  "memory_k": 5,
+  "memory_min": 3,
+  "stability_min": 0.8,
+  "unsup_weight": 1.0,
+  "augmentations": {
+    "weak": {
+      "horizontal_flip_p": 0.5,
+      "rotation_degrees": 8
+    },
+    "strong": {
+      "random_resized_crop_scale": [
+        0.8,
+        1.0
+      ],
+      "ratio": [
+        0.9,
+        1.1
+      ],
+      "color_jitter": [
+        0.15,
+        0.15,
+        0.1,
+        0.02
+      ],
+      "cutout_fraction": 0.25
+    },
+    "normalization_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "normalization_std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "manifest_sha256": {
+    "cric": "7362a3be28424d4e7a196122db76269ae21a8789a3121a7dccd9881771bfaa63"
+  },
+  "dataset": "cric",
+  "fraction": 0.05,
+  "method": "supervised",
+  "labeled_subset_sha256": "ab413d5df1d3265ea581af4152823c879cb5bfd22845440ac74f8bc2659de577",
+  "validation_sha256": "204fe4e989a2178925dc362e9880b2535649fb0f5c26c6372fec6262474d57f0",
+  "test_sha256": "02783760c46de9d1369309281c3fbd73e3e1bb4d752648fd2b68fd2f1e27e653",
+  "run_hash": "12949dcf3310e8ffd706"
+}

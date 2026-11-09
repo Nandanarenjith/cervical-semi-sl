@@ -1,0 +1,5 @@
+,,cas_minus_fixmatch_macro_f1,cas_minus_fixmatch_macro_f1,cas_minus_fixmatch_macro_f1,cas_minus_fixmatch_auroc,cas_minus_fixmatch_auroc,cas_minus_fixmatch_auroc,cas_minus_fixmatch_abnormal_recall,cas_minus_fixmatch_abnormal_recall,cas_minus_fixmatch_abnormal_recall,cas_minus_fixmatch_specificity_normal,cas_minus_fixmatch_specificity_normal,cas_minus_fixmatch_specificity_normal
+,,mean,std,count,mean,std,count,mean,std,count,mean,std,count
+dataset,label_budget,,,,,,,,,,,,
+CRIC,10%,0.005736219739250981,,1,0.0029401548233426444,,1,0.051136363636363646,,1,-0.019962570180910744,,1
+CRIC,5%,-0.0013855407486720317,,1,-0.0008271954573809692,,1,-0.024147727272727293,,1,0.011852776044915747,,1

@@ -1,0 +1,2 @@
+epoch,optimizer_steps,train_loss,val_macro_f1_ema,val_auroc_ema,val_auprc_ema,val_macro_f1_smoothed,pseudo_accepted_n,pseudo_pool_n,pseudo_acceptance_rate,tau_high,tau_low_fixed
+1,959,0.0733485884412859,0.8278948119881105,0.9183383247631426,0.8940257151348114,0.8278948119881105,0,0,0.0,0.95,0.8
